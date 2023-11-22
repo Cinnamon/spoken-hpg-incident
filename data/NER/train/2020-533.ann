@@ -1,0 +1,16 @@
+T1	Chemical 16 20	メラミン
+T2	Storage 16 25	メラミン 合成施設
+T3	Storage 25 34	レベルタンク調節弁
+T4	Product 56 64	アンモニア ガス
+T5	Incident 65 68	漏えい
+T6	Incident 89 92	漏えい
+T7	Storage 103 109	局所排気装置
+T8	Product 113 121	アンモニア ガス
+T9	Process 122 124	回収
+T10	Storage 129 134	製造ライン
+T11	Storage 153 158	製造ライン
+T12	Storage 185 190	製造ライン
+T14	Product 199 201	窒素
+T15	Process 199 203	窒素置換
+T13	Storage 222 227	製造ライン
+T16	Process 228 230	脱圧

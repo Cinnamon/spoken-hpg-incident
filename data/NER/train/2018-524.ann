@@ -1,0 +1,10 @@
+T1	Test 0 5	パトロール
+T2	Storage 11 15	熱交換器
+T3	Chemical 19 21	水滴
+T4	Product 34 38	水素ガス
+T5	Incident 39 41	検知
+T6	Test 58 63	気密テスト
+T7	Storage 72 76	熱交換器
+T8	Storage 76 79	シェル
+T9	Incident 81 83	割れ
+T10	Test 90 92	調査

@@ -1,0 +1,14 @@
+T2	Chemical 0 5	界面活性剤
+T1	Storage 0 9	界面活性剤製造装置
+T3	Storage 14 17	反応槽
+T4	Storage 60 66	配管フランジ
+T5	Product 69 75	酸化エチレン
+T6	Incident 76 79	漏えい
+T7	Storage 106 109	ポンプ
+T8	Storage 114 116	貯槽
+T9	Storage 117 122	緊急遮断弁
+T10	Storage 128 134	配管フランジ
+T12	Chemical 143 148	アスベスト
+T11	Storage 143 153	アスベストガスケット
+T13	Incident 154 158	劣化欠損
+T14	Incident 160 165	噴出漏えい

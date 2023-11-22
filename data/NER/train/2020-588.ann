@@ -1,0 +1,8 @@
+T1	Test 18 23	パトロール
+T2	Product 25 29	液化塩素
+T3	Storage 25 33	液化塩素製造施設
+T4	Storage 33 38	液面調節弁
+T5	Storage 39 49	バルブ本体ボンネット
+T6	Storage 50 54	フランジ
+T7	Product 58 60	塩素
+T8	Incident 61 64	漏えい

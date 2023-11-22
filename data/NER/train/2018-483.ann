@@ -1,0 +1,17 @@
+T2	Product 7 10	フロン
+T1	Storage 7 13	フロン冷凍機
+T3	Incident 14 18	能力低下
+T4	Test 32 34	点検
+T12	Storage 43 47	ユニット
+T6	Product 48 50	冷媒
+T5	Storage 48 53	冷媒凝縮器
+T7	Chemical 54 57	冷却水
+T8	Product 59 62	フロン
+T9	Storage 69 72	凝縮器
+T11	Product 75 78	フロン
+T10	Incident 75 80	フロン漏れ
+T13	Storage 90 94	ユニット
+T14	Incident 104 108	事故発生
+T15	Storage 115 120	冷媒凝縮器
+T16	Storage 121 128	プレート式熱交
+T17	Test 141 145	原因究明

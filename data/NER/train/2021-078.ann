@@ -1,0 +1,8 @@
+T1	Test 4 10	定期巡回点検
+T2	Storage 12 15	再生塔
+T3	Chemical 20 30	モノエタノールアミン
+T4	Chemical 33 36	MEA
+T5	Incident 38 41	漏えい
+T7	Chemical 53 63	モノエタノールアミン
+T6	Storage 53 66	モノエタノールアミン 装置
+T8	Chemical 80 83	MEA

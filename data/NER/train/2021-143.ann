@@ -1,0 +1,13 @@
+T1	Incident 9 13	液面低下
+T2	Test 32 34	点検
+T3	Storage 35 38	蒸発器
+T5	Product 40 43	フロン
+T4	Incident 40 46	フロン漏えい
+T13	Incident 47 49	断定
+T6	Storage 51 57	コンデンサー
+T7	Storage 60 64	レシーバ
+T8	Product 69 72	フロン
+T9	Incident 80 83	漏えい
+T10	Product 97 100	フロン
+T11	Process 103 105	回収
+T12	Storage 109 111	設備

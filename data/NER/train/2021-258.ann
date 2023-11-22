@@ -1,0 +1,10 @@
+T2	Product 20 24	液化窒索
+T1	Storage 20 29	液化窒索出荷ゲート
+T3	Storage 32 37	ローリー車
+T4	Process 43 46	充てん
+T5	Storage 51 57	フレキホース
+T6	Incident 60 63	漏えい
+T7	Test 93 96	発砲液
+T8	Incident 102 104	漏洩
+T9	Storage 111 117	フレキホース
+T10	Storage 145 151	フレキホース

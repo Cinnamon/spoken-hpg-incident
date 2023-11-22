@@ -1,0 +1,14 @@
+T2	Chemical 0 5	二硫化炭素
+T1	Storage 0 9	二硫化炭素製造装置
+T3	Storage 10 13	反応炉
+T4	Storage 14 17	反応器
+T5	Storage 18 22	連絡配管
+T6	Storage 26 38	温度計保護管付きフランジ
+T7	Storage 39 45	弁付フランジ
+T8	Storage 64 66	配管
+T9	Product 71 73	ガス
+T10	Incident 84 86	事故
+T12	Product 92 94	窒素
+T11	Process 92 97	窒素パージ
+T14	Product 101 103	ガス
+T13	Test 101 107	ガス濃度測定

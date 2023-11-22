@@ -1,0 +1,20 @@
+T1	Storage 8 17	プライマリーポンプ
+T3	Storage 53 56	ポンプ
+T5	Storage 70 75	リアクター
+T6	Test 102 109	施設パトロール
+T7	Storage 111 120	プライマリーポンプ
+T8	Storage 121 140	メカニカルシール クーリング 用ライン
+T9	Incident 150 152	冷気
+T21	Storage 160 162	設備
+T4	Product 198 200	ガス
+T10	Incident 198 203	ガス検発報
+T11	Storage 216 225	プライマリーポンプ
+T12	Process 226 229	孤立化
+T13	Process 230 232	脱圧
+T15	Product 237 239	窒素
+T14	Process 237 241	窒素加圧
+T16	Incident 243 246	漏えい
+T17	Test 249 251	調査
+T18	Storage 259 278	メカニカルシール クーリング 用ライン
+T19	Incident 292 295	漏えい
+T20	Test 306 308	調査

@@ -1,0 +1,12 @@
+T1	Storage 19 21	容器
+T3	Product 31 35	高圧ガス
+T2	Storage 31 37	高圧ガス容器
+T4	Product 49 55	液化石油ガス
+T5	Storage 102 105	事業所
+T8	Test 137 141	現地確認
+T7	Product 151 157	液化石油ガス
+T6	Storage 151 159	液化石油ガス容器
+T9	Incident 195 197	盗難
+T10	Incident 213 215	盗難
+T11	Product 226 232	液化石油ガス
+T12	Storage 264 267	事業所

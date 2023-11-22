@@ -1,0 +1,28 @@
+T1	Storage 6 14	ローリー充てん所
+T2	Process 19 21	荷役
+T3	Storage 26 28	車両
+T4	Storage 29 33	積込み口
+T5	Storage 34 38	キャップ
+T6	Storage 56 60	ローリー
+T7	Storage 61 67	積込みコック
+T8	Storage 75 79	積込み口
+T9	Product 82 87	LP ガス
+T10	Incident 88 92	噴き出し
+T11	Incident 93 95	被液
+T12	Incident 99 103	低温火傷
+T13	Storage 116 120	ローリー
+T15	Product 122 123	液
+T14	Storage 122 127	液取出入弁
+T16	Storage 128 132	キャップ
+T17	Chemical 151 154	潤滑油
+T18	Storage 186 190	キャップ
+T19	Chemical 173 176	グリス
+T20	Storage 168 172	キャップ
+T21	Storage 205 209	ブロー弁
+T23	Product 223 224	液
+T22	Storage 223 228	液取出入弁
+T24	Storage 229 234	元弁コック
+T25	Storage 242 244	配管
+T26	Product 247 252	LP ガス
+T27	Incident 253 257	噴き出し
+T28	Incident 257 259	被液

@@ -1,0 +1,11 @@
+T1	Storage 18 21	冷凍機
+T2	Product 22 24	冷媒
+T3	Process 22 26	冷媒回収
+T4	Process 35 38	充てん
+T5	Process 48 50	回収
+T6	Incident 65 68	漏えい
+T7	Incident 74 77	漏えい
+T8	Storage 104 107	冷凍機
+T9	Storage 136 139	冷凍機
+T10	Storage 140 143	圧力計
+T11	Incident 148 151	漏えい

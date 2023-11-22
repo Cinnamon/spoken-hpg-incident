@@ -1,0 +1,10 @@
+T1	Test 7 11	定期巡回
+T2	Incident 18 21	漏えい
+T3	Test 26 28	調査
+T4	Storage 34 37	バルブ
+T5	Storage 38 42	フランジ
+T6	Incident 45 48	漏えい
+T7	Storage 56 63	コンプレッサー
+T8	Process 70 73	縁切り
+T9	Incident 74 77	漏えい
+T10	Incident 89 96	締付け管理不良

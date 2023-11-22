@@ -1,0 +1,24 @@
+T1	Storage 25 27	貯槽
+T2	Product 30 35	アンモニア
+T3	Process 43 48	受入れ作業
+T4	Product 68 73	アンモニア
+T5	Incident 68 75	アンモニア 臭
+T6	Product 94 99	アンモニア
+T7	Storage 94 102	アンモニア 貯槽
+T8	Storage 107 119	ローリー受入用同圧バルブ
+T9	Incident 122 125	漏えい
+T10	Incident 130 133	漏えい
+T12	Storage 136 141	局排ダクト
+T13	Storage 151 154	バルブ
+T14	Storage 160 163	ナット
+T15	Incident 171 174	漏えい
+T16	Storage 186 189	バルブ
+T17	Storage 199 204	局排ダクト
+T18	Incident 208 211	漏えい
+T19	Product 215 217	ガス
+T20	Storage 221 225	除害設備
+T23	Storage 253 255	貯槽
+T24	Product 257 265	液化 アンモニア
+T25	Storage 267 272	消費ライン
+T26	Process 273 279	送り出す作業
+T11	Process 294 299	送出し作業

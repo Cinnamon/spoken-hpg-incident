@@ -1,0 +1,11 @@
+T2	Chemical 0 10	塩化ビニールポリマー
+T1	Storage 0 16	塩化ビニールポリマー回収ホルダー
+T3	Storage 26 32	ミスト分離器
+T4	Storage 60 66	ミスト分離器
+T5	Storage 67 70	ピット
+T6	Storage 85 91	ミスト分離器
+T7	Storage 92 95	バルブ
+T8	Product 113 117	有毒ガス
+T9	Storage 127 130	ピット
+T10	Incident 132 136	酸欠状態
+T11	Incident 139 143	呼吸不全

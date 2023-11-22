@@ -1,0 +1,12 @@
+T1	Storage 18 21	冷凍機
+T2	Incident 29 31	警報
+T3	Incident 33 39	低圧異常表示
+T4	Test 79 81	調査
+T5	Test 61 63	調査
+T6	Storage 86 89	蒸発器
+T7	Product 91 93	冷媒
+T8	Storage 91 95	冷媒配管
+T9	Product 102 106	冷媒ガス
+T10	Incident 107 109	漏洩
+T11	Product 123 127	冷媒ガス
+T12	Incident 153 155	減少

@@ -1,0 +1,8 @@
+T8	Product 9 13	液化窒素
+T1	Storage 9 15	液化窒素貯槽
+T2	Storage 16 21	内槽安全弁
+T3	Test 22 24	点検
+T4	Storage 46 50	ユニオン
+T5	Incident 32 35	漏えい
+T6	Storage 26 30	ユニオン
+T7	Incident 55 58	漏えい

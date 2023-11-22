@@ -1,0 +1,20 @@
+T2	Product 0 4	液化窒素
+T1	Storage 0 6	液化窒素貯槽
+T3	Storage 7 10	送液弁
+T4	Storage 11 19	入口、出口側配管
+T5	Incident 33 37	ガス漏れ
+T6	Storage 43 47	貯槽元弁
+T7	Storage 48 50	配管
+T8	Chemical 51 53	ろう
+T9	Incident 59 61	き裂
+T10	Product 64 66	窒素
+T11	Incident 67 70	漏えい
+T12	Incident 79 83	経年劣化
+T20	Storage 90 92	設備
+T15	Incident 124 126	伸縮
+T13	Chemical 132 134	ろう
+T14	Incident 138 141	貫通傷
+T16	Storage 161 163	設備
+T17	Storage 164 166	配管
+T18	Test 173 178	PT 検査
+T19	Incident 180 181	傷

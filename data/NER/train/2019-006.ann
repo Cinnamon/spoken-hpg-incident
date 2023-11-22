@@ -1,0 +1,17 @@
+T1	Storage 0 8	エアリングチラー
+T2	Incident 24 26	不調
+T3	Test 33 39	メーカー点検
+T4	Storage 48 51	電磁弁
+T5	Incident 52 56	作動不良
+T6	Storage 80 84	PO工場
+T7	Storage 89 92	電磁弁
+T8	Product 103 105	冷媒
+T9	Process 106 108	回収
+T10	Process 118 121	充てん
+T11	Product 126 128	冷媒
+T12	Incident 129 134	全量漏えい
+T14	Storage 139 141	機器
+T13	Incident 139 143	機器振動
+T15	Incident 147 149	疲労
+T16	Incident 155 157	き裂
+T17	Incident 160 163	漏えい

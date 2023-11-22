@@ -1,0 +1,15 @@
+T16	Process 0 2	供給
+T1	Storage 19 21	導管
+T2	Test 22 24	点検
+T3	Incident 48 51	漏えい
+T15	Process 98 100	供給
+T5	Storage 102 107	送液ポンプ
+T6	Storage 111 114	バルブ
+T7	Storage 117 121	クランプ
+T8	Incident 124 127	漏えい
+T9	Incident 147 150	漏えい
+T10	Storage 156 158	導管
+T11	Storage 159 161	架台
+T12	Chemical 167 169	雨水
+T17	Incident 170 172	浸入
+T13	Incident 179 183	外面腐食

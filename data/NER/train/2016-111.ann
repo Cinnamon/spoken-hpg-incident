@@ -1,0 +1,86 @@
+T2	Chemical 15 17	残油
+T1	Storage 15 25	残油流動接触分解装置
+T3	Test 27 31	定期巡回
+T5	Chemical 43 55	高 オクタン 価ガソリン
+T4	Storage 43 67	高 オクタン 価ガソリン製造装置熱交換器下流配管
+T6	Product 69 75	液化石油ガス
+T7	Chemical 76 80	ガソリン
+T8	Incident 85 88	漏えい
+T9	Incident 115 118	漏えい
+T10	Storage 123 129	フレアライン
+T11	Process 131 133	脱圧
+T12	Incident 174 177	漏えい
+T13	Product 181 187	液化石油ガス
+T14	Chemical 188 192	ガソリン
+T15	Incident 197 200	漏えい
+T16	Incident 230 233	漏えい
+T17	Storage 249 254	配管ライン
+T18	Product 255 257	窒素
+T19	Process 258 260	封入
+T20	Incident 267 270	漏えい
+T21	Storage 275 278	流量計
+T22	Incident 300 302	流量
+T23	Incident 303 305	低下
+T24	Incident 331 334	漏えい
+T25	Storage 339 341	配管
+T26	Storage 355 364	配管フランジネック
+T27	Incident 376 378	開口
+T28	Storage 389 391	配管
+T29	Test 394 398	目視確認
+T30	Incident 404 408	外面腐食
+T31	Incident 409 413	溶接欠陥
+T32	Storage 420 422	配管
+T33	Incident 429 431	腐食
+T34	Storage 445 447	配管
+T35	Chemical 450 454	ドレン水
+T38	Process 455 457	回収
+T36	Test 458 460	分析
+T37	Product 466 473	塩化物 イオン
+T39	Incident 475 477	腐食
+T75	Incident 504 506	破壊
+T40	Test 504 508	破壊検査
+T41	Incident 515 518	漏えい
+T42	Incident 534 536	減肉
+T43	Incident 527 529	減肉
+T44	Product 540 547	塩化物 イオン
+T45	Incident 551 553	腐食
+T46	Incident 557 559	付着
+T48	Chemical 580 583	原料油
+T47	Chemical 584 587	遊離水
+T49	Chemical 592 594	海水
+T50	Chemical 597 606	塩化 マグネシウム
+T51	Storage 608 611	蒸留塔
+T52	Incident 616 620	加水分解
+T53	Product 625 629	塩化水素
+T54	Incident 630 632	生成
+T55	Product 636 640	塩化水素
+T56	Storage 641 645	熱交換器
+T57	Chemical 647 650	凝縮水
+T58	Incident 651 653	溶解
+T59	Product 660 667	塩化物 イオン
+T60	Storage 669 673	熱交換器
+T61	Storage 676 678	配管
+T62	Incident 681 684	漏えい
+T63	Incident 688 690	腐食
+T64	Product 722 729	塩化物 イオン
+T65	Incident 733 735	腐食
+T66	Storage 740 742	配管
+T67	Incident 743 745	減肉
+T68	Test 758 760	測定
+T69	Incident 762 765	漏えい
+T70	Incident 793 796	漏えい
+T71	Storage 807 809	配管
+T72	Storage 827 829	配管
+T74	Incident 834 836	破壊
+T73	Test 834 838	破壊検査
+T76	Incident 845 847	腐食
+T77	Incident 868 870	腐食
+T78	Storage 881 883	配管
+T79	Chemical 903 906	中和剤
+T80	Chemical 907 912	防食皮膜剤
+T81	Process 914 916	注入
+T82	Incident 919 921	腐食
+T83	Storage 958 960	配管
+T84	Storage 963 965	配管
+T85	Test 969 971	検査
+T86	Incident 980 982	腐食

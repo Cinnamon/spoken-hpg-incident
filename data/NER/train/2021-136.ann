@@ -1,0 +1,13 @@
+T1	Storage 0 11	アルキレーション 装置
+T2	Storage 27 30	反応槽
+T3	Chemical 34 36	液体
+T4	Incident 37 40	漏えい
+T5	Incident 41 43	覚知
+T6	Test 63 67	現場確認
+T7	Storage 72 96	反応槽ミキサーメカニカルフラッシングリターン配管
+T8	Product 99 102	LPG
+T9	Incident 104 109	少量漏えい
+T10	Storage 114 125	アルキレーション 装置
+T12	Incident 133 136	漏えい
+T11	Storage 133 138	漏えい配管
+T13	Process 139 142	縁切り

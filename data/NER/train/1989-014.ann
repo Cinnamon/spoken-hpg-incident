@@ -1,0 +1,15 @@
+T1	Storage 8 16	クレーン付掘削機
+T2	Incident 21 23	横転
+T3	Product 29 35	液化石油ガス
+T4	Storage 36 40	出荷設備
+T5	Storage 41 44	ポンプ
+T6	Storage 46 48	配管
+T7	Incident 50 52	破損
+T8	Product 54 58	LPガス
+T9	Incident 59 62	漏えい
+T10	Incident 63 65	火災
+T11	Storage 71 74	掘削機
+T12	Test 75 80	傾斜検出器
+T13	Test 85 90	角度指示計
+T14	Incident 95 97	差異
+T15	Incident 123 125	転倒

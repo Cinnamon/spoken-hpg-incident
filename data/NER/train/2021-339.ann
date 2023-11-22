@@ -1,0 +1,23 @@
+T1	Incident 0 2	事故
+T3	Chemical 5 13	高級 アルコール
+T2	Storage 5 18	高級 アルコール 製造施設
+T5	Chemical 19 21	触媒
+T4	Process 19 25	触媒発生工程
+T6	Test 67 72	パトロール
+T7	Storage 74 85	ジェネレーター入口配管
+T9	Product 90 92	ガス
+T8	Incident 88 95	携帯ガス検発報
+T10	Storage 108 114	下部配管保温
+T11	Incident 126 128	検知
+T12	Storage 159 161	配管
+T13	Process 162 165	縁切り
+T14	Process 169 171	降温
+T15	Process 172 174	脱圧
+T16	Storage 178 181	保温材
+T17	Test 186 190	目視検査
+T18	Product 192 197	不活性ガス
+T19	Test 200 204	発泡試験
+T20	Test 232 235	現像液
+T21	Chemical 251 253	油分
+T22	Incident 254 256	滲み
+T23	Incident 257 260	漏えい

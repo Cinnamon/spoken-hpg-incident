@@ -1,0 +1,40 @@
+T2	Chemical 0 6	ポリエチレン
+T1	Storage 0 11	ポリエチレン 製造施設
+T3	Test 13 18	パトロール
+T5	Product 21 25	エチレン
+T4	Storage 21 31	エチレン 供給圧縮機
+T6	Storage 33 51	1段 吐出安全弁ベントバルブ入口配管
+T7	Incident 60 62	振動
+T8	Incident 63 65	感知
+T10	Product 72 76	エチレン
+T9	Incident 72 78	エチレン 臭
+T12	Product 96 98	ガス
+T11	Test 94 101	携帯ガス検知器
+T13	Storage 108 111	ライン
+T15	Product 112 114	ガス
+T16	Incident 114 117	漏えい
+T14	Test 112 118	ガス漏えい検
+T17	Product 128 132	エチレン
+T18	Incident 134 137	漏えい
+T19	Chemical 148 152	スチーム
+T20	Incident 158 160	着火
+T21	Storage 180 182	機器
+T22	Process 183 185	脱圧
+T23	Storage 196 206	配管取付サポート架台
+T24	Incident 209 211	振動
+T25	Storage 215 217	配管
+T26	Incident 220 222	応力
+T27	Incident 223 225	集中
+T28	Storage 229 235	仮付けピース
+T29	Storage 241 250	芯合わせ用仮付け板
+T30	Incident 257 259	亀裂
+T31	Incident 279 281	振動
+T32	Incident 284 286	疲労
+T33	Incident 287 289	亀裂
+T34	Storage 290 292	配管
+T35	Product 301 308	エチレン ガス
+T36	Incident 309 312	漏えい
+T37	Incident 325 327	破断
+T38	Incident 329 330	錆
+T39	Incident 341 343	亀裂
+T40	Incident 348 350	貫通

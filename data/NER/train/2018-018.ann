@@ -1,0 +1,25 @@
+T1	Chemical 0 5	HYPOL
+T2	Storage 0 10	HYPOL プラント
+T3	Test 17 24	定期パトロール
+T4	Chemical 29 30	液
+T5	Incident 29 33	液だまり
+T6	Storage 46 48	配管
+T7	Chemical 39 41	液滴
+T8	Storage 56 58	配管
+T9	Storage 49 52	保温材
+T10	Storage 84 86	配管
+T12	Incident 94 99	にじみ漏れ
+T13	Process 115 117	重合
+T14	Incident 125 128	漏えい
+T15	Storage 146 152	配管ソケット
+T16	Chemical 155 162	フッ素 イオン
+T17	Chemical 165 171	塩素 イオン
+T18	Incident 173 175	残留
+T25	Incident 176 181	エルボ製作
+T19	Incident 190 194	残留応力
+T20	Storage 195 197	配管
+T21	Chemical 202 208	SUS304
+T22	Storage 216 218	配管
+T23	Storage 222 226	ソケット
+T24	Incident 228 234	応力腐食割れ
+T26	Storage 36 38	配管

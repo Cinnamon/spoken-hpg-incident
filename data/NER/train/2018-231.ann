@@ -1,0 +1,13 @@
+T1	Product 12 16	液化酸素
+T2	Storage 12 19	液化酸素ポンプ
+T3	Storage 20 25	ケーシング
+T4	Product 35 39	窒素ガス
+T5	Test 42 46	気密試験
+T6	Storage 66 71	ケーシング
+T7	Incident 77 79	漏れ
+T8	Incident 80 84	カニ泡程
+T9	Product 99 103	窒素ガス
+T10	Incident 104 107	漏えい
+T11	Storage 114 116	配管
+T12	Incident 122 126	初期欠陥
+T13	Storage 127 129	鋳巣

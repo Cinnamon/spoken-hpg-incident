@@ -1,0 +1,15 @@
+T1	Product 19 21	窒素
+T2	Storage 19 25	窒素製造装置
+T4	Chemical 37 38	油
+T15	Chemical 42 43	銅
+T3	Storage 29 44	フレオン 冷凍機油漉器出口銅管
+T6	Chemical 51 52	油
+T5	Incident 51 54	油漏れ
+T8	Storage 60 62	装置
+T7	Test 92 96	現場確認
+T9	Test 106 108	点検
+T10	Incident 140 143	漏えい
+T11	Test 146 148	点検
+T13	Chemical 152 153	銅
+T12	Storage 152 154	銅管
+T14	Incident 160 162	割れ

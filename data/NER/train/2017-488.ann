@@ -1,0 +1,33 @@
+T1	Product 0 3	LPG
+T2	Storage 0 14	LPG 受入、貯蔵、出荷設備
+T4	Product 17 20	ブタン
+T3	Storage 141 148	ブタン揚荷配管
+T5	Storage 30 35	防食テープ
+T6	Incident 37 41	外面腐食
+T7	Incident 45 47	穿孔
+T8	Product 66 69	LPG
+T9	Product 72 75	ブタン
+T10	Incident 78 81	漏えい
+T11	Storage 87 89	配管
+T12	Incident 101 104	漏えい
+T32	Storage 107 110	ライン
+T14	Product 141 144	ブタン
+T15	Chemical 149 150	氷
+T16	Incident 151 153	付着
+T17	Product 165 168	LPG
+T18	Incident 170 173	漏えい
+T33	Incident 174 176	覚知
+T19	Storage 191 194	手動弁
+T20	Storage 199 201	配管
+T21	Product 203 206	残ガス
+T22	Storage 207 210	フレア
+T23	Process 211 213	移送
+T24	Process 215 217	降圧
+T25	Incident 232 235	漏えい
+T27	Product 265 267	窒素
+T26	Process 265 270	窒素パージ
+T28	Process 292 295	パージ
+T29	Storage 297 301	仕切り板
+T30	Incident 309 312	漏えい
+T31	Process 315 318	縁切り
+T13	Storage 17 25	ブタン 揚荷配管

@@ -1,0 +1,19 @@
+T1	Test 15 20	パトロール
+T2	Storage 23 29	マザーボンベ
+T3	Storage 36 37	弁
+T4	Storage 54 65	弁本体 リーク ポート
+T5	Chemical 70 72	結晶
+T7	Product 82 84	ガス
+T6	Test 82 87	ガス検知器
+T8	Incident 88 90	発報
+T10	Product 103 105	ガス
+T9	Test 97 108	ポータブル ガス検知器
+T11	Incident 110 112	検知
+T12	Chemical 121 123	結晶
+T13	Storage 130 136	マザーボンベ
+T14	Process 137 141	脱圧作業
+T15	Storage 158 164	マザーボンベ
+T16	Storage 165 170	充填ライン
+T17	Process 171 173	脱圧
+T19	Product 175 177	窒素
+T18	Process 175 181	窒素 パージ

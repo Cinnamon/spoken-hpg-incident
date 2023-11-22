@@ -1,0 +1,15 @@
+T1	Storage 3 9	充てんホース
+T2	Storage 27 30	FCV
+T3	Process 31 34	充てん
+T5	Product 41 43	ガス
+T4	Test 36 46	ポータブルガス検知器
+T7	Incident 47 49	漏洩
+T6	Test 47 51	漏洩検査
+T8	Incident 65 67	検知
+T9	Storage 81 98	ディスペンサー構成部品、離脱カプラ
+T10	Storage 105 109	Oリング
+T11	Incident 110 112	劣化
+T12	Incident 115 120	微量漏えい
+T14	Product 137 139	ガス
+T13	Test 132 142	ポータブルガス検知器
+T15	Incident 143 145	検知

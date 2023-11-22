@@ -1,0 +1,16 @@
+T1	Storage 12 15	冷凍機
+T2	Incident 19 23	異常発報
+T4	Product 44 46	冷媒
+T3	Incident 29 34	冷媒漏えい
+T5	Product 29 31	冷媒
+T6	Process 47 49	回収
+T7	Process 57 59	封入
+T8	Process 70 72	回収
+T9	Incident 78 81	漏えい
+T10	Storage 108 111	凝縮器
+T11	Test 98 102	詳細調査
+T12	Storage 94 97	凝縮器
+T14	Chemical 112 113	銅
+T13	Storage 112 115	銅配管
+T15	Incident 116 118	亀裂
+T16	Incident 120 121	穴

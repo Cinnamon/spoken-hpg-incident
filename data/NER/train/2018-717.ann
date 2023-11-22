@@ -1,0 +1,11 @@
+T1	Storage 0 8	小型容器充てん場
+T2	Storage 13 16	中間弁
+T3	Storage 17 21	VR継手
+T4	Product 29 31	ガス
+T5	Incident 32 34	漏洩
+T6	Storage 39 44	VCR継手
+T7	Incident 55 57	漏洩
+T8	Storage 72 75	フレキ
+T9	Storage 86 91	VCR継手
+T11	Incident 92 94	緩み
+T10	Incident 95 97	漏洩

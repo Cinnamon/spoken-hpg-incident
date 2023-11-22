@@ -1,0 +1,10 @@
+T1	Test 0 4	現場巡回
+T3	Product 6 8	窒素
+T2	Storage 6 12	窒素供給設備
+T4	Storage 13 16	蒸発器
+T5	Incident 23 26	漏洩音
+T6	Incident 27 29	覚知
+T8	Product 46 50	窒素ガス
+T7	Storage 43 52	蒸発器窒素ガス側管
+T9	Incident 61 64	漏えい
+T10	Incident 65 67	覚知

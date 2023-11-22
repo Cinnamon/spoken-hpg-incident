@@ -1,0 +1,40 @@
+T1	Test 0 7	現場パトロール
+T40	Product 15 19	プロパン
+T2	Storage 13 25	脱 プロパン 塔入口配管
+T3	Incident 31 32	霜
+T4	Incident 33 35	付着
+T5	Storage 47 49	機器
+T6	Incident 50 53	不具合
+T7	Storage 62 64	装置
+T8	Storage 71 73	配管
+T9	Product 76 80	窒素ガス
+T10	Process 85 88	パージ
+T11	Process 91 93	降圧
+T12	Process 94 97	縁切り
+T13	Storage 110 112	配管
+T14	Storage 114 116	保温
+T15	Test 125 127	目視
+T16	Test 145 150	PT 検査
+T17	Test 131 136	PT 検査
+T18	Incident 151 155	指示模様
+T19	Incident 156 158	検出
+T20	Storage 165 167	配管
+T21	Storage 168 175	ダミーサポート
+T22	Chemical 176 177	水
+T23	Storage 176 180	水抜き穴
+T24	Storage 181 183	架台
+T25	Incident 184 186	接触
+T26	Storage 202 204	架台
+T27	Chemical 209 211	雨水
+T28	Storage 212 219	ダミーサポート
+T29	Incident 222 224	侵入
+T30	Incident 226 228	滞留
+T31	Storage 233 240	ダミーサポート
+T32	Incident 243 247	湿性腐食
+T33	Storage 252 254	配管
+T34	Incident 255 257	貫通
+T35	Storage 273 277	サポート
+T36	Chemical 281 282	水
+T37	Incident 283 285	滞留
+T38	Storage 308 315	ダミーサポート
+T39	Test 317 321	展開検査

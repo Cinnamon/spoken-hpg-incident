@@ -1,0 +1,16 @@
+T1	Process 0 3	充てん
+T2	Storage 0 4	充てん所
+T4	Product 6 8	水素
+T3	Storage 6 14	水素カードル容器
+T5	Storage 15 18	圧縮機
+T6	Process 19 21	加圧
+T7	Process 25 28	充てん
+T8	Storage 30 32	配管
+T9	Storage 33 37	袋ナット
+T10	Product 39 43	水素ガス
+T11	Incident 44 46	漏れ
+T12	Incident 46 48	爆発
+T13	Storage 51 53	配管
+T14	Storage 58 62	袋ナット
+T15	Incident 63 66	締付け
+T16	Incident 67 70	不十分

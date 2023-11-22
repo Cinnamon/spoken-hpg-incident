@@ -1,0 +1,15 @@
+T1	Storage 6 10	生産設備
+T2	Incident 11 15	温度上昇
+T3	Storage 20 23	冷凍機
+T4	Storage 41 44	冷凍機
+T5	Storage 54 57	冷凍機
+T6	Test 75 79	原因調査
+T8	Storage 80 83	圧縮機
+T7	Chemical 80 84	圧縮機油
+T9	Incident 85 87	白濁
+T11	Product 120 123	フロン
+T10	Process 120 125	フロン回収
+T12	Test 126 130	分解点検
+T13	Test 138 142	圧力試験
+T14	Storage 145 152	蒸発器チューブ
+T15	Incident 157 160	漏えい

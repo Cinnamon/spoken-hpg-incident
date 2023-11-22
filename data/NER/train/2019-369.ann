@@ -1,0 +1,22 @@
+T1	Test 44 48	状況確認
+T3	Product 52 56	プロパン
+T2	Storage 52 62	プロパン 冷温タンク
+T4	Incident 66 68	異音
+T5	Storage 73 76	タンク
+T6	Storage 84 91	立ち上がり配管
+T7	Product 94 101	プロパン ガス
+T8	Incident 102 105	漏えい
+T9	Storage 142 147	タンク元弁
+T10	Storage 150 153	仕切弁
+T11	Product 157 161	残留ガス
+T13	Storage 162 166	フレアー
+T12	Process 162 168	フレアー放出
+T14	Incident 174 177	漏えい
+T15	Storage 182 185	仕切板
+T16	Incident 210 212	開口
+T17	Incident 214 218	外面腐食
+T18	Incident 219 225	局部減肉形態
+T19	Storage 238 240	配管
+T22	Incident 267 271	経年劣化
+T23	Incident 274 278	塗装劣化
+T24	Incident 284 288	外面腐食

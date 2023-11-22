@@ -1,0 +1,35 @@
+T2	Product 9 14	LP ガス
+T1	Process 9 18	LP ガス出荷作業
+T3	Storage 20 24	出荷設備
+T4	Storage 25 29	ローリー
+T5	Storage 36 38	配管
+T6	Process 45 48	圧抜き
+T7	Storage 59 64	パージ配管
+T8	Incident 70 72	臭気
+T9	Incident 73 75	陽炎
+T10	Incident 80 83	漏えい
+T11	Incident 103 106	漏えい
+T12	Incident 109 113	上下流弁
+T13	Process 116 119	縁切り
+T14	Process 122 126	脱圧作業
+T16	Product 131 133	ガス
+T15	Test 131 134	ガス検
+T17	Incident 136 139	漏えい
+T18	Storage 156 162	ブローライン
+T19	Incident 166 168	生成
+T20	Incident 170 172	結露
+T21	Storage 176 181	防食テープ
+T22	Incident 187 191	外面腐食
+T24	Incident 200 203	不具合
+T23	Storage 200 206	不具合ライン
+T25	Test 211 215	全長検査
+T26	Incident 221 225	不具合部
+T27	Storage 230 239	U バンドサポート
+T28	Storage 240 242	枝管
+T29	Incident 257 261	外面腐食
+T30	Storage 277 282	防食テープ
+T31	Incident 284 288	外面腐食
+T32	Test 295 297	検査
+T33	Test 325 330	防食テープ
+T34	Incident 336 340	外面腐食
+T35	Test 366 370	目視検査

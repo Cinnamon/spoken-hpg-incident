@@ -1,0 +1,8 @@
+T7	Storage 0 3	空調機
+T1	Test 13 17	設備点検
+T2	Storage 23 26	室外機
+T3	Product 43 45	冷媒
+T4	Storage 27 31	冷媒配管
+T5	Storage 32 35	フィン
+T6	Incident 36 38	破損
+T8	Product 27 29	冷媒

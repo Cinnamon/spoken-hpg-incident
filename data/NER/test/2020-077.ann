@@ -1,0 +1,11 @@
+T1	Storage 15 18	冷凍機
+T2	Incident 19 27	圧力異常アラーム
+T3	Incident 28 30	作動
+T4	Incident 51 53	異常
+T5	Storage 63 66	冷凍機
+T6	Incident 67 75	圧力異常アラーム
+T7	Incident 75 77	作動
+T8	Storage 82 93	液インジェクション配管
+T9	Storage 94 97	保温材
+T10	Incident 103 104	煙
+T11	Storage 119 122	圧縮機

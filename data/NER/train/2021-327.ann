@@ -1,0 +1,11 @@
+T2	Product 0 2	ガス
+T1	Incident 0 4	ガス 臭
+T3	Test 15 17	調査
+T11	Storage 28 37	下水道 マンホール
+T4	Product 41 46	プロピレン
+T5	Storage 55 59	埋設導管
+T6	Incident 60 62	破損
+T7	Test 69 73	掘削調査
+T8	Storage 79 81	導管
+T9	Incident 82 86	外部腐食
+T10	Incident 89 91	開口

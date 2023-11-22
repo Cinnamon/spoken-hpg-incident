@@ -1,0 +1,10 @@
+T1	Storage 7 10	空調機
+T3	Storage 13 16	圧縮機
+T2	Incident 13 21	圧縮機異常ランプ
+T4	Incident 22 24	点灯
+T5	Test 44 46	点検
+T6	Test 72 74	点検
+T8	Product 92 95	フロン
+T7	Storage 79 84	フロン導管
+T9	Product 79 82	フロン
+T10	Incident 96 98	漏洩

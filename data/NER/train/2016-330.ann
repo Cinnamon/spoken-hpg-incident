@@ -1,0 +1,15 @@
+T1	Storage 10 16	メインタンク
+T2	Storage 23 26	冷凍機
+T3	Incident 48 54	吸入圧力低下
+T4	Test 80 82	点検
+T5	Storage 91 94	圧縮機
+T6	Storage 95 104	圧力計取り出し配管
+T7	Storage 105 112	袋ナットフレア
+T8	Incident 119 123	クラック
+T9	Test 138 140	調査
+T10	Incident 154 158	クラック
+T11	Incident 178 180	亀裂
+T13	Incident 182 184	破面
+T12	Test 182 188	破面詳細解析
+T15	Incident 191 193	振動
+T14	Test 191 195	振動解析

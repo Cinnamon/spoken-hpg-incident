@@ -1,0 +1,16 @@
+T1	Storage 0 38	ストリッパー、 ND-201 、入口配管温度制御弁、 三方弁 、バイパス配管
+T2	Storage 39 44	メイン配管
+T3	Incident 50 54	内面腐食
+T4	Incident 63 65	腐食
+T6	Storage 70 72	配管
+T5	Incident 70 74	配管亀裂
+T7	Chemical 78 80	軽油
+T8	Incident 81 84	漏えい
+T9	Incident 88 93	不具合覚知
+T10	Storage 95 97	装置
+T11	Process 113 115	脱圧
+T13	Product 116 118	窒素
+T12	Process 116 121	窒素パージ
+T14	Incident 123 125	拡散
+T15	Incident 140 143	漏えい
+T16	Test 155 157	調査

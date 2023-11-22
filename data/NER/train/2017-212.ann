@@ -1,0 +1,31 @@
+T1	Storage 0 10	IP ソルベント装置
+T2	Storage 11 17	高圧ガス設備
+T3	Test 25 29	現場巡回
+T5	Chemical 31 32	酸
+T4	Storage 31 35	酸洗浄槽
+T6	Incident 38 40	臭気
+T7	Storage 57 59	機器
+T8	Storage 60 68	入口配管フランジ
+T9	Product 70 72	ガス
+T10	Incident 73 76	漏えい
+T11	Storage 103 105	装置
+T12	Incident 127 130	漏えい
+T13	Incident 146 149	漏えい
+T14	Process 133 135	孤立
+T16	Product 137 139	窒素
+T15	Process 137 142	窒素パージ
+T17	Incident 177 180	漏えい
+T18	Product 151 156	可燃性ガス
+T20	Incident 115 118	漏えい
+T19	Storage 177 184	漏えいフランジ
+T21	Storage 210 218	ガスケットシール
+T22	Incident 239 243	集中豪雨
+T23	Incident 246 248	急冷
+T24	Storage 249 253	フランジ
+T25	Incident 259 265	温度 不均一
+T26	Incident 274 276	漏れ
+T28	Chemical 325 329	テフロン
+T27	Storage 325 339	テフロンジャケットガスケット
+T29	Incident 347 349	破損
+T30	Chemical 360 364	テフロン
+T31	Storage 366 371	ガスケット

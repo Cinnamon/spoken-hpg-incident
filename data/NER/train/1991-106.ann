@@ -1,0 +1,16 @@
+T1	Chemical 0 6	ポリエチレン
+T2	Storage 0 10	ポリエチレン製造装置
+T3	Storage 26 29	抽出機
+T4	Storage 30 38	スクリーンパック
+T5	Process 43 45	重合
+T6	Chemical 72 74	触媒
+T10	Storage 103 105	隔壁
+T9	Storage 112 115	反応器
+T11	Storage 116 120	安全装置
+T12	Product 125 131	エチレンガス
+T13	Incident 132 134	噴出
+T14	Incident 135 137	着火
+T15	Storage 147 153	フランジ継手
+T16	Storage 154 165	コーンリングガスケット
+T17	Incident 172 180	初期セッティング
+T18	Incident 181 183	不良

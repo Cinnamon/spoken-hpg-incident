@@ -1,0 +1,41 @@
+T1	Chemical 4 10	ポリエチレン
+T2	Storage 0 15	高圧法 ポリエチレン 製造施設
+T3	Storage 24 29	リアクター
+T4	Storage 41 55	ウエイスト ヒート ボイラー
+T5	Storage 57 64	排熱 ボイラー
+T6	Storage 75 79	フランジ
+T7	Product 84 88	エチレン
+T8	Incident 90 93	漏えい
+T9	Storage 114 117	反応器
+T10	Product 135 139	エチレン
+T11	Incident 170 173	漏えい
+T12	Incident 173 175	覚知
+T13	Test 180 184	定期巡回
+T14	Incident 188 190	異常
+T15	Test 206 210	定期巡回
+T16	Storage 219 233	ウエイスト ヒート ボイラー
+T17	Product 246 250	エチレン
+T18	Incident 246 252	エチレン 臭
+T19	Incident 253 255	覚知
+T20	Storage 272 275	保温材
+T21	Product 279 281	ガス
+T22	Test 279 285	ガス 検知器
+T23	Product 304 310	可燃性 ガス
+T24	Incident 312 314	検知
+T26	Product 322 324	ガス
+T25	Test 318 328	定置式 ガス 検知器
+T27	Process 348 353	縁切り措置
+T28	Process 371 373	脱圧
+T29	Product 386 388	ガス
+T30	Test 386 392	ガス 検知器
+T32	Incident 393 396	漏えい
+T31	Incident 415 418	漏えい
+T33	Incident 429 432	漏えい
+T34	Storage 442 456	ウエイスト ヒート ボイラー
+T35	Incident 485 488	熱履歴
+T36	Storage 506 508	設備
+T37	Storage 510 514	フランジ
+T38	Storage 519 528	ショルダー ボルト
+T39	Incident 530 535	締め付け力
+T40	Incident 536 538	低下
+T41	Incident 544 547	漏えい

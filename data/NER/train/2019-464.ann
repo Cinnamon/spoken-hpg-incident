@@ -1,0 +1,12 @@
+T1	Storage 19 23	エアコン
+T2	Incident 24 26	故障
+T3	Test 32 34	調査
+T4	Storage 40 50	インバーターエアコン
+T5	Storage 51 54	室内機
+T6	Storage 55 58	蒸発器
+T7	Product 61 64	フロン
+T8	Incident 73 76	漏えい
+T9	Incident 97 101	経年劣化
+T10	Chemical 109 111	酢酸
+T11	Storage 114 117	蒸発器
+T12	Incident 118 123	ピンホール

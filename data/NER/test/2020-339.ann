@@ -1,0 +1,15 @@
+T1	Incident 5 9	圧力低下
+T2	Test 23 25	点検
+T3	Storage 29 32	蒸発器
+T4	Product 35 40	フロンガス
+T5	Incident 41 44	漏えい
+T6	Storage 49 55	コンデンサー
+T7	Storage 58 62	レシーバ
+T8	Product 68 73	フロンガス
+T9	Process 76 80	封じ込み
+T10	Incident 88 91	漏えい
+T11	Storage 98 101	蒸発器
+T12	Test 102 106	開放検査
+T13	Storage 111 118	蒸発器チューブ
+T15	Product 127 130	フロン
+T14	Incident 127 132	フロン漏れ

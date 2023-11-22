@@ -1,0 +1,56 @@
+T1	Incident 0 2	事故
+T3	Product 21 24	残ガス
+T2	Storage 10 18	残ガス回収転倒機
+T5	Product 10 13	残ガス
+T4	Storage 21 26	残ガス容器
+T6	Product 30 35	LP ガス
+T7	Process 30 39	LP ガス回収作業
+T8	Test 42 47	終業時点検
+T10	Product 68 71	残ガス
+T9	Storage 59 67	残ガス回収転倒機
+T11	Product 59 62	残ガス
+T12	Storage 68 73	残ガス容器
+T13	Incident 74 78	転倒状態
+T14	Product 117 120	残ガス
+T15	Storage 117 125	残ガス回収転倒機
+T16	Product 126 129	残ガス
+T17	Storage 126 131	残ガス容器
+T18	Storage 144 153	エアコンプレッサー
+T55	Storage 153 155	電源
+T19	Incident 169 173	エア圧力
+T20	Product 201 204	残ガス
+T21	Storage 201 206	残ガス容器
+T22	Product 207 209	ガス
+T23	Storage 207 213	ガス充てん口
+T24	Product 216 221	LP ガス
+T25	Incident 222 225	漏えい
+T26	Product 229 231	ガス
+T28	Incident 229 236	ガス漏れ警報器
+T27	Incident 237 239	作動
+T30	Storage 261 263	工場
+T29	Incident 265 268	漏えい
+T31	Product 289 291	ガス
+T32	Test 288 293	るガス検知
+T33	Product 298 300	ガス
+T34	Incident 298 301	ガス臭
+T35	Product 304 309	可燃性ガス
+T36	Incident 310 312	検知
+T37	Test 320 324	安全確認
+T38	Product 350 353	残ガス
+T39	Storage 350 358	残ガス回収転倒機
+T40	Product 360 363	残ガス
+T41	Storage 360 365	残ガス容器
+T42	Storage 377 386	エアコンプレッサー
+T56	Storage 387 389	電源
+T43	Product 398 401	残ガス
+T44	Storage 398 406	残ガス回収転倒機
+T45	Product 407 410	残ガス
+T46	Storage 407 412	残ガス容器
+T47	Product 413 415	ガス
+T48	Storage 413 419	ガス充てん口
+T49	Product 458 463	LP ガス
+T50	Incident 464 467	漏えい
+T52	Test 481 485	日常点検
+T51	Product 487 490	残ガス
+T53	Storage 487 495	残ガス回収転倒機
+T54	Test 502 504	点検

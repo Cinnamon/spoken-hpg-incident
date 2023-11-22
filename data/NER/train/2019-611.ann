@@ -1,0 +1,14 @@
+T1	Product 22 25	LPG
+T2	Storage 27 32	揚げ荷配管
+T3	Storage 40 43	枝配管
+T4	Process 40 48	枝配管パージ作業
+T5	Product 61 65	プロパン
+T6	Incident 61 69	プロパン 漏えい
+T8	Product 95 97	残液
+T7	Storage 95 102	残液回収ライン
+T9	Product 103 108	窒素ライン
+T10	Product 109 111	窒素
+T11	Process 109 114	窒素パージ
+T12	Incident 127 130	漏えい
+T13	Incident 143 146	漏えい
+T14	Test 155 157	調査

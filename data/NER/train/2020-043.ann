@@ -1,0 +1,11 @@
+T2	Product 7 11	プロパン
+T1	Storage 7 16	プロパン 脱蝋装置
+T3	Storage 17 23	定期巡回点検
+T4	Storage 25 37	ポンプ入口配管ブリーダー
+T5	Storage 40 42	保冷
+T6	Incident 47 49	油垂
+T7	Product 55 57	ガス
+T8	Test 55 60	ガス検知器
+T9	Storage 80 82	装置
+T10	Chemical 83 87	ワックス
+T11	Process 95 97	降圧

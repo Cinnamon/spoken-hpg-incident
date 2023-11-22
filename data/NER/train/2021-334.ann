@@ -1,0 +1,11 @@
+T1	Test 0 6	定期巡回点検
+T2	Incident 11 13	臭気
+T3	Test 19 21	点検
+T5	Chemical 26 32	パラキシレン
+T4	Storage 26 38	パラキシレン吸着分離装置
+T7	Product 44 46	ガス
+T6	Storage 39 50	加熱炉入ロガス抜き配管
+T8	Storage 51 53	保温
+T9	Chemical 56 60	キシレン
+T10	Incident 61 63	覚知
+T11	Storage 65 71	APU 装置

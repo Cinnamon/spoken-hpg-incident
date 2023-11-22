@@ -1,0 +1,20 @@
+T2	Product 9 11	窒素
+T1	Storage 0 6	窒素ローリー
+T4	Product 16 18	窒素
+T3	Storage 9 14	窒素 CE
+T5	Product 43 45	窒素
+T6	Process 19 21	受入
+T7	Storage 27 28	弁
+T8	Storage 43 48	窒素 CE
+T10	Storage 50 59	上部及び下部充填弁
+T11	Storage 60 62	元弁
+T12	Product 65 69	窒素ガス
+T13	Incident 70 73	漏えい
+T14	Storage 91 96	受入ライン
+T15	Storage 97 103	貯槽 第1弁
+T16	Storage 105 112	グランドナット
+T17	Incident 120 123	漏えい
+T18	Storage 132 139	バルブハンドル
+T19	Storage 143 144	弁
+T20	Incident 152 155	漏えい
+T9	Product 0 2	窒素

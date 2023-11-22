@@ -1,0 +1,35 @@
+T1	Test 9 13	巡回点検
+T2	Product 17 19	気体
+T3	Incident 26 27	音
+T4	Incident 28 30	覚知
+T5	Test 34 36	調査
+T6	Product 48 52	エチレン
+T7	Storage 48 69	エチレン ブースター コンプレッサー 架台
+T8	Storage 74 77	圧力計
+T9	Storage 78 82	導圧配管
+T10	Incident 87 88	音
+T11	Storage 104 111	コンプレッサー
+T12	Storage 117 120	バルブ
+T13	Process 125 127	孤立
+T14	Process 133 135	孤立
+T15	Incident 141 144	漏れ音
+T16	Product 155 157	ガス
+T17	Test 151 161	定置式 ガス 検知器
+T18	Incident 162 164	動作
+T19	Product 176 180	エチレン
+T20	Storage 176 194	エチレン ブースター コンプレッサー
+T21	Storage 196 200	入口配管
+T22	Storage 207 214	圧力計導圧配管
+T23	Storage 227 234	コンプレッサー
+T24	Storage 236 238	架台
+T25	Storage 242 250	グレーチング 床
+T26	Storage 257 263	アングル 鋼
+T27	Test 279 281	点検
+T28	Storage 299 301	配管
+T29	Storage 303 309	アングル 鋼
+T33	Storage 332 338	往復動圧縮機
+T30	Incident 344 347	微振動
+T31	Incident 351 353	接触
+T32	Storage 355 357	配管
+T34	Incident 358 360	摩耗
+T35	Incident 363 365	穿孔

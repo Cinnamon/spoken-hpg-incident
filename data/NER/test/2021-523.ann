@@ -1,0 +1,16 @@
+T1	Product 0 4	水素ガス
+T2	Product 6 15	粗 アルゴン ガス
+T3	Process 16 18	精製
+T5	Product 43 45	水素
+T4	Storage 34 41	水素ローリー車
+T7	Product 34 36	水素
+T6	Storage 43 49	水素ホルダー
+T8	Process 50 53	受入れ
+T10	Product 72 74	水素
+T9	Process 72 79	水素受入れ作業
+T11	Process 90 93	受入れ
+T12	Process 95 100	パージ作業
+T13	Chemical 101 104	発泡液
+T14	Incident 106 110	微量漏れ
+T16	Product 115 117	水素
+T15	Storage 115 126	水素ローリー車払出元弁

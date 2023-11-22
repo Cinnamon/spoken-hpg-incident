@@ -1,0 +1,17 @@
+T1	Product 3 7	水素ガス
+T2	Storage 0 11	移動式水素ガス製造設備
+T3	Product 12 15	フロン
+T4	Product 16 21	R404A
+T5	Storage 23 26	ライン
+T6	Storage 27 31	熱交換器
+T10	Chemical 37 39	ろう
+T7	Product 44 47	フロン
+T8	Incident 48 51	漏えい
+T9	Incident 52 55	かに泡
+T12	Storage 68 70	設備
+T11	Product 78 80	水素
+T13	Process 71 75	水素充填
+T14	Product 71 73	水素
+T15	Product 130 133	フロン
+T16	Storage 130 136	フロンライン
+T17	Incident 144 147	漏えい

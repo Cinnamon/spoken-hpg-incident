@@ -1,0 +1,40 @@
+T1	Product 0 2	ガス
+T2	Test 0 6	ガス 検知器
+T3	Incident 7 9	作動
+T4	Test 18 22	現場巡回
+T6	Product 26 28	VA
+T5	Product 29 35	酢酸 ビニル
+T7	Incident 37 39	臭い
+T8	Test 49 51	点検
+T9	Chemical 64 67	オイル
+T10	Storage 64 77	オイル カラム リボイラー
+T11	Product 81 85	エチレン
+T12	Incident 87 90	漏えい
+T13	Product 106 108	VA
+T14	Incident 110 113	漏えい
+T15	Storage 119 124	リボイラー
+T16	Process 126 128	孤立
+T17	Storage 137 142	ブロー 弁
+T18	Process 143 145	放出
+T19	Incident 147 150	漏えい
+T20	Incident 166 169	漏えい
+T21	Storage 180 185	リボイラー
+T22	Incident 187 193	液面 レベル
+T29	Incident 205 211	熱 バランス
+T24	Product 220 224	エチレン
+T25	Storage 229 234	リボイラー
+T30	Incident 254 258	温度下降
+T31	Storage 261 270	本体上部 フランジ
+T32	Incident 273 275	収縮
+T33	Storage 282 288	固定 ボルト
+T34	Incident 290 295	締め付け力
+T36	Storage 301 306	ガスケット
+T37	Incident 309 313	荷重不足
+T38	Storage 318 322	フランジ
+T40	Incident 338 341	漏えい
+T41	Test 353 357	事故調査
+T42	Storage 367 370	ボルト
+T43	Incident 372 380	締め付け トルク
+T44	Incident 404 411	トルク 値管理
+T46	Incident 430 434	温度低下
+T45	Incident 436 439	漏えい

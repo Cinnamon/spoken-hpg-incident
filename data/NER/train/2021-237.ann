@@ -1,0 +1,23 @@
+T1	Storage 15 16	炉
+T3	Product 43 45	CO
+T2	Test 37 49	ポータブル CO 検知器
+T4	Incident 50 52	発報
+T5	Incident 77 79	避難
+T23	Test 91 93	探索
+T6	Storage 95 96	炉
+T7	Storage 99 102	温度計
+T8	Storage 103 106	シース
+T10	Product 119 121	CO
+T9	Test 113 125	ポータブル CO 検知器
+T11	Product 132 134	CO
+T12	Incident 136 138	検知
+T13	Incident 143 146	漏えい
+T14	Product 165 167	CO
+T15	Test 165 171	CO 検知器
+T16	Incident 171 173	発報
+T17	Incident 183 186	漏れ量
+T18	Incident 187 191	ごく僅か
+T19	Incident 222 225	漏えい
+T20	Storage 232 236	プラント
+T21	Incident 300 303	漏えい
+T22	Storage 317 321	プラント

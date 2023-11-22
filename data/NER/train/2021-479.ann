@@ -1,0 +1,10 @@
+T2	Product 16 21	アンモニア
+T1	Storage 0 12	アンモニア 付属冷凍設備
+T4	Product 0 5	アンモニア
+T3	Incident 16 23	アンモニア 臭
+T5	Test 34 36	調査
+T7	Product 42 44	ガス
+T6	Storage 42 49	ガス回収ライン
+T8	Storage 50 55	弁グランド
+T9	Product 59 64	アンモニア
+T10	Incident 73 76	漏えい

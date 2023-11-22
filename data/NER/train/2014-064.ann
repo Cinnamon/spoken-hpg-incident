@@ -1,0 +1,33 @@
+T32	Chemical 4 11	ポリプロピレン
+T1	Storage 4 16	ポリプロピレン 製造施設
+T2	Storage 39 42	重合器
+T3	Incident 43 51	圧力低 アラーム
+T4	Incident 53 55	発報
+T5	Test 59 63	現場調査
+T6	Storage 71 90	流量計 リード パイプ ベント プラグ
+T7	Product 98 106	プロピレン ガス
+T8	Incident 108 111	漏えい
+T9	Storage 118 128	リード パイプ 元弁
+T10	Storage 131 137	流量計上流弁
+T11	Incident 142 145	漏えい
+T33	Product 198 200	ガス
+T12	Test 198 204	ガス 検知器
+T13	Storage 206 213	リード パイプ
+T14	Incident 219 222	漏えい
+T15	Storage 239 250	リード パイプ プラグ
+T16	Storage 253 258	ガスケット
+T22	Incident 267 276	センタリング 不良
+T17	Storage 280 285	ガスケット
+T18	Incident 290 291	傷
+T19	Storage 309 314	ガスケット
+T20	Incident 316 318	変形
+T21	Incident 323 325	破断
+T23	Incident 341 350	センタリング 不良
+T24	Storage 352 357	ガスケット
+T25	Storage 360 363	プラグ
+T26	Storage 399 408	事業所全 プラント
+T27	Storage 413 420	ベント プラグ
+T28	Storage 425 432	ドレン プラグ
+T29	Incident 434 436	緩み
+T30	Incident 437 440	漏えい
+T31	Test 441 445	有無点検

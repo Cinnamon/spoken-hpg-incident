@@ -1,0 +1,10 @@
+T1	Product 0 2	酸素
+T2	Storage 0 7	酸素充填ポンプ
+T3	Storage 12 15	ポンプ
+T8	Storage 20 27	コールドエンド
+T4	Storage 31 36	ガスケット
+T5	Incident 38 41	漏えい
+T6	Storage 49 52	ボルト
+T7	Incident 61 64	漏えい
+T9	Storage 81 86	ガスケット
+T10	Incident 87 89	破損

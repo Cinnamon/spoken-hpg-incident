@@ -1,0 +1,11 @@
+T1	Chemical 16 20	メラミン
+T2	Storage 16 25	メラミン 合成施設
+T3	Storage 26 29	逆止弁
+T4	Product 33 38	アンモニア
+T5	Incident 33 40	アンモニア 臭
+T6	Test 52 54	調査
+T7	Storage 70 73	保温材
+T8	Storage 79 82	逆止弁
+T9	Incident 88 91	漏えい
+T10	Storage 111 114	ボルト
+T11	Incident 121 124	漏えい

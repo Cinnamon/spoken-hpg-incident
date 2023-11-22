@@ -1,0 +1,13 @@
+T2	Product 14 19	アンモニア
+T1	Storage 14 23	アンモニア ポンプ
+T4	Product 26 28	ガス
+T3	Incident 26 34	ガス漏えい警報器
+T5	Incident 35 37	発報
+T6	Storage 63 66	ポンプ
+T7	Test 55 57	調査
+T8	Storage 49 52	ポンプ
+T9	Storage 67 74	吐出圧力導圧管
+T10	Incident 76 79	漏えい
+T11	Storage 94 99	予備ポンプ
+T12	Incident 122 125	漏えい
+T13	Incident 109 112	漏えい

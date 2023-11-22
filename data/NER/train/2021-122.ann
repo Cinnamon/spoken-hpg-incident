@@ -1,0 +1,10 @@
+T1	Storage 4 6	装置
+T2	Test 14 19	パトロール
+T3	Storage 21 24	流量計
+T4	Storage 25 28	導圧管
+T5	Product 31 34	LPG
+T6	Storage 49 52	漏えい
+T7	Incident 68 71	漏えい
+T8	Process 57 61	ブロック
+T9	Process 63 65	脱圧
+T10	Incident 36 39	漏えい

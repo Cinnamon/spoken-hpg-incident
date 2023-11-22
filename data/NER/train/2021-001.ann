@@ -1,0 +1,12 @@
+T2	Product 0 5	二酸化炭素
+T1	Storage 0 10	二酸化炭素 消火設備
+T3	Test 11 17	消防設備点検
+T4	Test 18 22	法定点検
+T5	Product 26 31	二酸化炭素
+T6	Incident 33 35	噴出
+T7	Incident 36 39	漏えい
+T8	Incident 52 54	充満
+T9	Incident 92 94	事故
+T10	Incident 139 143	救急搬送
+T11	Incident 161 163	死亡
+T12	Incident 173 182	一時 意識混濁状態

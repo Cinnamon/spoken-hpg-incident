@@ -1,0 +1,17 @@
+T2	Storage 0 8	メカニカルシール
+T3	Product 11 13	ガス
+T4	Incident 11 16	ガス漏えい
+T5	Test 11 18	ガス漏えい検知
+T7	Product 20 22	ガス
+T6	Test 20 28	ガスディテクター
+T8	Incident 31 34	漏えい
+T9	Incident 35 37	感知
+T10	Test 39 41	調査
+T11	Storage 47 50	ポンプ
+T12	Storage 59 67	メカニカルシール
+T13	Incident 70 73	漏えい
+T14	Storage 82 85	ポンプ
+T15	Process 92 95	縁切り
+T16	Incident 96 99	漏えい
+T1	Storage 110 118	メカニカルシール
+T17	Incident 110 122	メカニカルシール管理不良

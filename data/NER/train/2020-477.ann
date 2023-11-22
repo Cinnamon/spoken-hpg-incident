@@ -1,0 +1,17 @@
+T1	Incident 0 4	漏洩事故
+T3	Chemical 8 11	ナフサ
+T4	Product 12 14	水素
+T2	Storage 8 19	ナフサ 水素化脱硫装置
+T6	Product 20 24	高圧ガス
+T5	Storage 20 26	高圧ガス設備
+T8	Chemical 74 77	ナフサ
+T9	Product 78 80	水素
+T7	Storage 74 85	ナフサ 水素化脱硫装置
+T10	Test 86 90	日常点検
+T11	Storage 101 105	熱交換器
+T12	Storage 106 116	シェルカバーフランジ
+T13	Chemical 122 125	ナフサ
+T14	Incident 127 130	漏えい
+T15	Storage 172 176	フランジ
+T16	Chemical 178 182	スチーム
+T17	Incident 188 190	拡散

@@ -1,0 +1,12 @@
+T1	Product 0 2	ガス
+T2	Test 0 8	ガスディテクター
+T3	Incident 11 14	漏えい
+T4	Incident 15 17	感知
+T5	Test 19 21	調査
+T6	Storage 27 30	ポンプ
+T7	Storage 31 36	暖気ライン
+T12	Storage 36 43	バルブグランド
+T8	Incident 46 49	漏えい
+T9	Incident 63 66	漏えい
+T10	Storage 76 79	シール
+T11	Incident 76 83	シール管理不良

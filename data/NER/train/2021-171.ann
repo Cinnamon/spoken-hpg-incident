@@ -1,0 +1,9 @@
+T1	Storage 4 6	装置
+T2	Storage 14 16	塔槽
+T3	Test 17 19	点検
+T5	Product 30 34	硫化水素
+T4	Incident 30 35	硫化水素臭
+T6	Storage 47 50	液面計
+T8	Product 56 58	ガス
+T7	Incident 56 60	ガス漏洩
+T9	Incident 77 80	漏えい

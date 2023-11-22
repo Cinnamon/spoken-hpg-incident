@@ -1,0 +1,17 @@
+T1	Storage 14 17	空調機
+T2	Incident 37 41	圧力警報
+T3	Incident 42 44	発報
+T4	Storage 51 52	機
+T5	Test 68 72	原因究明
+T7	Product 79 85	冷媒 フロン
+T6	Incident 79 88	冷媒 フロン 漏洩
+T8	Test 90 92	調査
+T9	Test 93 97	残量調査
+T10	Product 99 101	冷媒
+T11	Product 103 109	フロン ガス
+T12	Incident 122 124	漏洩
+T13	Incident 136 138	漏洩
+T14	Test 144 146	調査
+T15	Storage 153 157	熱交換器
+T16	Incident 160 166	エロージョン
+T17	Incident 169 172	漏えい

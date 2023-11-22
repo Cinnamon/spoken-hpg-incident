@@ -1,0 +1,42 @@
+T1	Test 20 27	現場パトロール
+T3	Chemical 30 32	残油
+T2	Storage 30 41	残油流動接触分解装置群
+T4	Chemical 53 55	重油
+T5	Chemical 57 61	ガソリン
+T6	Process 62 64	精製
+T7	Product 73 78	可燃性ガス
+T8	Product 83 91	C1-C4 ガス
+T9	Process 95 97	分離
+T10	Storage 102 104	塔槽
+T11	Storage 118 125	スタンドパイプ
+T12	Storage 126 128	配管
+T13	Product 134 142	C1-C4 ガス
+T14	Incident 143 146	漏えい
+T15	Incident 147 148	覚
+T16	Storage 158 165	スタンドパイプ
+T17	Storage 167 169	塔槽
+T18	Storage 197 199	塔槽
+T19	Test 207 209	計測
+T20	Incident 220 223	漏えい
+T21	Product 228 236	C1-C4 ガス
+T22	Storage 246 248	配管
+T23	Incident 259 262	漏えい
+T24	Incident 263 265	覚知
+T25	Incident 320 325	漏えい発生
+T26	Storage 330 333	バルブ
+T27	Process 338 341	縁切り
+T29	Chemical 361 363	残油
+T28	Storage 361 371	残油流動接触分解装置
+T30	Incident 414 416	事故
+T31	Incident 437 440	漏えい
+T32	Storage 443 449	差圧式液面計
+T33	Storage 479 481	塔槽
+T34	Product 503 507	硫化水素
+T36	Incident 511 513	腐食
+T35	Product 511 516	腐食性物質
+T37	Chemical 520 522	水分
+T38	Incident 528 530	腐食
+T39	Incident 540 544	内面腐食
+T40	Storage 548 550	配管
+T41	Incident 551 553	減肉
+T42	Incident 557 559	開孔

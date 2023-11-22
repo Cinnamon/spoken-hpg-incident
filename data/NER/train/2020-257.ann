@@ -1,0 +1,12 @@
+T1	Storage 0 3	分離槽
+T2	Storage 6 10	ヒーター
+T3	Product 14 22	フューエル ガス
+T4	Product 24 30	可燃性 ガス
+T5	Storage 31 33	配管
+T7	Product 44 46	ガス
+T8	Incident 48 51	漏えい
+T9	Incident 53 56	漏えい
+T10	Product 63 65	窒素
+T11	Process 63 69	窒素 パージ
+T12	Product 75 77	ガス
+T13	Test 75 80	ガス 濃度

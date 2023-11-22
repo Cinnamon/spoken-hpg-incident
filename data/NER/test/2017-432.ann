@@ -1,0 +1,25 @@
+T1	Storage 21 24	タンク
+T5	Storage 62 72	サンプリング ノズル
+T3	Product 76 78	ガス
+T4	Incident 80 83	漏えい
+T6	Storage 127 130	タンク
+T7	Product 133 136	ブタン
+T2	Process 149 151	転送
+T8	Product 153 158	残留 ガス
+T9	Process 161 167	フレア 放出
+T10	Incident 173 176	漏えい
+T11	Incident 208 211	漏えい
+T12	Incident 220 223	漏えい
+T14	Test 229 235	定点肉厚測定
+T15	Incident 257 260	漏えい
+T16	Incident 262 266	素地調整
+T17	Chemical 298 300	鉄皮
+T18	Chemical 303 304	水
+T19	Product 305 307	空気
+T20	Incident 308 310	浸入
+T21	Incident 312 313	錆
+T22	Incident 322 326	外面腐食
+T28	Test 336 342	定点肉厚測定
+T23	Incident 355 358	上塗り
+T29	Test 377 381	外面腐食
+T30	Incident 394 396	開口

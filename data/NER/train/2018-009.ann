@@ -1,0 +1,17 @@
+T1	Incident 0 2	事故
+T2	Storage 9 15	水添脱硫装置
+T3	Incident 57 60	不具合
+T4	Test 62 68	水平展開検査
+T5	Storage 81 93	リサイクルコンプレッサー
+T6	Test 96 98	点検
+T7	Test 102 105	発砲液
+T17	Chemical 127 130	SUS
+T8	Storage 119 137	吐出圧力計行き SUS チューブ配管
+T9	Product 139 141	水素
+T10	Incident 142 147	微量漏えい
+T11	Storage 171 173	元弁
+T12	Product 178 180	ガス
+T13	Test 178 183	ガス検知器
+T14	Incident 184 188	て漏えい
+T16	Incident 219 223	粒界腐食
+T15	Incident 226 229	不具合

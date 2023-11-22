@@ -1,0 +1,16 @@
+T1	Incident 26 28	漏洩
+T2	Storage 41 43	設備
+T3	Incident 56 60	アラーム
+T4	Storage 91 94	空調機
+T5	Test 99 103	定期点検
+T6	Storage 127 133	室内熱交換器
+T7	Storage 137 141	U 字管
+T8	Incident 146 148	漏れ
+T10	Product 164 167	フロン
+T9	Process 153 159	フロン 回収
+T12	Product 153 156	フロン
+T11	Incident 164 170	フロン 漏洩
+T13	Process 179 181	充填
+T14	Process 191 193	回収
+T15	Incident 224 226	腐食
+T16	Storage 245 249	熱交換器

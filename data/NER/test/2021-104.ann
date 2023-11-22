@@ -1,0 +1,26 @@
+T1	Test 7 9	点検
+T2	Product 10 12	冷媒
+T26	Incident 10 16	冷媒 レベル
+T3	Incident 18 20	低下
+T4	Test 31 35	原因調査
+T5	Storage 44 50	膨張 タンク
+T23	Chemical 53 57	ブライン
+T7	Product 58 61	エアー
+T6	Storage 53 66	ブライン エアー 抜き配管
+T8	Product 68 70	冷媒
+T9	Incident 71 73	検出
+T24	Chemical 80 84	ブライン
+T10	Storage 80 89	ブライン クーラー
+T11	Incident 92 94	漏れ
+T25	Chemical 104 108	ブライン
+T12	Storage 104 113	ブライン クーラー
+T13	Test 115 119	開放検査
+T14	Chemical 126 127	銅
+T15	Storage 126 132	銅 チューブ
+T16	Test 139 145	渦流探傷試験
+T17	Storage 150 154	チューブ
+T18	Incident 161 164	漏えい
+T19	Incident 171 174	漏えい
+T20	Storage 179 183	チューブ
+T22	Incident 194 197	減肉率
+T21	Storage 206 210	チューブ

@@ -1,0 +1,16 @@
+T2	Product 8 12	高圧ガス
+T1	Test 8 19	高圧ガス運転中保安検査
+T3	Storage 43 47	導圧配管
+T4	Incident 49 51	臭気
+T5	Storage 57 59	保温
+T6	Storage 70 72	配管
+T7	Incident 73 75	減肉
+T8	Incident 76 81	ピンホール
+T10	Storage 88 92	保温板金
+T9	Incident 88 94	保温板金劣化
+T11	Chemical 104 106	雨水
+T12	Incident 100 102	侵入
+T13	Chemical 97 99	雨水
+T14	Incident 110 114	外面腐食
+T15	Incident 124 126	開口
+T16	Incident 127 130	漏えい

@@ -1,0 +1,10 @@
+T10	Storage 4 6	装置
+T1	Test 14 19	パトロール
+T2	Storage 21 23	受槽
+T3	Storage 32 35	液面計
+T5	Product 42 46	硫化水素
+T4	Incident 42 47	硫化水素臭
+T6	Incident 48 50	感知
+T7	Incident 69 71	漏洩
+T8	Incident 55 57	漏洩
+T9	Process 83 85	脱圧

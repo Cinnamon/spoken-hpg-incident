@@ -1,0 +1,9 @@
+T1	Storage 21 25	ローリー
+T2	Process 13 17	移液作業
+T3	Storage 0 4	ローリー
+T4	Process 29 33	定常充填
+T5	Process 46 50	定常充填
+T6	Storage 69 72	遮断弁
+T7	Storage 88 91	遮断弁
+T8	Product 94 98	液化塩素
+T9	Incident 99 101	漏洩

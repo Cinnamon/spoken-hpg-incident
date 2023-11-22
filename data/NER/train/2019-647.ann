@@ -1,0 +1,15 @@
+T1	Incident 26 34	吸入圧低圧エラー
+T2	Test 53 59	メーカー点検
+T3	Test 68 72	気密試験
+T4	Storage 85 92	蒸発器チューブ
+T5	Incident 93 95	汚れ
+T6	Test 132 142	定修定例メーカー点検
+T7	Storage 144 147	蒸発器
+T8	Product 187 189	ガス
+T9	Test 187 192	ガス検知器
+T10	Test 193 195	調査
+T11	Storage 203 206	凝縮器
+T12	Storage 208 219	配管フランジガスケット
+T13	Incident 223 226	漏えい
+T14	Storage 236 240	フランジ
+T15	Test 249 254	ガス検知器

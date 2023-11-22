@@ -1,0 +1,10 @@
+T1	Storage 18 34	アルキレーション 装置緊急遮断弁
+T2	Product 37 39	ガス
+T3	Test 37 42	ガス検知器
+T4	Incident 43 45	鳴動
+T5	Storage 69 74	緊急遮断弁
+T6	Product 78 83	可燃性ガス
+T7	Incident 84 86	漏洩
+T8	Storage 96 101	バイパス弁
+T9	Storage 107 112	弁上下流弁
+T10	Process 116 119	緑切り

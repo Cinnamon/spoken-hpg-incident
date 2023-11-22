@@ -1,0 +1,7 @@
+T1	Process 0 5	充てん作業
+T2	Product 7 9	ガス
+T3	Test 7 12	ガス検知器
+T4	Incident 14 16	漏洩
+T5	Storage 28 38	出口リングジョイント
+T6	Incident 40 42	漏れ
+T7	Incident 50 54	締結不足

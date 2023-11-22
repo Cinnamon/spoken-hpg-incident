@@ -1,0 +1,16 @@
+T1	Test 6 12	定期自主検査
+T4	Storage 25 28	冷凍機
+T5	Product 28 30	ガス
+T2	Incident 25 32	冷凍機ガス圧力
+T3	Incident 33 35	低下
+T6	Incident 101 103	漏れ
+T7	Incident 79 81	漏れ
+T8	Incident 142 144	圧力
+T9	Incident 145 149	降下現象
+T10	Product 161 164	フロン
+T11	Incident 165 168	漏えい
+T12	Storage 186 194	容量制御用電磁弁
+T13	Incident 205 207	漏れ
+T14	Storage 220 223	圧力計
+T16	Incident 224 227	つまり
+T15	Incident 254 256	漏れ

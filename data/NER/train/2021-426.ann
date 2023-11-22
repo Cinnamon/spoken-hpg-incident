@@ -1,0 +1,8 @@
+T1	Test 0 6	定期自主検査
+T2	Test 9 13	気密試験
+T3	Storage 24 30	圧力計導圧管
+T4	Storage 32 36	ソケット
+T5	Product 45 50	窒素 ガス
+T6	Incident 52 56	微量漏れ
+T7	Incident 65 68	漏えい
+T8	Incident 80 83	漏えい

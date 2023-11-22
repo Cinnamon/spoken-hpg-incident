@@ -1,0 +1,5 @@
+T1	Storage 18 21	冷凍機
+T2	Storage 22 33	インジェクション電磁弁
+T3	Storage 46 49	電磁弁
+T4	Incident 63 66	漏えい
+T5	Incident 53 56	漏えい

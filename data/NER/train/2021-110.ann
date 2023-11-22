@@ -1,0 +1,17 @@
+T1	Test 6 10	日常点検
+T2	Storage 14 16	設備
+T3	Storage 17 20	圧縮機
+T5	Chemical 33 34	油
+T4	Storage 21 27	油循環用配管
+T6	Chemical 21 22	油
+T7	Incident 35 37	滴下
+T8	Incident 58 59	泡
+T10	Product 66 69	フロン
+T9	Test 66 74	フロンチェッカー
+T17	Incident 80 82	反応
+T11	Chemical 87 88	油
+T12	Product 96 98	冷媒
+T13	Incident 107 109	漏洩
+T14	Product 126 128	冷媒
+T15	Process 129 131	回収
+T16	Incident 142 145	漏えい

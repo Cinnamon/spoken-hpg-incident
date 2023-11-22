@@ -1,0 +1,10 @@
+T1	Test 20 25	パトロール
+T2	Product 33 35	ガス
+T3	Test 33 38	ガス検知器
+T4	Product 39 44	可燃性ガス
+T5	Test 45 47	検知
+T6	Test 54 56	調査
+T7	Storage 62 64	配管
+T8	Storage 65 68	断熱材
+T9	Product 73 79	クロルメチル
+T10	Incident 80 83	漏えい

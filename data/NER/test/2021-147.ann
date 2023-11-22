@@ -1,0 +1,12 @@
+T1	Storage 20 22	機器
+T2	Storage 2 4	機器
+T3	Product 26 28	窒素
+T4	Process 26 30	窒素保圧
+T5	Process 45 47	保圧
+T6	Incident 60 62	漏れ
+T7	Chemical 71 74	石鹸水
+T8	Test 76 80	発泡試験
+T9	Incident 97 100	カニ泡
+T10	Incident 103 105	発泡
+T11	Incident 133 136	漏えい
+T12	Incident 161 163	事故

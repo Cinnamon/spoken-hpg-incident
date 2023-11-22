@@ -1,0 +1,48 @@
+T2	Chemical 9 18	高圧 ポリエチレン
+T1	Storage 9 23	高圧 ポリエチレン 製造施設
+T4	Product 31 35	エチレン
+T3	Storage 31 40	エチレン 凝縮装置
+T5	Product 44 46	冷媒
+T6	Product 57 60	フロン
+T7	Test 81 85	定期点検
+T8	Storage 93 100	エコノマイザー
+T9	Storage 101 104	保冷材
+T11	Product 108 111	フロン
+T10	Test 108 115	フロン 検知器
+T12	Incident 116 118	反応
+T13	Incident 124 126	濡れ
+T14	Storage 167 173	エコマイザー
+T15	Storage 174 177	保冷材
+T16	Test 181 185	発泡剤点
+T17	Storage 193 202	安全弁取付けノズル
+T18	Incident 208 212	微量漏れ
+T19	Incident 213 216	カニ泡
+T20	Incident 230 232	亀裂
+T21	Storage 253 260	エコノマイザー
+T22	Storage 261 269	安全弁取付ノズル
+T23	Incident 289 291	亀裂
+T24	Product 294 297	フロン
+T25	Incident 299 301	漏洩
+T26	Incident 309 311	振動
+T27	Storage 312 315	安全弁
+T28	Incident 329 333	応力集中
+T29	Storage 336 338	ボス
+T30	Incident 347 349	応力
+T31	Storage 369 375	ノズルネック
+T32	Test 376 378	検査
+T33	Storage 390 397	エコノマイザー
+T35	Incident 398 400	漏洩
+T34	Test 398 402	漏洩点検
+T36	Test 414 418	定期点検
+T37	Test 439 443	簡易点検
+T38	Test 427 431	簡易点検
+T39	Incident 519 523	微量漏れ
+T41	Product 513 516	フロン
+T40	Test 462 469	フロン 検知器
+T42	Test 472 476	自主点検
+T43	Product 506 511	不活性ガス
+T44	Product 462 465	フロン
+T45	Incident 447 451	微量漏れ
+T46	Incident 524 527	カニ泡
+T48	Product 531 535	高圧ガス
+T47	Incident 531 537	高圧ガス事故

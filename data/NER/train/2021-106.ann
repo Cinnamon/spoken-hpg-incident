@@ -1,0 +1,14 @@
+T2	Storage 18 21	冷凍機
+T3	Product 23 26	フロン
+T14	Test 18 29	冷凍機室内フロン検知器
+T1	Incident 18 31	冷凍機室内フロン検知器発報
+T4	Storage 34 37	冷凍機
+T5	Storage 42 45	保温材
+T6	Test 52 56	石けん水
+T8	Product 57 59	ガス
+T7	Test 57 68	ガス漏れ検知 スプレー
+T9	Incident 78 81	漏えい
+T10	Incident 113 116	霜付き
+T11	Storage 134 141	膨張弁ソケット
+T13	Product 144 147	フロン
+T12	Incident 144 149	フロン噴出

@@ -1,0 +1,16 @@
+T1	Incident 5 9	経年劣化
+T2	Storage 11 14	圧縮機
+T3	Product 28 32	冷媒ガス
+T4	Product 60 62	窒素
+T5	Process 63 65	注入
+T6	Storage 71 79	配管フレア式継手
+T7	Incident 83 85	き裂
+T8	Product 99 103	冷媒ガス
+T9	Incident 110 113	漏えい
+T10	Storage 122 125	圧縮機
+T11	Incident 126 130	経年劣化
+T12	Incident 133 137	異常振動
+T13	Storage 141 149	配管フレア式継手
+T15	Chemical 150 152	金属
+T14	Incident 150 154	金属疲労
+T16	Incident 159 161	き裂

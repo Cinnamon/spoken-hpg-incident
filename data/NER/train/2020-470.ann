@@ -1,0 +1,10 @@
+T2	Chemical 12 16	メラミン
+T1	Storage 12 21	メラミン 合成施設
+T3	Test 22 27	パトロール
+T4	Storage 34 48	プランジャーポンプ吐出安全弁
+T5	Storage 49 55	元弁グランド
+T6	Product 59 67	アンモニア ガス
+T7	Incident 68 71	漏えい
+T8	Storage 82 88	締付けナット
+T9	Incident 95 98	漏えい
+T10	Incident 115 117	事故

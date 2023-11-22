@@ -1,0 +1,13 @@
+T1	Incident 0 6	低圧圧力異常
+T2	Incident 7 11	アラーム
+T3	Storage 16 19	冷凍機
+T4	Storage 42 52	キャピラリーチューブ
+T5	Incident 53 55	破断
+T6	Product 64 66	冷媒
+T7	Product 66 71	R410A
+T8	Incident 72 75	漏えい
+T9	Incident 79 83	経年劣化
+T10	Incident 84 86	振動
+T11	Incident 89 91	応力
+T12	Incident 96 98	破断
+T14	Incident 111 113	腐食

@@ -1,0 +1,14 @@
+T1	Storage 12 16	プラント
+T2	Incident 25 27	臭気
+T4	Product 42 44	ガス
+T3	Test 37 47	ポータブルガス検知器
+T5	Storage 62 69	重合器レベル計
+T6	Storage 70 75	取出し配管
+T7	Storage 76 79	保温材
+T8	Product 82 87	可燃性ガス
+T9	Incident 103 106	漏えい
+T10	Storage 120 124	プラント
+T11	Storage 130 132	配管
+T12	Storage 133 135	保温
+T13	Test 140 144	気密試験
+T14	Incident 156 159	漏えい

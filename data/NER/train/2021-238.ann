@@ -1,0 +1,17 @@
+T1	Process 24 28	反応熟成
+T2	Storage 32 35	蓄圧器
+T16	Storage 36 39	反応機
+T17	Storage 40 42	配管
+T3	Product 43 47	高圧ガス
+T4	Incident 62 67	と圧力低下
+T5	Storage 104 107	安全弁
+T6	Incident 104 111	安全弁設定圧力
+T7	Incident 134 138	圧力低下
+T8	Storage 139 142	安全弁
+T9	Incident 142 144	作動
+T10	Storage 146 149	安全弁
+T11	Incident 159 161	漏れ
+T12	Storage 187 190	安全弁
+T13	Incident 190 192	作動
+T14	Incident 195 199	アラーム
+T15	Incident 199 201	発報

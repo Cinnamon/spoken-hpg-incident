@@ -1,0 +1,9 @@
+T1	Storage 13 15	工場
+T2	Storage 21 25	冷凍設備
+T3	Storage 47 50	阻止弁
+T5	Product 51 53	冷媒
+T4	Process 51 55	冷媒封入
+T6	Product 59 66	空調用冷媒ガス
+T8	Product 67 75	フルオロカーボン
+T9	Incident 87 90	漏えい
+T10	Test 143 147	保安検査

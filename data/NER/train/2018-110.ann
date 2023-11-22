@@ -1,0 +1,12 @@
+T1	Storage 26 32	水添脱硫装置
+T2	Storage 33 37	熱交換器
+T3	Incident 40 42	出火
+T4	Storage 52 58	水添脱硫装置
+T5	Process 73 75	脱圧
+T6	Storage 83 85	装置
+T7	Product 87 89	窒素
+T8	Process 90 92	導入
+T9	Chemical 98 100	軽油
+T10	Process 101 103	回収
+T11	Process 104 107	油抜き
+T12	Test 120 122	調査

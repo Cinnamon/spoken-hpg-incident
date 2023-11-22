@@ -1,0 +1,12 @@
+T1	Storage 13 16	冷凍機
+T2	Storage 28 31	冷凍機
+T3	Storage 63 66	冷凍機
+T4	Chemical 85 87	冷水
+T5	Storage 85 90	冷水冷凍機
+T7	Storage 144 147	冷凍機
+T8	Storage 151 158	凝縮器下部配管
+T9	Incident 165 167	破損
+T10	Product 172 176	冷媒ガス
+T11	Incident 177 180	漏えい
+T12	Storage 186 189	冷凍機
+T13	Incident 199 203	操作ミス

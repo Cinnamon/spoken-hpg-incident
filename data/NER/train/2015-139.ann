@@ -1,0 +1,11 @@
+T10	Product 7 11	燃料ガス
+T1	Storage 7 14	燃料ガス洗浄塔
+T2	Storage 16 19	差圧計
+T11	Process 32 36	取り出し
+T3	Incident 39 44	微量漏えい
+T4	Storage 52 74	PDI-2502、差圧計、高圧側取り出し配管
+T5	Storage 80 82	保温
+T6	Storage 87 90	保温材
+T7	Incident 91 95	外面腐食
+T9	Product 99 101	ガス
+T8	Incident 99 103	ガス漏れ

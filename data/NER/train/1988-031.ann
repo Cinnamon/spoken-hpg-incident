@@ -1,0 +1,10 @@
+T2	Chemical 0 6	ポリエチレン
+T1	Storage 0 10	ポリエチレン製造設備
+T3	Storage 11 18	反応器入口配管
+T4	Product 20 26	エチレンガス
+T5	Incident 27 30	漏えい
+T6	Storage 33 37	入口配管
+T7	Storage 42 45	プラグ
+T8	Storage 58 62	ねじ継手
+T9	Product 65 71	エチレンガス
+T10	Incident 72 75	漏えい

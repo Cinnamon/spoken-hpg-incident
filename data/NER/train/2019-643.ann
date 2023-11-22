@@ -1,0 +1,13 @@
+T1	Storage 0 7	チラーユニット
+T2	Incident 8 12	低圧異常
+T3	Incident 13 17	アラーム
+T4	Storage 22 25	冷凍機
+T5	Product 49 51	冷媒
+T8	Storage 49 53	冷媒系統
+T6	Chemical 54 55	水
+T7	Incident 56 58	混入
+T9	Storage 69 73	熱交換器
+T10	Incident 76 78	破損
+T11	Product 86 88	冷媒
+T12	Incident 94 97	漏えい
+T13	Incident 106 109	漏えい

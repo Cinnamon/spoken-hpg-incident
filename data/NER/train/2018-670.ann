@@ -1,0 +1,9 @@
+T1	Storage 13 16	冷凍機
+T2	Storage 17 20	圧縮機
+T3	Incident 21 25	低圧異常
+T10	Incident 28 35	インターロック
+T4	Test 51 57	定期自主検査
+T5	Test 74 76	点検
+T6	Test 99 105	定期自主検査
+T7	Product 113 118	フロンガス
+T8	Incident 126 129	漏えい

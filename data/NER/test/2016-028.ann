@@ -1,0 +1,36 @@
+T1	Storage 18 23	水和反応器
+T3	Chemical 41 50	シクロヘキサノール
+T2	Storage 41 54	シクロヘキサノール 分離塔
+T4	Process 65 67	送液
+T5	Storage 69 71	配管
+T7	Chemical 79 80	油
+T6	Incident 79 82	油漏れ
+T42	Chemical 98 107	シクロヘキサノール
+T8	Storage 98 112	シクロヘキサノール 製造施設
+T10	Chemical 132 133	油
+T9	Incident 132 135	油漏れ
+T11	Incident 177 179	漏れ
+T12	Storage 197 199	配管
+T13	Storage 201 204	遮断弁
+T14	Storage 205 210	流量調節弁
+T15	Storage 241 244	遮断弁
+T16	Storage 245 248	調節弁
+T17	Chemical 250 252	内液
+T18	Incident 253 255	減圧
+T19	Incident 260 265	一部 蒸発
+T20	Storage 276 279	遮断弁
+T21	Storage 287 290	遮断弁
+T22	Storage 292 297	流量調節弁
+T23	Storage 306 308	配管
+T24	Incident 312 316	油撃作用
+T26	Storage 333 336	遮断弁
+T27	Incident 356 360	油撃作用
+T29	Storage 382 385	遮断弁
+T30	Incident 396 398	油撃
+T32	Incident 402 404	危険
+T33	Storage 427 430	遮断弁
+T34	Incident 444 446	油撃
+T36	Storage 471 473	設備
+T37	Incident 483 485	油撃
+T39	Incident 497 499	凍結
+T40	Incident 515 519	油撃作用

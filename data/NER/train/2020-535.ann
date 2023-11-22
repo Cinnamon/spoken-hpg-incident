@@ -1,0 +1,8 @@
+T1	Storage 0 4	生産設備
+T2	Chemical 5 8	冷却水
+T3	Storage 18 21	冷凍機
+T4	Storage 22 30	モジュールチラー
+T5	Incident 43 46	不具合
+T6	Incident 57 59	廃棄
+T7	Product 79 83	冷媒ガス
+T8	Incident 91 94	漏えい

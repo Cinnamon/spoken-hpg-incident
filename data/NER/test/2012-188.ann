@@ -1,0 +1,12 @@
+T1	Test 10 17	現場パトロール
+T3	Chemical 20 26	オクタノール
+T2	Storage 20 30	オクタノール製造施設
+T4	Incident 32 35	漏えい
+T5	Storage 45 47	装置
+T6	Process 51 55	バイパス
+T7	Storage 88 92	保温外装
+T8	Incident 88 96	保温外装不具合部
+T9	Chemical 98 100	雨水
+T10	Incident 101 103	侵入
+T11	Storage 105 109	配管外面
+T12	Incident 110 112	腐食

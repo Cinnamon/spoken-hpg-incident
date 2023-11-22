@@ -1,0 +1,22 @@
+T1	Storage 20 29	OPS 工場空調機
+T3	Storage 30 33	室外機
+T2	Incident 30 39	室外機異常アラーム
+T4	Storage 47 49	機器
+T5	Test 76 78	点検
+T6	Storage 105 111	室内ユニット
+T7	Storage 113 116	蒸発器
+T8	Product 119 125	フロン ガス
+T9	Incident 142 145	漏えい
+T10	Storage 151 160	室内ユニット蒸発器
+T11	Storage 161 165	熱交換器
+T13	Product 167 170	フロン
+T12	Storage 167 175	フロン 側ヘッダ
+T14	Incident 182 185	熱収縮
+T15	Incident 186 188	膨張
+T16	Storage 202 208	ヘッダ連絡管
+T17	Storage 209 211	管板
+T18	Incident 215 221	繰り返し応力
+T19	Incident 226 228	割れ
+T20	Incident 242 244	結露
+T21	Storage 262 268	ヘッダ連絡管
+T22	Incident 275 277	応力

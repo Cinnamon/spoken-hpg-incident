@@ -1,0 +1,12 @@
+T1	Storage 0 10	タンク ヤード 施設
+T2	Product 11 16	高圧 ガス
+T3	Storage 11 19	高圧 ガス 設備
+T12	Storage 23 33	PP STORAGE
+T13	Storage 34 38	TANK
+T4	Test 40 44	法定検査
+T5	Storage 48 50	貯槽
+T7	Storage 70 75	マンホール
+T8	Product 93 95	窒素
+T9	Storage 100 102	貯槽
+T10	Incident 111 113	酸欠
+T11	Incident 116 118	被災

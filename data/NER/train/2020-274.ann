@@ -1,0 +1,14 @@
+T1	Product 18 22	圧縮空気
+T2	Storage 28 35	オートクレーブ
+T11	Incident 49 51	温度
+T12	Incident 44 46	上昇
+T13	Incident 68 70	上昇
+T3	Storage 74 77	安全弁
+T14	Incident 78 80	作動
+T4	Incident 85 86	煙
+T5	Product 89 93	圧縮空気
+T6	Incident 94 97	漏えい
+T7	Storage 101 107	オートクレー
+T8	Chemical 112 114	すす
+T10	Incident 115 117	付着
+T9	Incident 129 131	火災

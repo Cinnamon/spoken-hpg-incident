@@ -1,0 +1,12 @@
+T2	Product 48 52	エチレン
+T1	Process 48 57	エチレン 冷凍工程
+T3	Test 58 63	パトロール
+T4	Product 69 71	ガス
+T5	Incident 72 74	臭気
+T6	Test 81 83	調査
+T8	Product 90 94	エチレン
+T7	Storage 90 100	エチレン 冷凍圧縮機
+T9	Storage 102 110	2段 吸気ドラム
+T10	Storage 111 116	ボトム配管
+T11	Product 118 120	ガス
+T12	Incident 121 124	漏えい

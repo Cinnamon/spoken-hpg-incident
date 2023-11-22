@@ -1,0 +1,14 @@
+T2	Product 14 16	空気
+T1	Storage 14 20	空気分離装置
+T3	Test 21 27	定期自主検査
+T4	Storage 47 52	ブロー配管
+T5	Storage 60 63	保冷箱
+T7	Storage 64 66	外槽
+T6	Incident 64 68	外槽圧力
+T8	Incident 72 74	上昇
+T9	Storage 91 93	外槽
+T10	Storage 94 99	パーライト
+T11	Product 105 109	窒素ガス
+T12	Test 112 114	試験
+T13	Storage 122 127	ブロー配管
+T14	Incident 128 131	漏えい

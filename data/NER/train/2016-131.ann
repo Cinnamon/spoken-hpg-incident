@@ -1,0 +1,23 @@
+T2	Chemical 3 5	軽油
+T3	Product 5 7	水素
+T1	Storage 3 12	軽油水素化脱硫装置
+T4	Incident 41 43	発災
+T5	Storage 45 50	リアクター
+T7	Chemical 51 54	オイル
+T6	Process 51 58	オイルイン作業
+T8	Storage 72 92	8JE-101B 胴側入口ノズルフランジ
+T9	Chemical 96 97	油
+T10	Incident 98 101	漏えい
+T11	Storage 106 108	装置
+T12	Incident 124 127	漏えい
+T13	Incident 145 148	漏えい
+T14	Storage 152 162	スタッキングフランジ
+T15	Storage 178 182	仕切り板
+T16	Storage 199 203	フランジ
+T17	Incident 210 213	不均一
+T18	Incident 221 224	漏えい
+T19	Storage 242 244	装置
+T20	Incident 254 257	熱変化
+T21	Incident 258 262	繰り返し
+T22	Storage 266 271	ガスケット
+T23	Incident 283 286	漏えい

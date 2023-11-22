@@ -1,0 +1,9 @@
+T1	Storage 13 16	冷凍機
+T2	Incident 17 21	低圧異常
+T3	Incident 45 47	異常
+T4	Incident 81 85	設備異常
+T5	Test 113 117	気密検査
+T6	Incident 121 124	漏えい
+T7	Test 139 146	メーカー 点検
+T8	Storage 151 156	電子膨張弁
+T9	Incident 166 169	漏えい

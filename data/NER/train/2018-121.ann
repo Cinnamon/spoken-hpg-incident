@@ -1,0 +1,16 @@
+T1	Test 10 14	日常点検
+T3	Product 23 25	窒素
+T2	Storage 21 28	製品窒素タンク
+T4	Storage 29 34	加圧蒸発器
+T6	Chemical 36 37	氷
+T5	Incident 36 39	氷付き
+T7	Storage 62 67	加圧蒸発器
+T8	Product 69 73	液体窒素
+T9	Storage 96 101	加圧蒸発器
+T10	Process 109 112	縁切り
+T11	Incident 137 139	破損
+T12	Test 146 150	X線撮影
+T13	Chemical 173 179	タングステン
+T14	Chemical 159 165	タングステン
+T15	Incident 188 191	熱応力
+T16	Incident 194 196	破断

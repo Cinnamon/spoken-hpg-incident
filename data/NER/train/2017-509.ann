@@ -1,0 +1,30 @@
+T1	Storage 54 57	昇圧器
+T2	Product 59 66	エチレン ガス
+T3	Process 67 69	導入
+T4	Test 87 92	パトロール
+T5	Storage 98 101	昇圧器
+T6	Storage 102 111	プランジャーシール
+T8	Product 116 121	リークガス
+T9	Process 116 123	リークガス回収
+T7	Storage 116 126	リークガス回収ライン
+T10	Storage 127 132	手動バルブ
+T12	Product 141 148	エチレン ガス
+T13	Incident 149 152	漏えい
+T14	Incident 163 165	避難
+T16	Storage 178 181	CCR
+T15	Process 183 188	縁切り操作
+T18	Storage 196 198	設備
+T17	Process 199 201	脱圧
+T19	Process 210 213	縁切り
+T20	Product 229 231	ガス
+T21	Test 229 234	ガス検知器
+T22	Incident 238 241	漏えい
+T23	Incident 246 249	漏えい
+T24	Storage 262 269	グランドナット
+T25	Storage 278 280	金具
+T26	Storage 281 285	固定ねじ
+T27	Incident 286 288	折損
+T28	Storage 293 296	バルブ
+T29	Storage 307 310	バルブ
+T30	Storage 311 318	グランドナット
+T31	Test 322 325	気密性

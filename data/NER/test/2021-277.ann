@@ -1,0 +1,17 @@
+T1	Storage 0 3	冷凍機
+T2	Test 4 8	要部点検
+T4	Product 30 32	冷媒
+T3	Process 30 34	冷媒回収
+T6	Product 68 70	冷媒
+T5	Process 12 16	冷媒回収
+T7	Product 91 93	冷媒
+T8	Incident 74 77	漏えい
+T10	Product 123 125	冷媒
+T9	Storage 86 95	チューブ側冷媒系統
+T11	Test 96 100	気密試験
+T13	Chemical 109 113	ブライン
+T12	Storage 109 116	ブライン冷却器
+T14	Storage 118 122	チューブ
+T16	Product 12 14	冷媒
+T15	Storage 123 127	冷媒系統
+T17	Incident 129 131	漏れ

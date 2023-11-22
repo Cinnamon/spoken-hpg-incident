@@ -1,0 +1,14 @@
+T1	Chemical 0 2	残油
+T2	Storage 0 6	残油脱硫装置
+T3	Incident 11 13	漏洩
+T5	Product 21 23	ガス
+T4	Test 18 26	携帯式ガス検知器
+T6	Incident 27 31	アラーム
+T7	Incident 32 34	発報
+T8	Incident 36 38	異変
+T9	Test 45 47	点検
+T10	Product 52 56	オフガス
+T11	Storage 52 58	オフガス配管
+T12	Product 61 63	ガス
+T13	Incident 61 66	ガス漏えい
+T14	Incident 67 69	覚知

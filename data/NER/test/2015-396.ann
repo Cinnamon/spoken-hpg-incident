@@ -1,0 +1,38 @@
+T1	Storage 21 25	製造施設
+T3	Product 28 33	ブタジエン
+T2	Incident 28 36	ブタジエン 臭気
+T4	Test 53 57	現場点検
+T5	Storage 82 85	反応器
+T7	Product 87 92	ブタジエン
+T6	Process 87 96	ブタジエン 仕込み
+T8	Storage 108 113	マンホール
+T9	Storage 118 127	サイト グラス 弁
+T10	Storage 131 135	フランジ
+T11	Product 140 148	ブタジエン ガス
+T12	Incident 150 153	漏えい
+T14	Product 164 170	可燃性 ガス
+T13	Test 164 174	可燃性 ガス 検知器
+T15	Incident 175 177	作動
+T16	Storage 181 184	ボルト
+T17	Incident 193 196	漏えい
+T18	Chemical 216 221	緊急停止剤
+T19	Process 222 224	添加
+T20	Product 291 299	ブタジエン ガス
+T36	Product 301 305	モノマー
+T21	Process 301 307	モノマー回収
+T37	Process 335 337	反応
+T22	Incident 380 382	漏れ
+T23	Incident 391 393	漏れ
+T24	Storage 420 423	反応器
+T38	Process 438 440	移送
+T25	Incident 472 475	漏えい
+T26	Storage 520 525	マンホール
+T27	Storage 528 537	サイト グラス 弁
+T28	Storage 547 552	ガスケット
+T29	Incident 554 558	膨潤変形
+T30	Storage 578 583	ガスケット
+T31	Storage 600 610	反応器 第一 バルブ
+T32	Test 671 675	工事検収
+T33	Storage 679 683	フランジ
+T34	Storage 687 692	ガスケット
+T35	Test 696 700	目視確認

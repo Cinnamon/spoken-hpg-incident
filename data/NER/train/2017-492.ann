@@ -1,0 +1,27 @@
+T1	Storage 3 9	常圧蒸留装置
+T3	Chemical 18 21	ナフサ
+T2	Storage 15 26	直留 ナフサ 精留装置
+T4	Storage 33 40	精留塔還流配管
+T5	Storage 42 50	ダミー サポート
+T6	Incident 53 57	外面腐食
+T7	Incident 61 63	穿孔
+T8	Product 76 79	LPG
+T9	Incident 81 84	漏えい
+T10	Test 101 105	定期巡回
+T11	Incident 107 111	漏えい音
+T12	Incident 112 114	覚知
+T13	Storage 116 119	精留塔
+T14	Storage 121 130	リフラックス 配管
+T15	Product 133 136	LPG
+T16	Incident 138 141	漏えい
+T18	Chemical 167 170	ナフサ
+T17	Storage 164 175	直留 ナフサ 精留装置
+T19	Process 183 185	降圧
+T27	Chemical 207 210	ナフサ
+T20	Storage 204 215	直留 ナフサ 精留装置
+T22	Product 236 238	窒素
+T21	Process 236 242	窒素 パージ
+T23	Incident 257 260	漏えい
+T24	Storage 294 298	仕切り板
+T25	Incident 306 309	漏えい
+T26	Process 312 315	縁切り

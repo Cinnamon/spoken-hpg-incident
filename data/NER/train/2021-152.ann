@@ -1,0 +1,13 @@
+T2	Chemical 23 25	廃水
+T1	Storage 19 29	湿式酸化廃水処理設備
+T3	Incident 32 35	異常音
+T4	Incident 43 44	音
+T11	Test 50 52	確認
+T6	Product 55 57	空気
+T5	Storage 55 74	空気圧縮機 4段 シリンダー吐出ノズル
+T7	Incident 79 81	漏れ
+T9	Product 90 92	空気
+T8	Storage 90 95	空気圧縮機
+T10	Test 102 106	目視確認
+T12	Storage 114 124	シリンダー吐出ノズル
+T13	Incident 139 141	漏れ

@@ -1,0 +1,17 @@
+T5	Incident 0 2	事故
+T6	Storage 5 11	接触分解装置
+T7	Storage 17 30	ディエタナイザーリボイラー
+T17	Process 42 44	降温
+T8	Storage 71 82	胴側チャンネルフランジ
+T10	Chemical 85 88	ナフサ
+T9	Incident 85 91	ナフサ漏えい
+T11	Storage 113 115	機器
+T12	Incident 128 131	漏えい
+T1	Incident 160 167	急激な温度低下
+T2	Storage 171 175	フランジ
+T3	Incident 176 181	締め付け力
+T4	Incident 182 184	不足
+T13	Storage 188 192	フランジ
+T14	Incident 195 198	漏えい
+T15	Incident 235 239	温度変化
+T16	Test 263 265	巡視

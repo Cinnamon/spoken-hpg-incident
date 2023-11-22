@@ -1,0 +1,20 @@
+T1	Storage 8 13	配管ベント
+T2	Storage 17 24	キャップナット
+T3	Product 31 39	ブタジエン ガス
+T4	Incident 40 43	漏えい
+T5	Incident 47 50	警報器
+T6	Incident 51 53	鳴動
+T7	Storage 69 71	容器
+T8	Storage 72 75	バルブ
+T9	Incident 79 82	漏えい
+T10	Test 90 94	気密試験
+T12	Product 100 104	高圧ガス
+T11	Storage 100 106	高圧ガス配管
+T13	Storage 110 118	非高圧部分バルブ
+T14	Storage 131 138	キャップナット
+T15	Incident 139 145	締め付け不足
+T16	Incident 148 151	漏えい
+T17	Test 161 165	気密試験
+T18	Storage 167 170	バルブ
+T19	Test 195 197	試験
+T21	Storage 201 204	バルブ

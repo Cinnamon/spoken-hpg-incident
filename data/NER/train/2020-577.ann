@@ -1,0 +1,34 @@
+T2	Product 0 3	LPG
+T1	Storage 0 8	LPG 冷凍貯槽
+T34	Storage 11 14	タンク
+T4	Product 17 18	液
+T3	Process 17 20	液抜き
+T5	Storage 22 28	移送 ポンプ
+T6	Incident 30 33	空引き
+T7	Storage 38 41	ポンプ
+T8	Storage 47 53	吸入 ライン
+T9	Process 55 59	充液作業
+T10	Process 70 72	充液
+T11	Storage 101 104	タンク
+T13	Product 109 111	ガス
+T12	Process 109 114	ガス 抜き
+T15	Product 131 134	LPG
+T14	Storage 131 143	LPG 冷凍貯槽抜出配管
+T17	Product 145 147	ガス
+T16	Storage 145 154	ガス 抜き ノズル
+T18	Storage 157 160	プラグ
+T20	Product 166 168	ガス
+T19	Process 166 172	ガス 溜まり
+T21	Storage 186 189	プラグ
+T22	Product 195 200	ブタジエン
+T23	Incident 202 205	漏えい
+T24	Storage 209 212	ノズル
+T25	Storage 214 216	元弁
+T26	Storage 227 228	弁
+T27	Storage 254 257	プラグ
+T28	Storage 260 263	ノズル
+T29	Product 280 285	ブタジエン
+T30	Incident 287 289	飛散
+T31	Incident 290 292	被液
+T32	Storage 305 308	プラグ
+T33	Incident 332 336	漏洩発生

@@ -1,0 +1,10 @@
+T1	Process 0 3	充てん
+T2	Product 7 9	ガス
+T3	Test 7 12	ガス検知器
+T4	Incident 13 15	発報
+T5	Storage 31 34	圧縮機
+T6	Storage 34 41	2段スナッパー
+T7	Storage 41 52	入り口リングジョイント
+T8	Incident 55 57	漏れ
+T9	Process 63 66	充てん
+T10	Incident 81 87	締め付け不足

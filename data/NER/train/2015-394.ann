@@ -1,0 +1,38 @@
+T1	Incident 0 2	事故
+T2	Chemical 6 12	ポリエチレン
+T3	Storage 6 20	ポリエチレン 第3 製造施設
+T5	Product 21 25	高圧ガス
+T4	Storage 21 27	高圧ガス設備
+T6	Incident 46 49	漏えい
+T7	Product 61 65	エチレン
+T8	Incident 61 67	エチレン 臭
+T9	Test 72 74	点検
+T10	Product 91 95	エチレン
+T11	Storage 97 101	受入配管
+T12	Storage 102 107	圧力調節弁
+T13	Chemical 114 117	グリス
+T14	Storage 122 128	ルブリケータ
+T15	Storage 129 133	ニップル
+T16	Incident 135 138	漏えい
+T17	Storage 179 182	調節弁
+T18	Storage 186 189	バルブ
+T19	Process 190 193	縁切り
+T20	Product 205 207	窒素
+T21	Process 205 209	窒素置換
+T22	Incident 211 214	漏えい
+T23	Product 239 241	ガス
+T24	Test 239 244	ガス検知器
+T25	Product 246 250	エチレン
+T26	Incident 246 254	エチレン 漏えい
+T27	Storage 272 275	調節弁
+T28	Chemical 284 287	グリス
+T29	Storage 295 301	ルブリケータ
+T30	Storage 314 320	ルブリケータ
+T31	Storage 321 325	ニップル
+T32	Incident 331 335	外面腐食
+T33	Incident 338 340	減肉
+T34	Incident 342 347	ピンホール
+T35	Storage 366 372	装置内調節弁
+T36	Storage 373 379	ルブリケータ
+T38	Incident 380 384	外面腐食
+T37	Test 380 387	外面腐食総点検

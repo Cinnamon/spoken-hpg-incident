@@ -1,0 +1,15 @@
+T1	Incident 6 13	低圧異常エラー
+T2	Storage 14 16	設備
+T3	Incident 30 33	エラー
+T4	Incident 41 48	低圧異常エラー
+T5	Test 69 73	目視点検
+T7	Product 85 87	冷媒
+T6	Process 85 89	冷媒回収
+T8	Incident 111 114	漏えい
+T10	Product 104 106	窒素
+T9	Process 104 108	窒素充填
+T11	Incident 97 100	漏えい
+T12	Storage 125 139	ブレージングプレート式冷却器
+T13	Incident 144 147	漏えい
+T15	Product 157 159	冷媒
+T14	Incident 157 162	冷媒漏えい

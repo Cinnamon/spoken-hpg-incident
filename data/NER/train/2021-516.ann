@@ -1,0 +1,10 @@
+T1	Chemical 0 6	ポリエチレン
+T2	Storage 0 12	ポリエチレン 中試験装置
+T3	Storage 19 23	冷凍設備
+T4	Storage 24 27	凝縮器
+T5	Storage 37 40	安全弁
+T6	Test 41 43	点検
+T9	Process 47 52	取外し作業
+T10	Incident 62 67	取外し箇所
+T7	Product 81 84	フロン
+T8	Incident 93 95	漏洩

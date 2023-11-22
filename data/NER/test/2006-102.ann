@@ -1,0 +1,15 @@
+T1	Incident 0 4	事故発生
+T3	Product 14 16	ガス
+T2	Incident 14 18	ガス臭い
+T4	Storage 48 53	バルク貯槽
+T6	Chemical 54 55	液
+T5	Storage 54 62	液取り出しバルブ
+T7	Incident 65 68	漏えい
+T8	Chemical 75 76	液
+T9	Storage 75 83	液取り出しバルブ
+T10	Storage 102 110	インレットプラグ
+T11	Incident 117 120	漏えい
+T12	Storage 148 153	バルク貯槽
+T13	Test 163 165	点検
+T14	Storage 183 186	バルブ
+T15	Storage 187 190	カバー

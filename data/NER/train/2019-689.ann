@@ -1,0 +1,13 @@
+T1	Product 9 11	空気
+T2	Storage 9 17	空気液化分離装置
+T3	Storage 17 21	内部配管
+T4	Incident 21 24	不具合
+T5	Product 52 54	空気
+T6	Storage 52 60	空気液化分離装置
+T7	Product 91 93	空気
+T8	Storage 91 99	空気液化分離装置
+T10	Storage 117 119	外槽
+T9	Storage 138 140	外槽
+T11	Incident 141 146	内部漏えい
+T12	Product 150 152	空気
+T13	Incident 152 158	液化分離装置

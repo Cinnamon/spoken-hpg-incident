@@ -1,0 +1,15 @@
+T1	Storage 0 7	流量調節弁保温
+T2	Incident 10 12	滲み
+T3	Storage 20 22	保温
+T4	Storage 32 42	FICV ボンネット
+T5	Incident 43 48	ピンホール
+T6	Chemical 58 64	スルフォラン
+T7	Chemical 67 71	ベンゼン
+T8	Chemical 74 78	トルエン
+T9	Incident 80 82	漏れ
+T10	Storage 91 93	装置
+T11	Incident 106 110	初期不良
+T12	Incident 111 114	引け巣
+T13	Storage 116 119	調整弁
+T14	Incident 127 129	腐食
+T15	Incident 145 147	穿孔

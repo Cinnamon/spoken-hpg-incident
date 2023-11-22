@@ -1,0 +1,10 @@
+T1	Test 7 11	定期巡回
+T2	Incident 18 21	漏えい
+T3	Incident 22 24	感知
+T4	Test 26 28	調査
+T5	Storage 34 37	バルブ
+T6	Storage 38 42	グランド
+T7	Incident 45 48	漏えい
+T9	Incident 61 64	漏えい
+T10	Storage 75 78	シール
+T11	Incident 75 82	シール管理不良

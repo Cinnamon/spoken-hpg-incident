@@ -1,0 +1,11 @@
+T1	Incident 26 30	温度過昇
+T2	Incident 32 34	警告
+T3	Incident 54 56	発報
+T4	Test 81 85	現場確認
+T5	Storage 94 100	凝縮器冷却管
+T7	Product 103 105	冷媒
+T6	Incident 103 107	冷媒漏れ
+T9	Product 113 116	フロン
+T8	Incident 113 117	フロン漏
+T10	Incident 144 148	人的被害
+T11	Incident 150 154	物的被害

@@ -1,0 +1,9 @@
+T1	Chemical 36 40	ヘキサン
+T9	Chemical 44 47	オイル
+T2	Test 72 79	定期パトロール
+T3	Incident 81 83	臭気
+T4	Test 89 91	捜査
+T5	Storage 108 111	安全弁
+T6	Storage 112 123	ボンネットベントホール
+T7	Chemical 126 130	ヘキサン
+T8	Incident 132 137	微量漏えい

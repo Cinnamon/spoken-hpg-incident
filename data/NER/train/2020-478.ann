@@ -1,0 +1,10 @@
+T1	Storage 0 29	スタビーライザーレシーバーポンプケーシングブリーダー弁配管
+T2	Product 31 34	LPG
+T3	Incident 35 38	漏えい
+T4	Incident 42 47	不具合覚知
+T5	Storage 49 52	予備機
+T6	Storage 58 60	機器
+T7	Storage 67 70	バルブ
+T8	Storage 76 79	ポンプ
+T9	Process 81 83	脱圧
+T10	Incident 87 90	漏えい

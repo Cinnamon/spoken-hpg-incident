@@ -1,0 +1,7 @@
+T1	Storage 5 7	装置
+T2	Test 17 21	現場確認
+T3	Storage 24 37	熱交換器シェル入ロフランジ
+T4	Storage 38 41	シェル
+T5	Product 46 48	ガス
+T6	Incident 46 50	ガス漏洩
+T7	Incident 51 53	覚知

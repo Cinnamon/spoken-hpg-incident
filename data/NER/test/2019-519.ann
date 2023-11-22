@@ -1,0 +1,17 @@
+T1	Storage 2 4	設備
+T2	Incident 5 10	漏えい事故
+T3	Incident 18 21	漏えい
+T4	Test 18 25	漏えいチェック
+T5	Storage 35 43	リキッドクーラー
+T6	Storage 43 47	出口配管
+T7	Product 49 51	冷媒
+T8	Product 52 57	R404A
+T9	Incident 59 61	漏れ
+T10	Storage 68 76	リキッドクーラー
+T11	Storage 76 80	出口配管
+T13	Chemical 86 87	鋼
+T12	Storage 81 88	ラッキング鋼板
+T14	Incident 103 105	振動
+T15	Incident 115 117	切創
+T16	Incident 127 131	製作不良
+T17	Incident 134 140	施工管理不良

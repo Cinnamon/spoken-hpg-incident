@@ -1,0 +1,16 @@
+T1	Storage 21 25	冷凍設備
+T2	Product 28 30	冷媒
+T3	Incident 28 32	冷媒漏れ
+T4	Incident 36 38	痕跡
+T5	Product 46 48	ガス
+T6	Test 46 51	ガス検知器
+T7	Test 52 54	調査
+T8	Incident 59 62	漏えい
+T9	Storage 67 70	保温材
+T10	Incident 75 78	漏えい
+T11	Test 75 81	漏えい検知液
+T12	Incident 82 85	漏えい
+T13	Storage 105 112	蒸発器戻り配管
+T14	Storage 113 116	ノズル
+T15	Incident 120 125	ピンホール
+T16	Test 132 134	調査

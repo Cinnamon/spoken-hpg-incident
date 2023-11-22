@@ -1,0 +1,49 @@
+T2	Product 12 15	VCM
+T1	Storage 12 22	VCM 受け入れ貯槽
+T4	Product 28 31	VCM
+T3	Storage 24 34	重合用 VCM 貯槽
+T5	Process 35 37	送液
+T6	Storage 42 47	重合用貯槽
+T7	Storage 52 55	遮断弁
+T8	Test 82 86	現場巡視
+T9	Storage 88 93	重合用貯槽
+T10	Storage 94 101	受入れ用遮断弁
+T11	Storage 106 112	安全弁放出管
+T12	Chemical 115 117	水滴
+T13	Storage 139 144	重合用貯槽
+T14	Storage 152 158	安全弁放出管
+T15	Incident 159 160	霜
+T17	Product 174 179	VCM 液
+T16	Incident 174 181	VCM 液放出
+T18	Product 199 202	VCM
+T19	Incident 204 206	放出
+T21	Product 216 219	VCM
+T20	Storage 216 226	VCM 受入れライン
+T22	Incident 228 230	昇圧
+T23	Storage 237 242	重合用貯槽
+T24	Storage 244 251	受入れ用遮断弁
+T25	Process 256 258	落圧
+T26	Product 262 264	ガス
+T27	Incident 265 267	漏洩
+T28	Incident 278 285	人的、物的被害
+T29	Storage 292 297	受入れ貯槽
+T30	Storage 299 304	重合用貯槽
+T31	Storage 306 312	払出しポンプ
+T32	Storage 313 319	吐出しライン
+T33	Incident 322 324	液封
+T34	Storage 332 335	減圧弁
+T35	Storage 340 344	バイパス
+T49	Storage 345 350	均圧ライン
+T36	Storage 363 366	減圧弁
+T37	Storage 367 370	ポンプ
+T38	Storage 377 382	受入れ貯槽
+T39	Incident 405 407	事故
+T40	Test 409 411	調査
+T41	Storage 428 431	減圧弁
+T42	Storage 466 469	ポンプ
+T43	Storage 496 499	減圧弁
+T44	Storage 504 514	重合貯槽受入れライン
+T45	Incident 515 519	液封状態
+T46	Storage 523 526	安全弁
+T47	Incident 527 529	作動
+T48	Storage 535 538	減圧弁

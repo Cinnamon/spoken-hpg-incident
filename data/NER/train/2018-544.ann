@@ -1,0 +1,17 @@
+T1	Product 45 50	炭酸 ガス
+T17	Chemical 59 62	ドレン
+T2	Storage 45 74	炭酸 ガス クーラー 後流 ドレン トラップ バイパス 弁
+T4	Incident 89 91	漏れ
+T16	Storage 99 103	プラント
+T5	Incident 112 115	漏えい
+T8	Storage 122 123	弁
+T3	Product 135 140	炭酸 ガス
+T6	Chemical 141 144	ドレン
+T7	Incident 148 152	内面腐食
+T9	Incident 158 163	ピンホール
+T10	Product 178 183	炭酸 ガス
+T11	Chemical 186 189	ドレン
+T12	Chemical 191 194	炭酸水
+T13	Storage 197 198	弁
+T14	Chemical 200 209	カーボン スチール
+T15	Incident 212 216	内面腐食

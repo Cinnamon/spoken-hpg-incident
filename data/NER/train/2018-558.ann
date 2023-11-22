@@ -1,0 +1,33 @@
+T2	Chemical 0 4	重質軽油
+T3	Product 4 6	水素
+T1	Storage 0 11	重質軽油水素化脱硫装置
+T5	Storage 18 21	加熱炉
+T4	Test 23 29	定期自主点検
+T6	Test 45 50	運転中検査
+T7	Product 72 77	燃料 ガス
+T8	Product 79 85	非高圧 ガス
+T9	Process 72 88	燃料 ガス 、非高圧 ガス 供給
+T10	Storage 93 97	バーナー
+T11	Incident 99 101	消炎
+T13	Product 112 117	燃料 ガス
+T12	Process 112 120	燃料 ガス 供給
+T14	Storage 129 132	加熱炉
+T15	Product 134 139	燃料 ガス
+T16	Incident 141 145	異常燃焼
+T17	Incident 150 152	爆発
+T18	Test 158 171	インターロック 運転中検査
+T19	Test 179 181	検査
+T20	Storage 190 193	バルブ
+T21	Storage 246 249	バルブ
+T22	Storage 261 264	加熱炉
+T24	Product 266 271	燃料 ガス
+T25	Product 273 279	非高圧 ガス
+T23	Process 266 282	燃料 ガス 、非高圧 ガス 供給
+T26	Storage 301 309	加熱炉 バーナー
+T27	Incident 311 313	消炎
+T28	Storage 337 341	バーナー
+T30	Product 363 368	燃料 ガス
+T29	Process 363 371	燃料 ガス 供給
+T31	Storage 386 389	加熱炉
+T32	Product 391 396	未燃 ガス
+T33	Incident 403 405	爆発

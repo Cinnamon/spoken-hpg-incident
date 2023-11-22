@@ -1,0 +1,23 @@
+T1	Incident 0 2	事故
+T3	Product 5 7	ガス
+T2	Storage 5 14	ガスタービン発電所
+T4	Product 26 34	液化 アンモニア
+T5	Storage 26 40	液化 アンモニア 貯槽タンク
+T6	Storage 42 49	第1 種貯蔵所
+T7	Storage 74 78	巡回点検
+T8	Product 81 89	液化 アンモニア
+T9	Storage 81 95	液化 アンモニア 貯蔵タンク
+T10	Storage 96 100	フランジ
+T11	Product 105 110	アンモニア
+T12	Incident 113 116	漏えい
+T13	Incident 140 142	発災
+T14	Incident 144 146	脱圧
+T15	Storage 157 159	箇所
+T16	Incident 168 171	漏えい
+T17	Test 184 188	開放検査
+T18	Test 199 204	運転時検査
+T19	Storage 208 212	フランジ
+T20	Incident 216 219	漏えい
+T21	Storage 232 237	ガスケット
+T22	Incident 309 313	応力変動
+T23	Incident 329 332	漏えい

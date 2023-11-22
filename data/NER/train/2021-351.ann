@@ -1,0 +1,19 @@
+T1	Storage 12 20	フレオン 冷凍機
+T2	Product 21 23	冷媒
+T4	Product 26 29	フロン
+T3	Product 26 32	フロン 22
+T5	Process 34 36	補給
+T6	Product 38 40	冷媒
+T7	Incident 62 64	減少
+T8	Incident 77 79	漏洩
+T9	Chemical 105 107	塩酸
+T10	Storage 105 119	塩酸塔還流配管冷却用 二重管
+T11	Storage 122 129	フレオン 配管
+T12	Product 136 142	フロン ガス
+T13	Incident 143 145	漏洩
+T14	Incident 146 148	検知
+T15	Storage 152 154	配管
+T16	Test 161 165	気密試験
+T17	Incident 175 177	漏れ
+T18	Incident 178 181	カニ泡
+T19	Storage 201 203	配管

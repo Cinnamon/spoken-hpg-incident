@@ -1,0 +1,12 @@
+T1	Test 20 25	パトロール
+T2	Product 31 33	水素
+T3	Storage 31 37	水素製造装置
+T4	Storage 38 41	シェル
+T5	Incident 44 46	亀裂
+T6	Product 51 53	水素
+T7	Product 54 58	混合ガス
+T8	Incident 59 61	漏洩
+T9	Incident 83 85	漏洩
+T10	Storage 90 93	バルブ
+T11	Process 94 98	ブロック
+T12	Process 100 102	脱圧

@@ -1,0 +1,16 @@
+T1	Storage 9 12	ポンプ
+T2	Storage 13 32	セルフフラッシング用フレキシブルホース
+T3	Incident 33 34	霜
+T4	Incident 35 37	付着
+T5	Storage 60 66	サクション弁
+T6	Storage 72 75	ポンプ
+T7	Process 76 78	脱圧
+T9	Test 87 91	各直巡視
+T8	Incident 93 96	漏えい
+T10	Storage 112 121	フレキシブルホース
+T11	Incident 122 129	取り付け方不良
+T12	Incident 132 136	疲労割れ
+T13	Storage 249 250	機
+T14	Storage 254 256	配管
+T16	Storage 288 297	フラッシングライン
+T17	Storage 298 300	配管

@@ -1,0 +1,26 @@
+T1	Incident 17 19	地震
+T2	Incident 22 24	被害
+T3	Test 25 27	調査
+T5	Product 49 52	LPG
+T6	Product 64 67	LPG
+T4	Storage 46 71	低温 LPG 入出荷、貯蔵設備低温 LPG タンク
+T7	Storage 73 77	附属配管
+T8	Storage 87 90	保冷材
+T9	Chemical 94 95	霜
+T10	Incident 96 98	付着
+T11	Storage 109 112	保冷材
+T12	Storage 120 124	附属配管
+T14	Product 130 133	LPG
+T13	Incident 130 137	LPG 漏えい
+T15	Storage 151 157	上下流バルブ
+T16	Process 161 164	縁切り
+T18	Product 165 166	液
+T17	Process 165 168	液抜き
+T19	Process 170 176	パージ 作業
+T20	Storage 191 194	保冷材
+T21	Storage 197 199	配管
+T22	Incident 202 203	錆
+T23	Storage 218 220	配管
+T24	Incident 232 233	穴
+T25	Product 241 244	LPG
+T26	Incident 246 249	漏えい

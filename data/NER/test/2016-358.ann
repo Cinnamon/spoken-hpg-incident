@@ -1,0 +1,23 @@
+T1	Test 7 14	定時パトロール
+T2	Storage 17 33	分離槽、 HP-V14 出口配管
+T3	Product 35 39	水素ガス
+T4	Incident 40 43	漏えい
+T5	Process 67 69	脱圧
+T7	Product 72 74	窒素
+T6	Process 72 76	窒素置換
+T8	Incident 98 101	漏えい
+T9	Incident 108 110	腐食
+T10	Storage 134 136	配管
+T11	Storage 114 116	配管
+T12	Incident 139 141	付着
+T13	Chemical 143 147	工業用水
+T14	Incident 148 150	蒸発
+T15	Incident 152 156	サイクル
+T16	Chemical 165 169	工業用水
+T17	Product 171 173	塩素
+T18	Incident 177 179	濃縮
+T19	Product 187 192	高濃度塩素
+T20	Incident 195 201	硬質スケール
+T22	Product 208 211	塩化物
+T21	Incident 208 217	塩化物応力腐食割れ
+T23	Incident 222 224	貫通

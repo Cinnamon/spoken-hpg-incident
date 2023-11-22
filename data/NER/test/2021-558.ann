@@ -1,0 +1,14 @@
+T1	Storage 3 6	タンク
+T2	Process 33 40	サンプル 採取
+T3	Chemical 43 44	水
+T4	Process 43 48	水切り作業
+T6	Product 58 61	ガス検
+T5	Test 55 63	定置式ガス検知器
+T7	Incident 65 72	アラーム 発報
+T8	Test 79 83	現場確認
+T9	Storage 91 98	水切り ライン
+T10	Incident 102 106	かげろう
+T11	Product 113 115	ガス
+T12	Storage 120 123	バルブ
+T13	Incident 138 142	かげろう
+T14	Incident 153 156	漏えい

@@ -1,0 +1,14 @@
+T1	Storage 0 7	工場高圧圧縮機
+T3	Product 8 13	高圧 ガス
+T2	Storage 8 16	高圧 ガス 設備
+T14	Product 41 43	ガス
+T4	Test 41 47	ガス 検知器
+T5	Incident 48 50	作動
+T6	Storage 62 76	圧縮機 シリンダー 吐出配管
+T7	Product 82 86	エチレン
+T8	Incident 82 90	エチレン 漏えい
+T9	Storage 113 116	圧縮機
+T11	Product 125 129	エチレン
+T10	Incident 125 133	エチレン 漏えい
+T12	Storage 147 150	圧縮機
+T13	Storage 151 158	縁切り脱圧操作

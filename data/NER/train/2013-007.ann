@@ -1,0 +1,12 @@
+T1	Storage 4 6	配管
+T2	Incident 7 8	錆
+T3	Storage 25 27	配管
+T4	Product 29 33	LPガス
+T5	Incident 34 37	漏えい
+T6	Storage 40 42	施設
+T7	Incident 53 56	漏えい
+T8	Storage 59 62	バルブ
+T10	Product 67 69	窒素
+T9	Process 67 73	窒素置換処理
+T11	Storage 87 90	保温材
+T12	Incident 93 97	外面腐食

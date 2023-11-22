@@ -1,0 +1,20 @@
+T1	Storage 15 18	重合缶
+T2	Product 20 25	ブタジエン
+T3	Process 26 30	チャージ
+T4	Test 47 55	保安監視システム
+T19	Storage 57 60	重合缶
+T7	Product 60 65	可燃性ガス
+T5	Incident 60 70	可燃性ガス検知器警報
+T6	Incident 70 72	作動
+T8	Process 79 83	チャージ
+T9	Test 98 102	現場確認
+T10	Storage 114 117	重合缶
+T11	Storage 120 122	配管
+T12	Product 125 130	ブタジエン
+T13	Incident 125 134	ブタジエン 漏えい
+T14	Storage 150 153	重合缶
+T15	Chemical 154 155	水
+T16	Chemical 160 161	水
+T20	Storage 228 231	ライン
+T17	Process 228 234	ライン水押し
+T18	Incident 360 362	漏れ

@@ -1,0 +1,55 @@
+T1	Storage 21 24	事業所
+T2	Product 25 33	低温 LP ガス
+T3	Storage 25 41	低温 LP ガス入出荷、貯蔵設備
+T4	Product 46 52	低温 ブタン
+T5	Storage 46 57	低温 ブタン 受入配管
+T6	Storage 58 60	保冷
+T7	Incident 65 66	霜
+T8	Product 85 90	可燃性ガス
+T9	Test 85 93	可燃性ガス検知器
+T10	Product 98 101	ブタン
+T11	Incident 103 106	漏えい
+T12	Test 115 121	検出限界以下
+T13	Storage 139 141	配管
+T14	Incident 143 144	霜
+T15	Product 148 151	ブタン
+T16	Incident 148 155	ブタン 漏えい
+T22	Incident 158 161	気化熱
+T17	Storage 183 189	上下流バルブ
+T18	Process 198 201	縁切り
+T19	Process 202 204	脱圧
+T20	Product 205 207	窒素
+T21	Process 205 210	窒素パージ
+T23	Process 255 258	縁切り
+T25	Product 262 264	窒素
+T26	Process 262 269	窒素パージ作業
+T27	Process 283 285	保冷
+T28	Test 291 295	目視検査
+T29	Storage 301 303	配管
+T30	Incident 312 314	開孔
+T31	Incident 351 353	事故
+T32	Incident 364 367	漏えい
+T33	Storage 371 373	配管
+T34	Storage 378 382	保冷外装
+T35	Incident 383 387	経年劣化
+T36	Product 399 401	大気
+T37	Chemical 403 405	水分
+T38	Storage 411 413	配管
+T39	Storage 420 422	配管
+T40	Product 427 430	ブタン
+T42	Incident 438 440	付着
+T41	Chemical 442 444	水分
+T43	Incident 445 447	凍結
+T44	Product 450 453	ブタン
+T24	Incident 465 467	融解
+T45	Incident 486 489	漏えい
+T46	Incident 499 501	腐食
+T47	Incident 506 508	開孔
+T48	Incident 533 535	津波
+T49	Incident 538 540	水没
+T50	Storage 542 544	機器
+T51	Storage 547 549	配管
+T52	Test 554 558	順次点検
+T53	Incident 567 570	漏えい
+T54	Incident 573 575	水没
+T55	Test 581 583	点検

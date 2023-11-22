@@ -1,0 +1,25 @@
+T1	Storage 8 11	冷凍機
+T2	Storage 45 48	圧縮機
+T3	Incident 49 53	低圧異常
+T4	Storage 65 68	冷凍機
+T5	Test 84 90	定期自主検査
+T6	Test 107 113	定期自主検査
+T7	Product 114 116	冷媒
+T8	Chemical 119 122	冷却水
+T9	Test 134 138	詳細調査
+T10	Storage 144 149	共通冷却器
+T12	Chemical 156 157	銅
+T11	Storage 156 162	銅製チューブ
+T13	Product 165 171	フロン ガス
+T14	Incident 177 180	漏えい
+T15	Storage 193 198	共通冷却器
+T16	Storage 199 207	バッフルプレート
+T17	Chemical 208 212	テフロン
+T19	Chemical 223 224	銅
+T18	Storage 223 229	銅製チューブ
+T20	Incident 231 244	エロージョン、コロージョン
+T21	Incident 247 249	減肉
+T22	Storage 251 259	バッフルプレート
+T23	Incident 266 268	摩耗
+T24	Incident 276 278	減肉
+T25	Incident 279 281	開口

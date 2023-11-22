@@ -1,0 +1,11 @@
+T2	Product 18 23	プロピレン
+T1	Process 18 26	プロピレン 通油
+T3	Test 47 51	定期巡回
+T4	Incident 53 55	異常
+T5	Test 78 82	定期巡回
+T7	Product 85 90	プロピレン
+T8	Process 91 93	回収
+T9	Product 98 103	プロピレン
+T6	Storage 85 106	プロピレン 回収装置行き プロピレン 配管
+T11	Product 108 110	ガス
+T10	Incident 108 112	ガス漏洩

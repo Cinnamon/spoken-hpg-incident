@@ -1,0 +1,16 @@
+T1	Test 0 7	現場パトロール
+T3	Chemical 12 16	エーテル
+T2	Storage 10 27	汎用エーテル製造施設水添塔スカート
+T4	Incident 35 37	滲み
+T5	Incident 44 46	漏れ
+T6	Storage 69 73	スカート
+T8	Product 79 81	ガス
+T7	Test 76 84	高感度ガス検知器
+T9	Product 101 106	可燃性ガス
+T10	Incident 107 109	検知
+T11	Storage 113 114	塔
+T13	Chemical 116 117	液
+T12	Product 132 134	窒素
+T14	Test 136 140	気密試験
+T15	Storage 149 157	水添塔下部ノズル
+T16	Incident 160 162	気泡

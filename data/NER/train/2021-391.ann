@@ -1,0 +1,17 @@
+T2	Product 4 8	高圧ガス
+T1	Storage 4 12	高圧ガス製造施設
+T4	Chemical 17 19	海水
+T3	Storage 17 22	海水回収槽
+T6	Product 26 28	ガス
+T5	Test 26 31	ガス検知器
+T7	Incident 32 34	発報
+T9	Storage 38 40	施設
+T8	Storage 58 62	熱交換器
+T10	Test 50 52	調査
+T11	Storage 87 91	熱交換器
+T12	Chemical 66 68	海水
+T14	Product 71 73	ガス
+T13	Incident 71 75	ガス流入
+T15	Storage 43 47	熱交換器
+T16	Chemical 92 94	海水
+T17	Storage 101 103	装置

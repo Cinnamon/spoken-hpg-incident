@@ -1,0 +1,17 @@
+T1	Test 0 6	定期自主点検
+T3	Product 9 12	フロン
+T2	Test 9 15	フロン検知器
+T4	Test 16 18	測定
+T5	Product 56 58	冷媒
+T6	Incident 75 78	漏えい
+T7	Chemical 104 106	ろう
+T8	Chemical 130 132	ろう
+T9	Chemical 119 121	ろう
+T10	Incident 136 142	溶け込み不良
+T11	Incident 145 150	ピンホール
+T13	Process 159 161	加圧
+T12	Product 165 167	冷媒
+T14	Incident 168 171	漏えい
+T15	Incident 201 205	トラブル
+T16	Storage 232 235	冷凍機
+T17	Incident 236 240	類似事故

@@ -1,0 +1,10 @@
+T1	Test 3 7	定期点検
+T2	Test 12 16	石けん水
+T4	Test 22 26	気密試験
+T5	Storage 35 38	蒸発器
+T6	Storage 39 43	出口配管
+T7	Incident 45 48	カニ泡
+T8	Incident 50 53	漏えい
+T9	Storage 66 69	バルブ
+T10	Incident 74 77	漏えい
+T3	Storage 19 21	配管

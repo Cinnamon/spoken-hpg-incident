@@ -1,0 +1,17 @@
+T1	Chemical 0 7	ポリプロピレン
+T2	Storage 0 11	ポリプロピレン製造施設
+T4	Product 13 15	ガス
+T3	Storage 12 16	脱ガス槽
+T5	Storage 21 30	サンプリングポット
+T7	Product 48 50	ガス
+T6	Storage 47 51	脱ガス槽
+T8	Storage 52 55	自動弁
+T9	Storage 64 73	サンプリングポット
+T10	Storage 76 77	弁
+T11	Product 88 95	プロピレンガス
+T12	Chemical 96 98	粒子
+T13	Product 99 102	混合物
+T14	Incident 107 109	噴出
+T15	Incident 110 112	出火
+T16	Incident 116 119	静電気
+T17	Incident 122 124	着火

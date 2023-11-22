@@ -1,0 +1,43 @@
+T2	Chemical 0 2	軽油
+T1	Storage 0 6	軽油脱硫装置
+T3	Test 15 17	巡回
+T5	Product 24 26	ガス
+T4	Incident 24 28	ガス 臭
+T7	Product 54 59	燃料 ガス
+T6	Storage 34 64	フラクショネーター 加熱炉 28F-2 燃料 ガス 保温配管
+T9	Product 69 71	ガス
+T8	Test 65 75	携帯式 ガス 検知器
+T41	Product 85 87	ガス
+T10	Test 85 91	ガス 検知器
+T11	Incident 92 94	鳴動
+T12	Product 97 99	ガス
+T13	Incident 101 104	漏えい
+T14	Incident 111 113	覚知
+T15	Storage 129 132	バルブ
+T16	Storage 137 140	仕切板
+T17	Incident 146 149	漏えい
+T18	Storage 161 165	サポート
+T20	Chemical 172 173	鉄
+T19	Storage 168 174	保温外装鉄板
+T22	Chemical 181 183	雨水
+T21	Storage 181 187	雨水 シール
+T23	Chemical 204 206	雨水
+T32	Incident 207 209	浸入
+T24	Storage 217 219	配管
+T26	Storage 220 224	保温外装
+T25	Incident 225 227	腐食
+T27	Storage 238 240	保温
+T28	Incident 245 247	腐食
+T29	Storage 250 254	保温外装
+T42	Incident 255 257	開口
+T43	Incident 261 263	開口
+T30	Chemical 267 269	雨水
+T31	Incident 270 272	浸入
+T33	Storage 275 277	配管
+T34	Incident 278 282	外面腐食
+T35	Incident 283 285	加速
+T36	Storage 300 303	加熱炉
+T37	Storage 317 319	施設
+T38	Storage 322 325	加熱炉
+T39	Storage 333 337	保温配管
+T40	Test 341 345	拡大検査

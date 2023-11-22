@@ -1,0 +1,6 @@
+T1	Chemical 16 21	フッ素樹脂
+T2	Storage 16 25	フッ素樹脂製造施設
+T3	Product 35 41	プロセスガス
+T4	Incident 42 44	検知
+T6	Product 55 63	六弗化プロピレン
+T5	Incident 64 67	漏えい

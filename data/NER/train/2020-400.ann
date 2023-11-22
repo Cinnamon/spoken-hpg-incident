@@ -1,0 +1,14 @@
+T2	Product 12 17	LP ガス
+T1	Storage 0 10	LP ガス容器配送車
+T3	Product 0 5	LP ガス
+T4	Storage 22 24	充瓶
+T5	Incident 64 66	接触
+T7	Storage 89 92	配送車
+T6	Incident 93 95	横転
+T8	Storage 97 99	荷台
+T9	Incident 101 103	転落
+T10	Storage 106 113	50kg 容器
+T11	Storage 131 133	容器
+T12	Incident 136 141	穴あけ損傷
+T13	Product 147 152	LP ガス
+T14	Incident 153 158	噴出漏えい

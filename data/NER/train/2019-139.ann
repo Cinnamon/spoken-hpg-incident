@@ -1,0 +1,15 @@
+T1	Product 13 19	三フッ化窒素
+T2	Storage 20 24	小型容器
+T3	Process 25 28	充てん
+T4	Storage 30 32	容器
+T5	Storage 44 47	容器弁
+T6	Storage 48 52	真鍮継手
+T7	Incident 54 57	漏れ音
+T8	Storage 68 71	容器弁
+T9	Incident 78 81	漏えい
+T10	Incident 93 96	漏えい
+T11	Storage 98 103	吸引ダクト
+T12	Storage 113 115	容器
+T13	Product 117 119	ガス
+T14	Process 120 122	除害
+T15	Test 159 161	調査

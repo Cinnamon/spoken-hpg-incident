@@ -1,0 +1,10 @@
+T1	Storage 24 27	凝縮器
+T2	Storage 29 32	止め弁
+T3	Storage 38 43	ガスケット
+T5	Product 48 51	フロン
+T4	Process 48 53	フロン回収
+T6	Process 67 69	回収
+T7	Test 102 104	点検
+T8	Storage 113 122	サーキットクーラー
+T9	Incident 129 131	漏れ
+T10	Incident 142 148	カ 二泡発泡

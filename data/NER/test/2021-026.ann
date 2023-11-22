@@ -1,0 +1,12 @@
+T1	Storage 0 4	製造設備
+T2	Storage 5 8	凝縮器
+T3	Storage 12 22	ドライヤーフィルター
+T4	Storage 25 27	配管
+T5	Incident 32 37	ピンホール
+T6	Product 41 43	冷媒
+T7	Incident 52 56	微少漏れ
+T8	Test 71 73	点検
+T10	Product 78 80	冷媒
+T9	Test 78 83	冷媒検知器
+T11	Incident 98 101	漏えい
+T12	Incident 123 126	漏えい

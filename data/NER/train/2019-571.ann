@@ -1,0 +1,10 @@
+T9	Incident 0 4	下流指示
+T10	Incident 4 6	低下
+T1	Test 37 41	現場確認
+T2	Storage 45 47	現場
+T3	Storage 56 62	上流導圧配管
+T4	Incident 63 66	不具合
+T5	Storage 77 80	流量計
+T6	Storage 81 86	取出し元弁
+T7	Incident 92 95	漏えい
+T8	Test 104 106	調査

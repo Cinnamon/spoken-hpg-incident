@@ -1,0 +1,14 @@
+T2	Product 17 19	空気
+T1	Storage 17 25	空気液化分離装置
+T3	Storage 26 29	保冷槽
+T4	Incident 30 32	着氷
+T5	Storage 42 45	保冷槽
+T6	Incident 48 50	着氷
+T7	Storage 59 62	保冷槽
+T8	Product 65 69	低温ガス
+T9	Incident 70 73	漏えい
+T11	Incident 85 88	漏えい
+T10	Product 85 90	漏えいガス
+T12	Product 91 93	空気
+T13	Product 95 97	窒素
+T14	Test 103 105	調査

@@ -1,0 +1,12 @@
+T1	Test 0 7	定期パトロール
+T2	Storage 9 17	流動接触分解装置
+T3	Storage 20 22	塔槽
+T4	Storage 23 26	液面計
+T5	Storage 27 38	低圧側取出し弁下流配管
+T6	Product 41 47	液化石油ガス
+T7	Incident 50 52	漏れ
+T8	Storage 61 64	液面計
+T9	Process 65 69	ブロック
+T10	Process 71 73	脱圧
+T11	Incident 75 78	漏えい
+T12	Storage 91 93	装置

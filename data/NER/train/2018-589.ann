@@ -1,0 +1,25 @@
+T2	Chemical 0 8	高級 アルコール
+T1	Storage 0 13	高級 アルコール 製造施設
+T3	Storage 14 17	分離槽
+T4	Test 50 55	パトロール
+T5	Storage 65 74	ハンドホールノズル
+T6	Storage 75 86	ダブリングテストホール
+T8	Chemical 88 89	油
+T7	Incident 88 93	油滲み漏れ
+T9	Test 128 132	現地確認
+T10	Incident 135 142	石災法異常現象
+T11	Incident 162 165	漏えい
+T12	Storage 182 184	設備
+T14	Product 188 192	高圧ガス
+T13	Incident 188 194	高圧ガス事故
+T15	Storage 209 212	シェル
+T16	Storage 218 227	ハンドホールノズル
+T17	Incident 245 251	溶け込み不良
+T18	Incident 254 258	凹凸状態
+T19	Incident 285 291	テストホール
+T20	Chemical 293 295	雨水
+T21	Incident 296 298	浸入
+T22	Product 299 302	塩化物
+T23	Incident 303 305	濃縮
+T24	Incident 310 316	応力腐食割れ
+T25	Incident 342 345	漏えい

@@ -1,0 +1,8 @@
+T1	Storage 2 3	機
+T3	Product 9 12	フロン
+T2	Process 9 18	フロン抜き出し操作
+T4	Process 25 29	抜き出し
+T5	Test 40 44	原因調査
+T6	Storage 49 58	熱交換内のチューブ
+T7	Incident 59 64	ピンホール
+T8	Incident 67 70	漏えい

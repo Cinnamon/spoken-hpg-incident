@@ -1,0 +1,8 @@
+T1	Storage 18 22	製造施設
+T2	Storage 23 26	冷凍機
+T3	Incident 29 33	外部腐食
+T5	Chemical 46 47	油
+T4	Storage 46 52	油戻し蒸発器
+T6	Storage 53 56	ノズル
+T7	Product 60 65	フロンガス
+T8	Incident 68 71	漏えい

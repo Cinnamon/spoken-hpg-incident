@@ -1,0 +1,21 @@
+T1	Product 0 4	プロパン
+T2	Storage 0 11	プロパン 再処理ポンプ
+T4	Product 17 19	ガス
+T3	Incident 14 23	固定式ガスアラーム
+T5	Incident 24 26	発報
+T6	Test 31 33	点検
+T7	Storage 43 50	ポンプ吐出配管
+T8	Product 56 60	プロパン
+T9	Product 62 63	液
+T10	Incident 65 68	漏えい
+T11	Incident 77 79	着霜
+T12	Test 89 91	点検
+T13	Incident 98 102	内面腐食
+T14	Incident 112 113	穴
+T15	Incident 114 116	開口
+T16	Chemical 126 128	母材
+T17	Incident 133 137	スケール
+T21	Incident 140 142	付着
+T18	Chemical 157 160	硫化物
+T20	Chemical 149 152	硫化物
+T19	Incident 155 162	湿性硫化物腐食

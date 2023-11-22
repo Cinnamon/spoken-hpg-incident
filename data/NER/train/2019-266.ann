@@ -1,0 +1,13 @@
+T2	Product 9 11	ガス
+T3	Incident 9 13	ガス漏れ
+T1	Test 9 16	ガス漏れ警報器
+T4	Storage 22 24	施設
+T5	Incident 41 43	漏洩
+T6	Test 64 68	詳細調査
+T7	Storage 69 76	気化器液ライン
+T9	Incident 80 82	亀裂
+T8	Incident 94 96	漏洩
+T10	Test 101 103	調査
+T11	Incident 110 114	経年劣化
+T12	Incident 138 142	経年劣化
+T13	Test 154 156	検証

@@ -1,0 +1,22 @@
+T2	Chemical 3 9	ポリエチレン
+T1	Storage 0 14	高圧 ポリエチレン プラント
+T3	Product 59 63	エチレン
+T4	Storage 59 68	エチレン 凝縮装置
+T5	Product 70 76	フロン 12
+T6	Storage 87 88	弁
+T7	Storage 96 104	バルブ キャップ
+T8	Storage 142 150	バルブ キャップ
+T9	Storage 162 171	バルブ ボンネット
+T10	Storage 173 181	バルブ キャップ
+T11	Storage 191 193	配管
+T12	Product 195 197	冷媒
+T13	Product 199 205	フロン 12
+T14	Incident 232 235	漏えい
+T15	Incident 252 254	被液
+T16	Product 258 264	フロン 12
+T17	Incident 266 269	漏えい
+T18	Incident 270 273	被災者
+T19	Storage 279 281	後弁
+T20	Incident 289 292	漏えい
+T21	Incident 303 306	被災者
+T22	Incident 325 327	凍傷

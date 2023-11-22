@@ -1,0 +1,28 @@
+T1	Incident 0 2	事故
+T2	Chemical 6 15	高圧 ポリエチレン
+T5	Storage 6 20	高圧 ポリエチレン 製造施設
+T3	Incident 33 44	インターロックシステム
+T4	Incident 45 47	作動
+T28	Process 50 52	重合
+T6	Storage 74 87	プライマリーコンプレッサー
+T8	Product 93 95	ガス
+T7	Test 90 98	固定式ガス検知器
+T9	Incident 99 101	作動
+T10	Test 111 115	現場点検
+T11	Storage 124 139	コンプレッサー 2段 吐出配管
+T12	Storage 140 143	安全弁
+T13	Storage 144 149	枝出し配管
+T14	Product 152 159	エチレン ガス
+T15	Incident 160 163	漏えい
+T16	Storage 182 189	コンプレッサー
+T17	Storage 230 237	コンプレッサー
+T18	Storage 241 244	バルブ
+T19	Incident 249 252	漏えい
+T20	Process 260 263	縁切り
+T21	Process 284 287	漏えい
+T22	Product 293 295	窒素
+T23	Process 293 298	窒素パージ
+T24	Product 315 317	窒索
+T25	Process 315 320	窒索パージ
+T27	Product 324 326	ガス
+T26	Test 324 327	ガス検

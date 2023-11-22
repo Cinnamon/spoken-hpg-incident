@@ -1,0 +1,24 @@
+T2	Product 11 16	アンモニア
+T1	Storage 11 21	アンモニア プラント
+T4	Chemical 36 38	尿素
+T3	Storage 36 42	尿素プラント
+T6	Chemical 68 70	尿素
+T5	Storage 68 74	尿素プラント
+T8	Chemical 92 94	液安
+T7	Storage 92 101	液安ポンプ吐出配管
+T9	Process 103 105	脱圧
+T10	Storage 109 112	吐出弁
+T11	Storage 123 126	注水弁
+T12	Product 129 134	アンモニア
+T13	Incident 136 138	漏洩
+T15	Product 167 169	ガス
+T14	Test 167 172	ガス検知器
+T26	Incident 173 175	発報
+T16	Incident 186 188	漏洩
+T17	Incident 177 179	漏洩
+T18	Storage 194 195	弁
+T19	Storage 200 202	配管
+T20	Product 205 210	アンモニア
+T21	Process 212 214	回収
+T22	Incident 221 224	漏えい
+T23	Incident 250 252	漏洩

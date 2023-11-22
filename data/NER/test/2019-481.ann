@@ -1,0 +1,18 @@
+T2	Product 0 5	一酸化炭素
+T1	Storage 0 9	一酸化炭素 ボンベ
+T3	Storage 17 20	ボンベ
+T5	Product 30 32	ガス
+T4	Test 30 35	ガス検知器
+T18	Incident 36 38	発報
+T6	Product 42 44	窒素
+T7	Test 46 50	気密試験
+T8	Test 52 54	調査
+T9	Storage 58 65	バルブグランド
+T10	Incident 71 74	漏えい
+T11	Storage 96 107	バルブグランドパッキン
+T12	Incident 108 111	締付力
+T13	Incident 112 114	緩和
+T14	Storage 123 126	ボンベ
+T15	Incident 134 138	圧力変動
+T16	Storage 143 150	バルブグランド
+T17	Incident 153 156	漏えい

@@ -1,0 +1,19 @@
+T2	Storage 10 12	配管
+T1	Test 10 16	配管耐圧試験
+T3	Storage 36 45	アルキル 化反応器
+T4	Storage 53 62	入口付帯配管バルブ
+T5	Storage 81 85	フランジ
+T6	Storage 92 102	バルブ上流側フランジ
+T7	Product 105 110	高圧ミスト
+T8	Incident 111 113	噴出
+T9	Incident 122 124	被災
+T10	Test 176 180	耐圧試験
+T11	Process 182 184	脱圧
+T12	Storage 190 197	配管系フランジ
+T13	Storage 206 208	配管
+T14	Test 213 217	耐圧試験
+T15	Product 218 222	窒素ガス
+T16	Chemical 223 225	水分
+T17	Incident 231 233	錆び
+T18	Incident 234 236	噴出
+T19	Incident 237 239	被災

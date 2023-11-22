@@ -1,0 +1,18 @@
+T1	Test 18 25	定期パトロール
+T2	Storage 29 32	反応機
+T3	Product 36 41	アンモニア
+T4	Incident 36 44	アンモニア 臭気
+T5	Product 60 65	アンモニア
+T6	Test 60 72	アンモニア 検知警報設備
+T7	Incident 73 75	発報
+T8	Test 86 90	現場確認
+T9	Product 93 98	アンモニア
+T10	Storage 93 105	アンモニア 装入弁保温材
+T11	Incident 109 111	漏れ
+T12	Storage 125 128	保温材
+T13	Product 134 139	アンモニア
+T14	Storage 134 143	アンモニア 装入弁
+T15	Incident 151 153	漏れ
+T16	Storage 170 171	弁
+T17	Storage 174 178	フランジ
+T18	Incident 188 191	漏えい

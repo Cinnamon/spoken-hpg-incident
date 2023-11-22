@@ -1,0 +1,12 @@
+T1	Test 7 11	定期巡回
+T2	Incident 18 21	漏えい
+T10	Incident 22 24	感知
+T11	Test 26 28	調査
+T3	Storage 34 38	熱交換器
+T4	Storage 39 43	フランジ
+T5	Incident 45 48	漏えい
+T12	Chemical 55 59	スチーム
+T6	Product 64 69	可燃性ガス
+T7	Test 76 78	点検
+T8	Incident 93 96	漏えい
+T9	Incident 107 114	締付け管理不良

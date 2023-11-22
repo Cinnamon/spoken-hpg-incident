@@ -1,0 +1,13 @@
+T4	Chemical 20 23	重質油
+T1	Storage 20 28	重質油熱分解装置
+T3	Product 28 30	ガス
+T2	Storage 28 35	ガス緩衝ドラム
+T5	Storage 38 45	安全弁行き配管
+T6	Incident 48 50	漏洩
+T7	Process 66 70	ブロック
+T9	Process 73 75	脱圧
+T8	Process 89 91	脱圧
+T10	Product 103 105	ガス
+T11	Test 103 108	ガス検知器
+T12	Chemical 110 114	炭化水素
+T13	Product 115 119	硫化水素

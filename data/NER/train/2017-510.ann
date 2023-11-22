@@ -1,0 +1,21 @@
+T2	Chemical 3 6	潤滑油
+T1	Storage 3 14	潤滑油抽出水添精製装置
+T3	Chemical 18 21	原料油
+T4	Chemical 24 29	重質原料油
+T5	Chemical 49 51	水分
+T6	Incident 56 58	凝縮
+T7	Incident 52 54	凝縮
+T8	Product 68 83	アンモニウム バイサルファイド
+T9	Incident 86 88	上昇
+T11	Chemical 94 107	アルカリ サワーウォーター
+T10	Incident 94 109	アルカリ サワーウォーター腐食
+T12	Incident 116 118	腐食
+T13	Incident 121 123	減肉
+T14	Storage 139 141	配管
+T15	Incident 142 144	穿孔
+T16	Product 146 148	水素
+T17	Product 153 158	可燃性ガス
+T18	Incident 159 161	噴出
+T19	Incident 162 165	静電気
+T20	Incident 168 170	着火
+T21	Incident 171 173	火災

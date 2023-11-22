@@ -1,0 +1,17 @@
+T1	Test 0 4	日常点検
+T3	Product 9 13	高圧ガス
+T4	Product 24 28	プロパン
+T2	Storage 9 44	高圧ガスタンク、TK-105 プロパン、下部移送配管フランジガスケット
+T5	Incident 48 52	微量漏れ
+T6	Storage 58 62	フランジ
+T7	Incident 70 73	漏えい
+T8	Storage 111 118	フランジボルト
+T9	Incident 119 121	伸縮
+T10	Storage 127 135	ガスケットフープ
+T11	Storage 137 139	配管
+T12	Incident 142 143	錆
+T13	Incident 148 150	異物
+T14	Incident 156 160	微量漏れ
+T15	Storage 181 185	フランジ
+T16	Chemical 195 199	スチーム
+T17	Test 204 208	巡回点検

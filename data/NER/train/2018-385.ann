@@ -1,0 +1,41 @@
+T1	Storage 21 26	製油所構内
+T3	Chemical 34 36	残油
+T2	Storage 34 58	残油流動接触分解装置群 アルキレーション 装置内
+T4	Storage 59 67	リアクタータンク
+T5	Product 83 85	ガス
+T6	Test 83 88	ガス警報器
+T7	Product 90 95	可燃性ガス
+T8	Incident 96 99	漏えい
+T9	Incident 100 102	検知
+T10	Storage 139 146	スタンドパイプ
+T11	Storage 147 149	配管
+T12	Storage 153 157	る液面計
+T13	Product 160 165	LP ガス
+T14	Chemical 168 175	ガソリン混合物
+T15	Incident 176 179	漏えい
+T16	Incident 180 182	覚知
+T17	Process 211 215	原料供給
+T18	Product 237 241	内部流体
+T19	Process 242 245	液抜き
+T20	Process 267 270	液抜き
+T21	Process 277 280	液抜き
+T22	Storage 284 287	液面計
+T23	Test 292 296	各種検査
+T24	Storage 304 307	液面計
+T25	Storage 317 322	アングル弁
+T26	Storage 327 332	接続ノズル
+T27	Incident 346 348	減肉
+T29	Incident 364 367	漏えい
+T30	Incident 378 381	漏えい
+T31	Product 384 388	内部流体
+T28	Product 390 395	LP ガス
+T32	Chemical 396 400	ガソリン
+T33	Product 401 404	混合物
+T35	Chemical 405 407	触媒
+T34	Chemical 410 413	濃硫酸
+T36	Incident 423 425	腐食
+T37	Chemical 443 445	水分
+T38	Incident 446 448	混入
+T39	Chemical 453 456	濃硫酸
+T40	Chemical 457 460	希硫酸
+T41	Incident 465 468	酸腐食

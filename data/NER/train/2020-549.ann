@@ -1,0 +1,12 @@
+T1	Storage 12 19	高圧気液分離器
+T2	Product 21 23	蒸気
+T3	Product 39 44	水素 ガス
+T4	Incident 46 48	噴出
+T5	Storage 69 73	プラント
+T6	Process 81 83	脱圧
+T7	Process 90 92	脱圧
+T9	Product 94 96	窒素
+T8	Process 94 98	窒素置換
+T10	Storage 102 104	保温
+T11	Storage 117 124	液面計 ノズル
+T12	Incident 127 132	ピンホール

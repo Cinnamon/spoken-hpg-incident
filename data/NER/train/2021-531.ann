@@ -1,0 +1,11 @@
+T1	Chemical 3 6	冷却水
+T2	Storage 21 24	冷凍機
+T3	Storage 25 32	冷却器下部配管
+T4	Product 34 38	冷媒ガス
+T5	Incident 39 41	漏洩
+T6	Incident 43 45	事故
+T7	Storage 54 56	配管
+T8	Incident 59 63	腐食劣化
+T9	Incident 66 71	ピンホール
+T10	Product 76 80	冷媒ガス
+T11	Incident 89 91	漏洩

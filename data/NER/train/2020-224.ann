@@ -1,0 +1,12 @@
+T2	Product 13 22	液化 メチルアミン
+T1	Storage 13 25	液化 メチルアミン 装置
+T4	Product 31 41	ジメチルアミン ガス
+T3	Test 31 44	ジメチルアミン ガス検知器
+T5	Incident 48 50	発報
+T6	Incident 45 47	発報
+T7	Test 61 68	現場パトロール
+T8	Incident 75 77	白煙
+T9	Product 85 91	アミン ガス
+T10	Incident 92 95	漏えい
+T12	Product 109 118	液化 メチルアミン
+T11	Storage 109 121	液化 メチルアミン 装置

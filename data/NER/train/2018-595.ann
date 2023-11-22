@@ -1,0 +1,28 @@
+T1	Storage 2 4	配管
+T3	Product 6 11	LP ガス
+T2	Storage 6 19	LP ガス製品パイプライン
+T4	Process 19 21	出荷
+T5	Product 26 34	1-Butene
+T6	Storage 37 40	NUC
+T7	Process 42 44	供給
+T8	Incident 50 52	発災
+T9	Process 54 56	移送
+T11	Product 74 79	LP ガス
+T10	Incident 74 80	LP ガス臭
+T12	Test 88 90	確認
+T13	Storage 95 97	配管
+T14	Incident 98 99	氷
+T15	Process 107 112	縁切り処置
+T17	Product 119 121	窒素
+T16	Process 119 123	窒素置換
+T18	Storage 136 138	配管
+T19	Storage 132 134	配管
+T20	Chemical 145 149	モルタル
+T21	Storage 164 166	配管
+T22	Chemical 167 171	モルタル
+T23	Incident 174 177	鉄さび
+T24	Incident 178 180	堆積
+T26	Incident 188 191	堆積物
+T25	Incident 194 197	通気差
+T27	Storage 202 204	配管
+T28	Incident 205 207	減肉

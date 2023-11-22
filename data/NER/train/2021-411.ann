@@ -1,0 +1,50 @@
+T2	Product 16 24	液化 アンモニア
+T1	Storage 16 34	液化 アンモニア タンクコンテナ容器
+T3	Storage 37 41	コンテナ
+T4	Process 43 47	充填作業
+T5	Storage 51 55	コンテナ
+T6	Storage 92 96	コンテナ
+T7	Process 97 99	充填
+T8	Chemical 104 117	フェノールフタレイン 試薬
+T9	Storage 120 124	グランド
+T11	Incident 125 127	漏洩
+T10	Test 125 129	漏洩確認
+T12	Incident 133 135	漏洩
+T13	Product 143 145	気体
+T14	Process 165 173	連続自動充填操作
+T15	Storage 189 193	コンテナ
+T16	Process 194 196	充填
+T18	Product 211 212	液
+T17	Storage 211 215	液側元弁
+T20	Incident 233 235	漏洩
+T19	Storage 233 239	漏洩コンテナ
+T22	Process 246 248	充填
+T23	Storage 264 268	コンテナ
+T24	Process 269 271	充填
+T26	Product 285 286	液
+T25	Storage 285 289	液側元弁
+T28	Incident 290 294	漏洩発生
+T27	Storage 290 295	漏洩発生弁
+T29	Incident 305 307	漏洩
+T30	Process 322 324	充填
+T31	Storage 340 344	コンテナ
+T32	Process 345 347	充填
+T33	Storage 360 364	コンテナ
+T35	Product 367 369	ガス
+T34	Test 367 372	ガス検知器
+T51	Incident 373 375	作動
+T36	Incident 384 387	漏えい
+T37	Test 390 392	調査
+T38	Storage 402 406	コンテナ
+T40	Product 407 408	液
+T39	Storage 407 411	液側元弁
+T41	Storage 412 416	グランド
+T42	Product 420 428	アンモニア ガス
+T43	Incident 429 432	漏えい
+T44	Incident 433 435	白煙
+T45	Storage 447 451	グランド
+T47	Incident 461 463	漏洩
+T50	Storage 471 475	充填配管
+T48	Process 471 481	充填配管内安全化操作
+T49	Process 486 490	充填作業
+T21	Storage 241 245	コンテナ

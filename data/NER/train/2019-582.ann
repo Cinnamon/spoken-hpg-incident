@@ -1,0 +1,8 @@
+T1	Storage 22 25	凝縮器
+T2	Incident 25 29	低圧異常
+T3	Test 36 38	点検
+T4	Product 42 45	フロン
+T5	Process 42 47	フロン回収
+T6	Product 60 62	冷媒
+T7	Incident 60 64	冷媒漏洩
+T8	Test 74 76	調査

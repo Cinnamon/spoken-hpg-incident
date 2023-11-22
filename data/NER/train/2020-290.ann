@@ -1,0 +1,17 @@
+T1	Test 15 22	現場パトロール
+T2	Storage 26 32	冷凍機圧縮機
+T3	Storage 33 37	吐出配管
+T4	Chemical 38 41	オイル
+T5	Incident 44 46	漏れ
+T6	Test 55 64	フロン チェッカー
+T8	Product 80 83	フロン
+T7	Incident 67 73	フロン 漏れ
+T9	Product 67 70	フロン
+T10	Chemical 88 91	オイル
+T11	Storage 104 108	プラント
+T12	Storage 125 128	冷凍機
+T14	Product 147 149	冷媒
+T13	Process 147 152	冷媒抜出し
+T15	Process 154 156	充填
+T16	Process 164 166	回収
+T17	Incident 176 179	漏えい

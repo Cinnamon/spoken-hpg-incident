@@ -1,0 +1,8 @@
+T1	Storage 21 32	空冷ヒートポンプチラー
+T2	Incident 33 36	エラー
+T3	Storage 55 59	四方 弁
+T4	Storage 63 68	S 側継手
+T5	Incident 75 78	貫通孔
+T6	Test 92 94	調査
+T7	Product 95 99	冷媒ガス
+T8	Incident 109 114	全量漏えい

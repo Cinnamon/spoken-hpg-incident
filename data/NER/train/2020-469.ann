@@ -1,0 +1,32 @@
+T1	Incident 0 2	事故
+T3	Chemical 27 29	尿素
+T2	Storage 27 33	尿素製造施設
+T5	Chemical 35 39	メラミン
+T4	Storage 35 44	メラミン 合成施設
+T7	Chemical 60 62	尿素
+T6	Storage 60 66	尿素製造施設
+T8	Process 67 69	通液
+T10	Chemical 79 81	尿素
+T9	Storage 79 83	尿素施設
+T12	Chemical 106 110	メラミン
+T11	Storage 106 115	メラミン 合成施設
+T13	Process 116 118	通液
+T15	Chemical 132 134	尿素
+T16	Chemical 136 140	メラミン
+T14	Storage 132 143	尿素、 メラミン 施設
+T17	Test 167 172	パトロール
+T19	Chemical 179 181	尿素
+T18	Storage 179 185	尿素製造施設
+T21	Product 187 189	ガス
+T22	Product 192 194	ガス
+T20	Storage 186 198	排ガス洗浄塔ガス出口配管
+T24	Product 203 208	アンモニア
+T23	Incident 203 210	アンモニア 臭
+T25	Storage 217 219	配管
+T26	Storage 220 222	保温
+T27	Test 226 228	調査
+T28	Storage 233 239	配管フランジ
+T29	Incident 242 245	漏えい
+T30	Storage 252 262	フランジ締付けナット
+T31	Incident 269 272	漏えい
+T32	Incident 290 294	事故発生

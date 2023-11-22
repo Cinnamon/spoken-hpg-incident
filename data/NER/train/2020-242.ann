@@ -1,0 +1,13 @@
+T1	Chemical 4 6	樹脂
+T2	Process 7 11	押し出し
+T3	Product 18 22	高圧窒素
+T4	Incident 37 39	異常
+T5	Test 45 47	点検
+T6	Storage 53 56	安全弁
+T7	Storage 61 68	吹き出しライン
+T8	Incident 69 71	結露
+T9	Product 83 85	窒素
+T10	Storage 108 113	安全弁元弁
+T11	Product 123 125	窒素
+T12	Storage 126 128	容器
+T13	Process 137 139	供給

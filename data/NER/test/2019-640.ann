@@ -1,0 +1,12 @@
+T1	Product 16 20	計装空気
+T2	Storage 22 25	除湿器
+T3	Storage 26 32	スタンバイ機
+T4	Test 55 59	定期点検
+T6	Storage 85 88	冷凍機
+T5	Chemical 85 89	冷凍機油
+T7	Process 90 92	混入
+T8	Product 94 98	冷媒ガス
+T9	Chemical 113 116	冷却水
+T11	Chemical 120 121	油
+T12	Chemical 121 122	水
+T10	Storage 120 125	油水分離槽

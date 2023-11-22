@@ -1,0 +1,11 @@
+T2	Product 27 29	ガス
+T1	Storage 19 23	ガス装置
+T4	Product 19 21	ガス
+T5	Incident 29 32	漏えい
+T3	Test 24 35	固定式ガス漏えい検知器
+T6	Incident 36 38	吹鳴
+T7	Storage 59 67	熱交換器出口配管
+T8	Product 72 75	LNG
+T9	Incident 77 80	漏えい
+T10	Storage 107 109	装置
+T11	Test 118 120	調査

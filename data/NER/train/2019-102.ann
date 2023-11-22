@@ -1,0 +1,16 @@
+T1	Storage 13 17	冷凍設備
+T2	Product 60 64	冷媒ガス
+T3	Process 89 94	抜取り作業
+T4	Storage 104 106	設備
+T5	Product 108 112	冷媒ガス
+T6	Storage 118 120	機器
+T7	Process 122 125	充てん
+T8	Incident 132 135	漏えい
+T9	Product 145 147	窒素
+T11	Chemical 150 155	シャンプー
+T10	Test 150 158	シャンプーテスト
+T12	Storage 166 176	モーター一体型圧縮機
+T13	Storage 177 184	端子部パッキン
+T14	Storage 196 206	モーター一体型圧縮機
+T15	Storage 207 214	端子部パッキン
+T16	Incident 215 219	経年劣化

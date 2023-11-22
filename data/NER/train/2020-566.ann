@@ -1,0 +1,9 @@
+T2	Chemical 10 14	ブライン
+T1	Storage 7 18	冷凍機ブラインクーラー
+T3	Incident 20 28	低圧圧力異常発生
+T4	Test 45 49	現地調査
+T5	Storage 63 69	サブクーラー
+T8	Product 72 74	副液
+T7	Product 76 78	冷媒
+T6	Storage 72 80	副液戻り冷媒配管
+T9	Incident 85 87	亀裂

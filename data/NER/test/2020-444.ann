@@ -1,0 +1,10 @@
+T1	Test 12 17	パトロール
+T3	Product 24 29	アンモニア
+T2	Incident 24 31	アンモニア 臭
+T4	Test 40 42	調査
+T6	Product 57 62	アンモニア
+T5	Storage 57 78	アンモニア 回収槽差圧伝送器導圧管ブロー弁
+T7	Incident 81 84	内漏れ
+T8	Storage 100 104	仕切り板
+T9	Storage 105 116	ブロー弁出口側フランジ
+T10	Incident 121 124	漏えい

@@ -1,0 +1,12 @@
+T2	Chemical 0 5	ウォーター
+T1	Storage 0 15	ウォーター チリング ユニット
+T3	Test 17 19	点検
+T5	Incident 21 24	漏えい
+T4	Test 21 26	漏えい試験
+T6	Storage 36 43	コンプレッサー
+T7	Storage 46 49	環配管
+T9	Product 53 55	ガス
+T8	Incident 53 58	ガス 漏れ
+T10	Storage 68 71	環配管
+T11	Incident 74 77	こすれ
+T12	Incident 80 82	摩耗

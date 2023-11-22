@@ -1,0 +1,24 @@
+T2	Product 0 5	アンモニア
+T1	Storage 0 10	アンモニア ローリー
+T4	Product 19 21	液安
+T3	Storage 19 26	液安枕形タンク
+T6	Product 27 35	液化 アンモニア
+T5	Process 27 38	液化 アンモニア 受入
+T7	Storage 43 52	ローディングアーム
+T9	Product 57 62	アンモニア
+T8	Incident 57 64	アンモニア 臭
+T11	Product 69 70	液
+T10	Storage 69 89	液側ローディングアームスイベルジョイント
+T12	Storage 90 97	グリスニップル
+T13	Storage 98 105	ダストキャップ
+T14	Storage 121 128	グリスニップル
+T15	Incident 130 132	漏洩
+T16	Process 145 151	受け入れ作業
+T17	Storage 155 157	配管
+T18	Product 159 167	滞留 アンモニア
+T24	Process 169 171	除害
+T19	Incident 175 178	けが人
+T20	Incident 187 189	流出
+T22	Product 201 203	ガス
+T21	Test 201 206	ガス検知器
+T23	Incident 207 209	吹鳴

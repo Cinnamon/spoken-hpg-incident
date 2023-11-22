@@ -1,0 +1,10 @@
+T1	Storage 0 6	間接脱硫装置
+T2	Storage 16 18	装置
+T3	Storage 24 26	塔槽
+T4	Storage 27 33	塔頂フランジ
+T6	Product 37 39	水素
+T5	Incident 37 42	水素漏えい
+T7	Storage 49 51	装置
+T8	Incident 81 84	漏えい
+T9	Process 76 78	脱圧
+T10	Incident 62 65	漏えい

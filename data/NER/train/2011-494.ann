@@ -1,0 +1,13 @@
+T1	Test 7 11	定期巡回
+T2	Incident 18 21	漏えい
+T3	Incident 22 24	感知
+T4	Test 26 28	調査
+T5	Storage 34 38	熱交換器
+T6	Storage 38 41	バルブ
+T7	Storage 42 48	上流フランジ
+T8	Storage 49 53	グランド
+T9	Incident 55 58	漏えい
+T10	Incident 72 75	漏えい
+T11	Storage 87 90	シール
+T12	Incident 87 94	シール管理不良
+T13	Incident 95 101	締結管理不良

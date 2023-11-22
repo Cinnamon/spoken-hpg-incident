@@ -1,0 +1,13 @@
+T1	Incident 7 9	豪雨
+T2	Incident 22 24	氾濫
+T3	Incident 30 34	大量流水
+T4	Storage 37 39	容器
+T5	Incident 40 42	流出
+T6	Incident 50 52	災害
+T7	Storage 54 56	容器
+T8	Storage 71 75	所在容器
+T9	Incident 81 83	流失
+T13	Incident 107 109	流失
+T10	Storage 107 111	流失容器
+T12	Product 118 122	窒素ガス
+T11	Storage 118 127	窒素ガス47L容器

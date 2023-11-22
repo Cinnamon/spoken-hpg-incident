@@ -1,0 +1,13 @@
+T1	Incident 2 5	漏えい
+T2	Test 2 8	漏えい検知器
+T3	Incident 8 10	発報
+T4	Test 16 18	点検
+T5	Product 25 27	塩素
+T6	Storage 25 41	塩素精製塔リボイラーボトム遮断弁
+T7	Product 45 47	塩素
+T8	Incident 45 49	塩素臭気
+T9	Storage 52 55	保冷材
+T10	Storage 78 82	プラント
+T11	Process 85 87	脱液
+T12	Process 89 92	パージ
+T13	Incident 94 96	臭気

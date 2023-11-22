@@ -1,0 +1,6 @@
+T1	Storage 19 22	給湯器
+T2	Incident 30 34	圧力低下
+T3	Process 58 67	ディストリビュー夕
+T5	Product 69 71	冷媒
+T4	Storage 69 73	冷媒配管
+T6	Incident 75 78	漏えい

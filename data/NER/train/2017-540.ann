@@ -1,0 +1,20 @@
+T1	Test 12 16	自主点検
+T2	Storage 19 27	チラー ユニット
+T3	Product 29 31	冷媒
+T4	Incident 32 36	圧力低下
+T5	Test 51 53	調査
+T6	Product 68 70	窒素
+T7	Storage 75 77	配管
+T8	Test 81 83	調査
+T9	Incident 89 92	漏えい
+T10	Test 121 123	調査
+T11	Incident 129 132	漏えい
+T12	Storage 154 159	水熱変換器
+T13	Incident 162 165	漏えい
+T15	Incident 188 191	リーク
+T14	Test 188 196	リーク テスター
+T16	Storage 198 200	配管
+T17	Test 201 203	点検
+T18	Incident 206 209	漏えい
+T19	Storage 221 226	水熱交換器
+T20	Incident 234 237	漏えい

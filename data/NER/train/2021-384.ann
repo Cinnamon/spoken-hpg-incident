@@ -1,0 +1,16 @@
+T1	Storage 4 6	装置
+T2	Test 14 19	パトロール
+T3	Storage 21 26	貯槽タンク
+T4	Storage 28 30	配管
+T5	Storage 31 34	防液堤
+T6	Product 39 41	ガス
+T7	Incident 39 44	ガス漏えい
+T8	Incident 45 46	霜
+T9	Incident 47 49	付着
+T10	Incident 67 70	漏えい
+T11	Process 72 76	ブロック
+T12	Process 77 79	脱圧
+T13	Product 80 82	窒素
+T14	Process 80 84	窒素置換
+T15	Product 88 90	ガス
+T16	Incident 91 93	漏洩

@@ -1,0 +1,15 @@
+T2	Test 26 30	定期点検
+T3	Storage 32 35	圧力計
+T4	Test 60 66	メーカー点検
+T5	Storage 72 79	チェックバルブ
+T6	Product 84 89	フロンガス
+T7	Product 90 95	R407C
+T8	Process 97 99	放出
+T9	Incident 108 111	漏えい
+T10	Product 145 147	冷媒
+T11	Process 133 137	冷媒回収
+T12	Product 133 135	冷媒
+T14	Process 155 158	充てん
+T13	Product 155 160	充てん冷媒
+T15	Incident 169 172	漏えい
+T16	Test 184 186	調査

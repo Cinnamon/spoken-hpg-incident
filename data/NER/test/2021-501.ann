@@ -1,0 +1,11 @@
+T1	Test 0 4	定期巡回
+T2	Storage 8 28	コンタクタ レベル ゲージ フラッシング
+T3	Storage 31 33	配管
+T4	Chemical 35 37	水摘
+T5	Incident 41 43	滴下
+T6	Test 51 53	点検
+T7	Storage 60 62	配管
+T8	Product 65 68	LPG
+T9	Chemical 71 75	ガソリン
+T10	Incident 77 79	漏洩
+T11	Incident 85 87	覚知

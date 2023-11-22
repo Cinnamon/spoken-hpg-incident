@@ -1,0 +1,16 @@
+T1	Storage 0 3	事業所
+T2	Test 12 16	巡回点検
+T3	Storage 18 24	接触改質装置
+T4	Storage 25 30	圧力調整弁
+T5	Storage 31 35	下流配管
+T6	Incident 39 42	漏えい
+T7	Chemical 53 57	スチーム
+T8	Storage 83 85	装置
+T9	Process 100 103	縁切り
+T10	Incident 104 107	漏えい
+T11	Storage 113 117	仕切り板
+T12	Storage 150 152	配管
+T13	Incident 157 161	腐食減肉
+T14	Incident 176 178	欠陥
+T15	Incident 182 184	露出
+T16	Incident 185 187	貫通

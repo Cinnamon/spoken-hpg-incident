@@ -1,0 +1,31 @@
+T2	Chemical 31 33	硫酸
+T1	Storage 20 36	アルキレーション 装置硫酸分離槽
+T4	Product 39 42	LPG
+T3	Process 39 49	LPG 張り込み作業
+T5	Storage 51 55	レベル計
+T6	Storage 57 65	フラッシング配管
+T7	Storage 66 71	保冷外装板
+T10	Product 77 80	LPG
+T8	Incident 77 83	LPG 漏洩
+T9	Incident 84 86	モヤ
+T11	Storage 107 111	上下流弁
+T12	Process 116 120	ブロック
+T13	Process 122 124	脱圧
+T14	Incident 128 130	漏洩
+T15	Incident 131 133	モヤ
+T16	Chemical 148 150	硫酸
+T17	Storage 148 153	硫酸分離槽
+T18	Storage 154 158	レベル計
+T19	Storage 160 168	フラッシング配管
+T20	Storage 169 174	保冷外装板
+T21	Product 182 185	LPG
+T22	Incident 187 189	漏洩
+T23	Incident 190 192	モヤ
+T24	Incident 230 232	漏洩
+T25	Incident 233 235	モヤ
+T26	Storage 251 256	保冷外装板
+T27	Storage 266 268	配管
+T28	Incident 269 272	錆こぶ
+T29	Incident 276 280	外面腐食
+T30	Storage 283 285	配管
+T31	Incident 286 288	開孔

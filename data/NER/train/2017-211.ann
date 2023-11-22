@@ -1,0 +1,25 @@
+T1	Test 0 7	定期パトロール
+T2	Storage 11 16	RF 装置
+T3	Incident 17 19	臭気
+T4	Chemical 37 40	ナフサ
+T5	Storage 37 48	ナフサ 脱硫セクション
+T7	Process 56 62	メイクアップ
+T6	Product 56 64	メイクアップ水素
+T8	Storage 65 73	オンライン分析計
+T9	Storage 76 78	配管
+T10	Incident 80 82	臭気
+T11	Storage 91 94	分析計
+T12	Storage 100 102	元弁
+T13	Incident 107 109	臭気
+T14	Incident 128 131	漏えい
+T15	Storage 135 137	配管
+T16	Storage 153 155	配管
+T17	Incident 165 167	応力
+T18	Storage 172 174	配管
+T19	Incident 181 183	割れ
+T20	Chemical 198 200	塩素
+T21	Incident 201 203	濃縮
+T22	Incident 206 212	応力腐食割れ
+T23	Incident 216 218	振動
+T24	Incident 222 224	割れ
+T25	Storage 239 241	配管

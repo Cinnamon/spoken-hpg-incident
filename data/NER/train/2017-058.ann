@@ -1,0 +1,15 @@
+T1	Storage 12 14	設備
+T2	Storage 54 60	添加 ライン
+T3	Product 66 68	ガス
+T4	Incident 70 73	漏えい
+T5	Product 121 126	BD ガス
+T6	Storage 153 159	添加 ライン
+T7	Test 163 165	点検
+T8	Incident 199 202	漏えい
+T9	Process 211 214	縁切り
+T10	Test 218 222	現場確認
+T11	Incident 250 252	漏れ
+T13	Process 283 285	回収
+T12	Process 312 314	添加
+T14	Process 328 331	縁切り
+T15	Storage 367 378	製造課 第1 重合施設

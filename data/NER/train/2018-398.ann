@@ -1,0 +1,26 @@
+T1	Test 13 17	定期巡回
+T2	Storage 28 37	アイソマックス装置
+T3	Storage 38 55	高圧分離槽、 8DD-2 、液面計
+T4	Chemical 57 59	重油
+T5	Incident 60 63	漏えい
+T6	Storage 79 82	バルブ
+T7	Storage 113 116	液面計
+T8	Test 122 124	点検
+T9	Storage 129 132	液面計
+T10	Storage 133 135	部材
+T11	Incident 140 142	劣化
+T12	Incident 143 145	歪み
+T13	Storage 172 177	ガスケット
+T14	Incident 198 201	漏えい
+T15	Test 210 212	点検
+T16	Storage 216 219	ボルト
+T17	Storage 227 230	液面計
+T18	Storage 231 233	部材
+T19	Incident 238 240	変形
+T20	Storage 270 275	ガスケット
+T21	Storage 307 310	液面計
+T22	Test 311 313	点検
+T23	Storage 315 318	ボルト
+T24	Incident 342 346	経年劣化
+T26	Storage 349 351	部材
+T25	Incident 352 354	歪み

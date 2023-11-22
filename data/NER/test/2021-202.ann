@@ -1,0 +1,5 @@
+T1	Storage 0 3	水道管
+T2	Storage 42 44	導管
+T3	Incident 50 52	切断
+T4	Product 55 59	エチレン
+T5	Incident 61 64	漏えい

@@ -1,0 +1,17 @@
+T1	Storage 23 25	設備
+T2	Test 35 37	点検
+T3	Test 62 64	点検
+T4	Incident 83 86	漏えい
+T5	Test 89 91	点検
+T6	Incident 97 100	カニ泡
+T7	Incident 104 107	漏えい
+T9	Product 115 116	液
+T8	Storage 115 122	液ライン電磁弁
+T10	Storage 123 130	Oリングシール
+T11	Incident 134 137	漏えい
+T12	Storage 143 147	Oリング
+T13	Incident 148 150	外傷
+T14	Incident 154 158	経年劣化
+T15	Incident 161 163	硬化
+T16	Incident 164 168	シール性
+T17	Incident 169 171	低下

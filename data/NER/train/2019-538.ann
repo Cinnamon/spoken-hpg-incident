@@ -1,0 +1,16 @@
+T1	Test 21 23	点検
+T2	Storage 27 30	クーラ
+T3	Chemical 31 33	冷水
+T4	Storage 31 41	冷水プレート熱交換器
+T5	Incident 42 47	ピンホール
+T6	Product 50 54	高圧ガス
+T8	Product 55 60	R407C
+T7	Incident 62 65	漏えい
+T9	Product 76 78	冷媒
+T10	Process 85 87	回収
+T11	Process 78 80	回収
+T12	Incident 103 106	漏えい
+T13	Storage 115 118	チラー
+T14	Storage 121 124	蒸発器
+T16	Incident 125 128	経年的
+T15	Incident 129 131	劣化

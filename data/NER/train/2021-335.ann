@@ -1,0 +1,14 @@
+T1	Incident 0 4	事故発生
+T2	Test 20 24	現場巡回
+T3	Incident 26 28	異音
+T4	Test 32 34	調査
+T5	Incident 58 60	異音
+T6	Storage 70 72	配管
+T7	Process 73 78	縁切り作業
+T8	Incident 87 89	異音
+T9	Storage 102 104	配管
+T10	Test 105 109	詳細点検
+T11	Incident 128 130	異音
+T12	Storage 139 141	配管
+T13	Product 144 148	高圧ガス
+T14	Incident 149 152	漏えい

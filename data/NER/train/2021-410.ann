@@ -1,0 +1,16 @@
+T1	Test 18 24	自主定期点検
+T2	Test 25 31	メーカー点検
+T3	Storage 35 38	冷凍機
+T5	Chemical 49 50	油
+T4	Storage 39 47	油分離槽均圧配管
+T6	Chemical 39 40	油
+T7	Product 52 54	冷媒
+T8	Incident 76 78	漏れ
+T9	Storage 64 67	冷凍機
+T10	Incident 101 103	漏れ
+T14	Product 94 96	冷媒
+T11	Storage 81 85	冷媒配管
+T15	Product 81 83	冷媒
+T12	Process 94 98	冷媒充填
+T13	Incident 55 57	漏れ
+T16	Incident 130 132	事故

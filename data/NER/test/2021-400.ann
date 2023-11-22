@@ -1,0 +1,47 @@
+T1	Storage 17 19	設備
+T2	Incident 40 42	異常
+T3	Incident 43 45	臭気
+T4	Incident 89 91	異臭
+T5	Test 111 115	現場巡視
+T7	Product 145 150	ブタジエン
+T6	Incident 145 152	ブタジエン 臭
+T8	Storage 158 160	設備
+T9	Incident 166 168	異常
+T11	Product 202 207	ブタジエン
+T10	Incident 202 209	ブタジエン 臭
+T12	Incident 218 221	漏えい
+T14	Product 250 252	ガス
+T13	Test 250 256	ガス 検知器
+T15	Incident 257 259	発報
+T17	Product 289 294	ブタジエン
+T16	Storage 289 298	ブタジエン タンク
+T18	Storage 301 303	配管
+T19	Storage 305 309	フランジ
+T20	Test 313 320	ソープ テスト
+T21	Storage 335 338	ポンプ
+T22	Test 343 350	ソープ テスト
+T23	Storage 365 368	ポンプ
+T24	Storage 370 382	吸込み配管 ドレン ノズ
+T25	Product 393 401	ブタジエン ガス
+T26	Storage 444 447	反応器
+T27	Process 450 454	フィード
+T28	Storage 460 462	ンプ
+T29	Storage 481 489	フィード ポンプ
+T30	Storage 493 497	緑切り弁
+T31	Storage 498 501	手動弁
+T32	Incident 571 574	漏えい
+T33	Process 576 578	散水
+T36	Storage 714 716	配管
+T35	Product 718 723	ブタジエン
+T34	Process 718 727	ブタジエン パージ
+T37	Storage 743 745	配管
+T39	Product 746 748	窒素
+T38	Process 746 750	窒素置換
+T40	Product 771 773	窒素
+T41	Storage 775 777	配管
+T42	Process 779 781	加圧
+T43	Test 783 790	ソープ テスト
+T44	Incident 799 802	カニ泡
+T45	Incident 805 807	漏れ
+T46	Incident 811 814	漏えい
+T47	Incident 835 837	亀裂

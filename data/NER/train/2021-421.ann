@@ -1,0 +1,9 @@
+T2	Product 0 2	空気
+T1	Storage 0 8	空気液化分離装置
+T3	Storage 14 28	コンデンサー ベント ライン
+T4	Product 29 33	液化酸素
+T5	Test 34 38	流通試験
+T6	Storage 45 48	安全弁
+T7	Incident 65 67	作動
+T8	Product 69 71	酸素
+T9	Incident 76 78	噴出

@@ -1,0 +1,10 @@
+T1	Storage 0 6	サブクーラー
+T2	Product 11 13	冷媒
+T3	Process 20 22	封入
+T4	Process 36 38	回収
+T5	Incident 54 57	漏えい
+T7	Incident 64 66	漏れ
+T6	Test 64 68	漏れ確認
+T8	Storage 75 82	凝縮器チューブ
+T9	Incident 89 91	漏れ
+T10	Storage 114 118	チューブ

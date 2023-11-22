@@ -1,0 +1,8 @@
+T1	Product 29 33	冷媒ガス
+T2	Incident 34 36	漏洩
+T3	Storage 41 44	冷凍機
+T4	Incident 49 51	異常
+T5	Storage 61 64	冷凍機
+T6	Product 90 94	冷媒ガス
+T7	Process 103 105	回収
+T8	Incident 110 112	漏洩

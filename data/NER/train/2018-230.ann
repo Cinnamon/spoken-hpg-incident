@@ -1,0 +1,11 @@
+T1	Test 0 6	定期巡回点検
+T2	Storage 8 25	ポンプメカニカルフラッシングライン
+T3	Incident 29 31	陽炎
+T4	Storage 40 43	ポンプ
+T5	Process 60 63	縁切り
+T6	Incident 70 74	施工不良
+T7	Incident 80 86	引っ張り応力
+T8	Incident 94 96	振動
+T9	Storage 105 109	ガセット
+T10	Incident 114 118	応力集中
+T11	Incident 130 132	割れ

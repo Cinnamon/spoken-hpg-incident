@@ -1,0 +1,5 @@
+T1	Test 9 13	巡回点検
+T2	Storage 16 27	メタネーション熱交換器
+T3	Incident 29 32	漏えい
+T4	Incident 33 35	覚知
+T5	Incident 37 39	火災

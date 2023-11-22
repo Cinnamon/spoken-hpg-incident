@@ -1,0 +1,75 @@
+T2	Product 18 23	アンモニア
+T1	Storage 18 27	アンモニア 圧縮機
+T3	Test 28 34	定期開放点検
+T4	Product 63 66	実ガス
+T5	Product 50 55	アンモニア
+T6	Process 57 59	導入
+T7	Product 79 82	実ガス
+T8	Product 68 73	アンモニア
+T9	Process 75 77	導入
+T11	Product 45 48	実ガス
+T10	Test 79 86	実ガス気密確認
+T13	Product 96 98	N2
+T12	Test 96 103	N2 気密確認
+T15	Product 108 113	アンモニア
+T14	Incident 108 116	アンモニア 臭気
+T16	Storage 123 126	圧縮機
+T18	Product 134 136	ガス
+T17	Test 129 139	ポータブルガス濃度計
+T19	Product 143 148	アンモニア
+T20	Incident 150 152	検知
+T22	Incident 156 159	漏えい
+T21	Test 156 163	漏えい箇所調査
+T23	Incident 165 167	臭気
+T24	Incident 173 175	検知
+T26	Product 215 220	アンモニア
+T25	Incident 215 222	アンモニア 臭
+T27	Product 227 229	ガス
+T28	Incident 237 241	臭気発生
+T29	Test 244 246	調査
+T30	Storage 249 256	バルブグランド
+T31	Incident 267 269	臭気
+T32	Incident 277 280	被害者
+T33	Incident 305 309	臭気発生
+T34	Incident 336 340	臭気発生
+T35	Incident 385 388	被害者
+T36	Storage 392 395	圧縮機
+T37	Incident 419 422	被害者
+T38	Incident 440 443	被害者
+T39	Incident 447 449	異物
+T75	Incident 455 460	ころころ感
+T41	Product 475 480	アンモニア
+T40	Incident 475 483	アンモニア 曝露
+T42	Incident 492 495	被害者
+T43	Chemical 513 516	水道水
+T44	Storage 532 536	グランド
+T45	Incident 544 546	危険
+T46	Incident 553 556	漏えい
+T47	Process 559 562	縁切り
+T48	Storage 623 626	圧縮機
+T49	Storage 630 633	バルブ
+T51	Product 645 647	N2
+T50	Test 645 653	N2 気密テスト
+T52	Storage 658 662	グランド
+T53	Storage 689 692	バルブ
+T55	Product 693 696	実ガス
+T54	Test 693 700	実ガス気密確認
+T56	Storage 707 711	グランド
+T57	Storage 728 731	バルブ
+T58	Storage 773 776	バルブ
+T59	Storage 777 785	グランドパッキン
+T60	Storage 786 788	弁棒
+T61	Storage 790 794	グランド
+T62	Storage 803 805	部品
+T63	Test 806 808	点検
+T64	Storage 816 819	バルブ
+T65	Incident 835 837	異常
+T67	Storage 846 848	部品
+T66	Test 846 850	部品点検
+T68	Storage 854 857	バルブ
+T70	Product 859 861	N2
+T69	Test 859 867	N2 気密テスト
+T71	Storage 896 899	バルブ
+T73	Product 900 903	実ガス
+T72	Test 900 907	実ガス気密試験
+T74	Storage 912 916	グランド

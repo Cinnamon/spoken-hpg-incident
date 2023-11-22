@@ -1,0 +1,30 @@
+T1	Storage 6 12	プレヒーター
+T24	Incident 6 25	プレヒーター、 E-080 、出口温度
+T25	Incident 26 28	低下
+T3	Product 36 38	水素
+T12	Storage 29 34	水素分離系
+T5	Product 29 31	水素
+T4	Process 36 40	水素分離
+T26	Incident 56 60	出口温度
+T27	Incident 61 63	低下
+T6	Storage 68 70	外管
+T7	Product 72 74	蒸気
+T8	Product 77 83	プロセスガス
+T9	Incident 84 87	漏れ込
+T10	Storage 111 117	外管側前後弁
+T11	Product 124 126	水素
+T2	Storage 124 129	水素分離系
+T13	Storage 140 142	外管
+T14	Chemical 144 145	水
+T15	Test 148 152	気密試験
+T28	Storage 161 166	下部側内管
+T29	Incident 168 173	ピンホール
+T16	Incident 176 178	漏れ
+T17	Storage 186 195	二重 管式熱交換器
+T18	Storage 196 198	外管
+T20	Chemical 202 206	スチーム
+T19	Storage 202 209	スチームドレン
+T21	Storage 213 218	外管連絡管
+T30	Storage 222 224	内管
+T22	Incident 226 232	エロージョン
+T23	Incident 237 242	ピンホール

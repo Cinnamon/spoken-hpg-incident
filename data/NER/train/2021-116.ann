@@ -1,0 +1,14 @@
+T1	Storage 2 5	冷凍機
+T2	Storage 18 24	クーラー架台
+T3	Storage 26 32	補強サポート
+T4	Storage 37 39	架台
+T10	Incident 49 51	反動
+T5	Storage 53 58	高圧圧力計
+T6	Storage 71 74	導圧管
+T7	Incident 67 69	接触
+T8	Storage 59 62	導圧管
+T9	Incident 95 97	折損
+T11	Incident 87 89	折損
+T12	Storage 102 104	元弁
+T13	Incident 118 121	漏えい
+T14	Incident 108 111	漏えい

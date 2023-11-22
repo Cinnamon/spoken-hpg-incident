@@ -1,0 +1,10 @@
+T4	Chemical 0 2	石油
+T3	Storage 0 7	石油化学事業所
+T5	Storage 18 20	配管
+T6	Storage 21 24	バルブ
+T1	Product 27 32	プロピレン
+T2	Incident 33 36	漏えい
+T7	Incident 37 39	出火
+T9	Storage 100 103	バルブ
+T10	Storage 110 118	グランドパッキン
+T11	Incident 120 122	緩み

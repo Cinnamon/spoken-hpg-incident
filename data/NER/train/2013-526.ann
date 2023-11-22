@@ -1,0 +1,9 @@
+T2	Product 31 33	酸素
+T6	Storage 14 20	予備酸素容器
+T1	Test 21 25	定期点検
+T3	Product 16 18	酸素
+T4	Storage 29 44	予備酸素 0.002m3 容器
+T7	Product 90 92	酸素
+T5	Storage 88 94	予備酸素容器
+T8	Incident 95 97	転倒
+T9	Incident 102 104	落下

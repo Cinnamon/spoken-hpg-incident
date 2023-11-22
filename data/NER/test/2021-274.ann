@@ -1,0 +1,24 @@
+T1	Incident 0 4	事故発生
+T2	Test 13 19	定時巡回点検
+T3	Incident 22 24	異常
+T4	Storage 49 51	設備
+T5	Test 44 46	点検
+T6	Storage 41 43	設備
+T7	Storage 61 71	パッキン締結フランジ
+T8	Incident 76 78	陽炎
+T9	Incident 80 84	漏れ発生
+T11	Product 97 101	エチレン
+T10	Incident 97 103	エチレン 臭
+T12	Incident 106 109	漏れ音
+T25	Product 119 121	ガス
+T13	Test 116 124	定置式ガス検知器
+T14	Incident 125 127	発報
+T15	Storage 156 158	設備
+T16	Storage 170 174	フランジ
+T17	Incident 180 182	漏れ
+T19	Product 194 196	窒素
+T18	Process 194 198	窒素置換
+T21	Storage 220 224	シール材
+T22	Chemical 225 227	ゴム
+T23	Storage 229 234	O リング
+T24	Storage 267 272	O リング

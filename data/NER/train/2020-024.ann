@@ -1,0 +1,10 @@
+T1	Test 0 7	定期パトロール
+T3	Chemical 11 13	重油
+T2	Storage 9 17	直接重油脱硫装置
+T4	Storage 20 22	塔槽
+T5	Storage 23 26	液面計
+T6	Chemical 32 35	結晶物
+T7	Incident 36 38	滲み
+T8	Storage 48 51	液面計
+T9	Process 58 60	脱圧
+T10	Incident 63 66	漏えい

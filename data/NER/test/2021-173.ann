@@ -1,0 +1,11 @@
+T1	Storage 10 17	洗浄塔塔頂配管
+T10	Incident 28 30	事故
+T9	Storage 28 32	事故配管
+T2	Storage 44 47	洗浄塔
+T4	Product 50 53	LPG
+T3	Process 50 58	LPG フィード
+T11	Storage 78 81	洗浄塔
+T5	Product 78 84	洗浄塔実ガス
+T6	Test 98 103	気密テスト
+T8	Product 117 120	LPG
+T7	Incident 117 124	LPG 漏えい

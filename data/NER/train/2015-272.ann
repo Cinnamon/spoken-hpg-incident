@@ -1,0 +1,39 @@
+T2	Product 9 12	ブタン
+T1	Storage 9 15	ブタン 配管
+T3	Incident 20 22	異臭
+T4	Incident 23 25	異音
+T6	Product 37 40	ブタン
+T5	Storage 37 43	ブタン 配管
+T8	Product 48 50	ガス
+T7	Incident 48 53	ガス漏えい
+T9	Incident 94 97	漏えい
+T10	Process 100 103	縁切り
+T11	Storage 105 108	フレア
+T12	Process 110 112	脱圧
+T14	Product 113 115	窒素
+T13	Process 113 118	窒素パージ
+T16	Product 120 122	ガス
+T15	Test 120 124	ガス検査
+T17	Incident 150 153	漏えい
+T18	Test 156 162	外観目視検査
+T19	Incident 166 170	外面腐食
+T20	Incident 173 175	開孔
+T21	Chemical 198 203	金属接着剤
+T22	Storage 207 212	U バンド
+T23	Product 223 225	窒素
+T24	Process 234 236	封入
+T25	Incident 240 243	漏えい
+T26	Storage 245 247	配管
+T27	Storage 267 269	配管
+T28	Storage 263 265	配管
+T29	Storage 275 283	軸方向ストッパー
+T30	Storage 284 288	保護板付
+T31	Storage 305 309	サポート
+T32	Storage 310 312	架台
+T33	Storage 318 321	保護板
+T34	Incident 335 338	漏えい
+T35	Storage 342 350	軸方向ストッパー
+T36	Storage 351 354	保護板
+T37	Incident 370 372	滞留
+T38	Chemical 374 376	雨水
+T39	Incident 389 393	外面腐食

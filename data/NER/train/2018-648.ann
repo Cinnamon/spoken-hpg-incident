@@ -1,0 +1,43 @@
+T43	Product 0 6	イソブチレン
+T1	Storage 0 11	イソブチレン 抽出装置
+T2	Product 13 23	ブタジエン 原料ガス
+T3	Product 25 37	ブタン 、 ブテン 留分
+T4	Chemical 41 43	硫酸
+T5	Product 45 51	イソブチレン
+T6	Process 53 55	抽出
+T7	Storage 57 59	設備
+T8	Storage 61 63	装置
+T9	Storage 87 89	装置
+T10	Storage 106 107	弁
+T11	Incident 120 122	臭気
+T12	Incident 129 133	ヒリヒリ
+T13	Incident 138 140	覚知
+T14	Test 147 149	点検
+T15	Storage 163 167	出口配管
+T17	Product 170 175	LP ガス
+T16	Incident 170 178	LP ガス漏えい
+T18	Storage 213 215	装置
+T19	Incident 232 235	漏えい
+T20	Incident 253 256	漏えい
+T21	Storage 280 284	T 字管
+T22	Storage 291 297	閉止フランジ
+T23	Storage 298 302	知らせ穴
+T24	Storage 311 317	閉止フランジ
+T25	Chemical 341 351	テフロン ライニング
+T27	Chemical 355 359	テフロン
+T26	Storage 355 369	テフロン 製シートガスケット
+T29	Chemical 374 377	炭素鋼
+T28	Storage 374 378	炭素鋼部
+T30	Incident 379 381	接液
+T31	Storage 400 406	閉止フランジ
+T32	Storage 415 419	T 字管
+T34	Chemical 449 453	テフロン
+T33	Storage 449 463	テフロン 製シートガスケット
+T35	Storage 480 484	知らせ穴
+T36	Chemical 488 490	雨水
+T37	Incident 494 495	錆
+T38	Incident 498 500	閉塞
+T40	Chemical 508 512	テフロン
+T39	Storage 508 516	テフロン シート
+T41	Incident 517 521	挿入漏れ
+T42	Incident 530 533	漏えい

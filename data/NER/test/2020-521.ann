@@ -1,0 +1,14 @@
+T1	Storage 14 22	流動接触分解設備
+T2	Product 24 29	プロピレン
+T3	Storage 24 36	プロピレン 精密蒸留装置
+T4	Test 38 45	定時パトロール
+T5	Incident 56 60	トラブル
+T6	Storage 66 71	配管外装材
+T7	Incident 76 78	陽炎
+T9	Product 83 85	ガス
+T8	Incident 83 88	ガスリーク
+T10	Incident 90 92	漏洩
+T11	Storage 111 113	装置
+T12	Process 148 150	脱圧
+T13	Product 178 180	ガス
+T14	Test 178 182	ガス検知

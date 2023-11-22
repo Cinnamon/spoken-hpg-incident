@@ -1,0 +1,40 @@
+T1	Storage 12 15	事業所
+T2	Test 17 19	巡回
+T3	Incident 33 35	氷片
+T4	Product 65 68	LPG
+T5	Storage 65 73	LPG 回収装置
+T35	Product 76 79	エタン
+T6	Storage 74 81	脱 エタン 塔
+T7	Storage 84 86	外装
+T8	Incident 91 93	陽炎
+T9	Storage 120 122	装置
+T10	Process 123 127	降圧作業
+T12	Product 145 147	ガス
+T11	Test 142 150	携帯型ガス検知器
+T13	Product 152 157	LP ガス
+T14	Incident 158 161	漏えい
+T15	Process 177 179	降圧
+T16	Incident 201 204	漏えい
+T17	Incident 215 217	事故
+T36	Incident 220 226	人的物的被害
+T18	Product 237 242	LP ガス
+T19	Incident 243 247	漏えい量
+T20	Product 258 261	LPG
+T21	Storage 258 266	LPG 回収装置
+T22	Chemical 271 274	ソーダ
+T23	Storage 271 278	ソーダ 分離槽
+T24	Product 287 294	粗 LP ガス
+T25	Chemical 296 308	スイサンカナトリウム 水
+T33	Process 309 311	接触
+T26	Product 314 321	粗 LP ガス
+T34	Process 323 328	不純物除去
+T27	Product 337 340	LPG
+T37	Chemical 341 343	水分
+T28	Storage 341 346	水分分離槽
+T29	Product 356 363	粗 LP ガス
+T38	Chemical 364 366	水分
+T30	Process 364 368	水分除去
+T39	Chemical 397 399	水分
+T31	Storage 397 407	水分除去 フィルター
+T32	Storage 409 411	上蓋
+T40	Chemical 421 422	水

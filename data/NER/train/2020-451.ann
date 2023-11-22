@@ -1,0 +1,9 @@
+T8	Storage 11 16	高圧吸収塔
+T1	Chemical 11 21	高圧吸収塔クーラー液
+T9	Test 22 29	定時サンプリン
+T2	Storage 31 36	サンプル弁
+T3	Incident 42 45	内漏れ
+T4	Chemical 71 75	スチーム
+T7	Process 76 78	加温
+T5	Storage 83 86	バルブ
+T6	Incident 99 102	漏えい

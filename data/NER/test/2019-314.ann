@@ -1,0 +1,15 @@
+T1	Test 4 11	放射線透過試験
+T2	Incident 44 47	漏えい
+T3	Test 33 40	放射線透過試験
+T4	Incident 23 26	漏えい
+T5	Storage 50 53	バルブ
+T6	Incident 61 63	減肉
+T8	Storage 79 83	ハンドル
+T9	Storage 86 89	バルブ
+T10	Product 95 97	外気
+T11	Incident 98 100	冷却
+T12	Incident 105 107	凝縮
+T13	Chemical 109 110	水
+T14	Product 111 115	炭酸ガス
+T17	Product 120 122	炭酸
+T16	Incident 120 124	炭酸腐食

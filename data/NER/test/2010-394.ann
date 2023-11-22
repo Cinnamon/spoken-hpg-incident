@@ -1,0 +1,9 @@
+T1	Test 7 11	定期巡回
+T2	Incident 18 21	漏えい
+T3	Test 26 28	調査
+T4	Storage 34 37	ポンプ
+T5	Storage 38 45	吐出PGプラグ
+T6	Incident 51 54	漏えい
+T7	Process 66 69	縁切り
+T8	Incident 70 73	漏えい
+T9	Incident 85 92	締付け管理不良

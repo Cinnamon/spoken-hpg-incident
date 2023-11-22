@@ -1,0 +1,13 @@
+T1	Chemical 15 17	尿素
+T2	Storage 15 20	尿素合成塔
+T3	Product 24 29	アンモニア
+T4	Incident 24 31	アンモニア 臭
+T5	Test 38 40	調査
+T6	Storage 41 47	合成塔検出孔
+T7	Product 51 59	アンモニア ガス
+T8	Incident 60 63	漏えい
+T9	Storage 99 102	合成塔
+T10	Storage 116 119	合成塔
+T11	Incident 127 130	漏えい
+T12	Storage 154 157	合成塔
+T13	Process 158 160	脱圧

@@ -1,0 +1,20 @@
+T1	Incident 0 2	事故
+T3	Chemical 5 13	高級 アルコール
+T2	Storage 5 18	高級 アルコール 製造施設
+T4	Process 19 25	水添反応工程
+T5	Test 70 75	パトロール
+T6	Storage 79 85	上部配管保温
+T7	Chemical 88 90	蒸気
+T8	Storage 97 99	機器
+T9	Storage 100 107	パイパスライン
+T10	Process 125 127	脱圧
+T12	Chemical 128 129	液
+T11	Process 128 131	液抜き
+T13	Process 132 134	降温
+T15	Product 136 138	窒素
+T14	Process 136 140	窒素封入
+T16	Test 152 156	発泡試験
+T17	Storage 159 161	配管
+T18	Incident 170 173	カニ泡
+T19	Storage 186 190	プラント
+T20	Test 197 199	調査

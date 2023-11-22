@@ -1,0 +1,5 @@
+T1	Storage 16 22	接触分解装置
+T2	Storage 23 31	ポンプ吐出ライン
+T3	Chemical 37 40	ナフサ
+T4	Product 42 48	液化石油ガス
+T5	Incident 53 56	漏えい

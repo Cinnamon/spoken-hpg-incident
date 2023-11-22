@@ -1,0 +1,39 @@
+T2	Product 0 4	エチレン
+T1	Storage 0 17	エチレン ブースターコンプレッサー
+T4	Product 37 39	ガス
+T3	Test 35 42	定置ガス検知器
+T5	Incident 47 49	警報
+T6	Incident 74 76	点灯
+T7	Product 68 70	ガス
+T8	Test 68 73	ガス検知器
+T9	Incident 58 60	点灯
+T11	Product 87 89	ガス
+T10	Test 84 92	定置式ガス検知器
+T12	Test 111 115	現場調査
+T13	Incident 119 121	臭気
+T15	Product 129 133	エチレン
+T14	Storage 129 155	エチレン ブースターコンプレッサー出口北側スナッパー
+T16	Storage 156 164	ドレンアウト配管
+T18	Product 171 173	ガス
+T17	Incident 171 175	ガス漏れ
+T20	Product 188 192	エチレン
+T19	Storage 188 208	エチレン ブースターコンプレッサー入口弁
+T21	Storage 212 227	出口ライン安全弁バイパスライン
+T22	Storage 228 232	ブロー弁
+T23	Process 235 237	脱圧
+T24	Storage 240 247	コンプレッサー
+T25	Storage 252 255	出口弁
+T26	Storage 275 278	圧力計
+T27	Incident 290 292	漏れ
+T29	Product 299 301	窒素
+T28	Process 299 303	窒素置換
+T30	Process 306 310	現場保持
+T31	Test 315 319	詳細調査
+T32	Test 322 328	浸透深傷検査
+T33	Storage 332 336	配管ボス
+T34	Incident 349 351	割れ
+T35	Storage 357 359	配管
+T36	Storage 375 377	測定
+T37	Storage 397 399	配管
+T38	Test 402 404	観察
+T39	Incident 407 409	減肉

@@ -1,0 +1,30 @@
+T1	Storage 10 17	冷凍貯槽タンク
+T3	Process 19 21	貯槽
+T2	Product 26 29	ブタン
+T4	Process 31 37	払い出し作業
+T6	Product 45 50	LP ガス
+T5	Storage 45 63	LP ガス出荷設備、 GF 、ポンプ
+T7	Product 76 79	ブタン
+T8	Process 81 87	張り込み作業
+T9	Storage 98 104	張り込み配管
+T10	Product 107 111	プロパン
+T11	Storage 113 120	冷凍貯槽タンク
+T12	Storage 141 150	GF 冷凍付帯設備
+T13	Product 157 159	窒素
+T15	Incident 162 165	リーク
+T14	Test 162 168	リークテスト
+T16	Test 185 191	定期自主点検
+T17	Product 195 198	ブタン
+T18	Product 204 207	実ガス
+T19	Test 209 213	気密試験
+T20	Storage 236 241	均圧器配管
+T22	Product 248 253	LP ガス
+T21	Incident 248 256	LP ガス漏えい
+T23	Storage 272 275	均圧器
+T24	Storage 280 284	導圧配管
+T25	Storage 298 302	出口配管
+T26	Storage 303 307	保冷板金
+T27	Incident 309 311	貫通
+T28	Incident 316 321	保冷下腐食
+T29	Incident 324 328	外面減肉
+T30	Incident 332 334	穿孔

@@ -1,0 +1,14 @@
+T2	Chemical 3 4	水
+T1	Storage 0 7	冷凍貯水タンク
+T3	Process 16 18	貯槽
+T4	Product 23 26	ブタン
+T5	Process 28 30	回収
+T6	Process 35 41	払い出し作業
+T7	Storage 49 52	ポンプ
+T8	Product 55 58	ブタン
+T13	Storage 60 67	張り込みライン
+T14	Process 60 70	張り込みラインアップ
+T9	Storage 81 94	ポンプケーシングブロー配管
+T11	Chemical 95 96	氷
+T10	Product 98 106	LPG ペーパー
+T12	Incident 111 113	陽炎

@@ -1,0 +1,7 @@
+T1	Test 15 22	警備 システム
+T2	Storage 25 28	空調機
+T3	Incident 29 31	異常
+T4	Incident 32 34	検知
+T5	Test 48 50	点検
+T7	Product 59 64	冷媒 ガス
+T6	Incident 59 76	冷媒 ガス R410A 全量漏えい

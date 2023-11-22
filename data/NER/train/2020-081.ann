@@ -1,0 +1,11 @@
+T1	Storage 15 21	空気分離装置
+T2	Incident 29 32	破裂音
+T3	Product 36 38	ガス
+T4	Product 39 41	空気
+T5	Incident 42 44	噴出
+T6	Storage 59 61	装置
+T7	Storage 62 65	蒸留塔
+T8	Storage 70 72	配管
+T9	Product 74 78	液化ガス
+T10	Product 79 81	空気
+T11	Incident 82 85	漏えい

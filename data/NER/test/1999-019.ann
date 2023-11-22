@@ -1,0 +1,17 @@
+T2	Chemical 3 9	ポリエチレン
+T1	Storage 0 13	高圧法ポリエチレン製造装置
+T3	Storage 29 32	バルブ
+T4	Chemical 35 39	アセトン
+T5	Process 40 44	注入作業
+T6	Storage 52 57	手動バルブ
+T7	Storage 66 70	ハンドル
+T8	Incident 71 74	空廻り
+T10	Storage 86 91	ハンドル軸
+T9	Storage 99 106	グランドナット
+T11	Incident 107 109	回転
+T12	Incident 110 112	脱落
+T13	Product 113 117	エチレン
+T14	Chemical 118 127	酢酸ビニルモノマー
+T15	Chemical 128 131	混合液
+T16	Incident 132 134	噴出
+T17	Incident 139 141	負傷

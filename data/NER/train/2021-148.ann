@@ -1,0 +1,16 @@
+T1	Test 0 7	定期パトロール
+T2	Storage 11 17	冷凍機凝縮器
+T3	Storage 18 24	サイトグラス
+T4	Product 40 43	フロン
+T5	Incident 31 35	液面低下
+T7	Product 27 30	フロン
+T6	Test 40 48	フロンチェッカー
+T8	Storage 50 56	均圧用電磁弁
+T9	Storage 58 61	圧縮機
+T11	Chemical 67 68	銅
+T10	Storage 67 75	銅管フレア継手部
+T12	Incident 77 80	漏えい
+T13	Storage 88 91	冷凍機
+T14	Product 100 102	冷媒
+T15	Storage 105 107	止弁
+T16	Incident 111 113	拡散

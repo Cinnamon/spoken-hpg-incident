@@ -1,0 +1,15 @@
+T1	Storage 58 62	空調設備
+T2	Incident 91 99	エラーコード発生
+T3	Incident 139 144	故障ランプ
+T4	Incident 145 147	点灯
+T5	Incident 158 164	アラーム表示
+T6	Incident 165 173	エラーコード発生
+T7	Storage 184 186	空調
+T8	Incident 227 232	故障ランプ
+T9	Incident 220 224	ブザー音
+T10	Incident 199 204	故障ランプ
+T11	Incident 233 235	点灯
+T12	Storage 241 243	空調
+T13	Incident 280 283	再発報
+T14	Incident 329 332	漏えい
+T15	Test 338 342	特定調査

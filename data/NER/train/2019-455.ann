@@ -1,0 +1,17 @@
+T1	Storage 18 21	冷凍機
+T2	Test 41 46	パトロール
+T3	Storage 52 55	圧縮機
+T4	Storage 64 67	圧力計
+T5	Storage 68 71	導圧管
+T6	Incident 73 76	噴出音
+T7	Product 80 84	冷媒ガス
+T8	Incident 85 88	漏えい
+T9	Incident 100 103	漏えい
+T10	Storage 113 115	配管
+T11	Incident 116 119	ねじれ
+T12	Storage 126 129	圧縮機
+T13	Incident 138 140	振動
+T14	Incident 130 132	振動
+T15	Incident 142 146	疲労破壊
+T16	Incident 149 151	破損
+T17	Incident 158 161	漏えい

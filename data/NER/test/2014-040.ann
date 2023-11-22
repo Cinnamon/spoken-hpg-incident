@@ -1,0 +1,37 @@
+T1	Chemical 22 26	アニリン
+T2	Storage 12 21	アニリン 製造施設
+T3	Chemical 12 16	アニリン
+T6	Product 53 57	水素ガス
+T7	Product 60 67	アニリン ガス
+T4	Storage 22 72	アニリン 設備 No1 反応器 BR-311B 出口、内容物、水素ガス + アニリン ガス、ミキサー
+T8	Storage 73 79	フランジ保温
+T9	Incident 81 83	小火
+T10	Storage 147 150	反応器
+T11	Chemical 154 161	ニトロベンゼン
+T12	Product 163 165	水素
+T15	Process 166 168	反応
+T13	Chemical 171 175	アニリン
+T14	Process 177 179	製造
+T16	Storage 198 201	反応器
+T17	Chemical 203 205	触媒
+T18	Incident 206 208	劣化
+T19	Product 241 243	水素
+T20	Process 244 246	流入
+T21	Incident 254 256	事故
+T22	Storage 261 265	ミキサー
+T23	Storage 266 270	フランジ
+T24	Product 273 275	水素
+T25	Storage 276 283	プロセスライン
+T26	Process 284 286	導入
+T27	Product 310 312	水素
+T28	Storage 315 319	フランジ
+T29	Incident 321 325	温度分布
+T30	Product 336 338	水素
+T31	Storage 344 348	フランジ
+T32	Incident 355 362	締め付けトルク
+T33	Product 370 372	水素
+T34	Product 376 380	アニリン
+T35	Incident 382 385	漏えい
+T36	Incident 387 389	着火
+T37	Product 397 399	水素
+T38	Incident 400 405	静電気着火

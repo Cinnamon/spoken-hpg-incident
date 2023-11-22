@@ -1,0 +1,10 @@
+T1	Storage 0 2	装置
+T2	Test 18 22	定期巡回
+T3	Incident 29 32	漏えい
+T10	Incident 33 35	感知
+T4	Test 37 39	調査
+T8	Storage 45 48	ドラム
+T9	Storage 49 53	フランジ
+T5	Incident 56 59	漏えい
+T6	Chemical 81 88	ファーマナイト
+T7	Incident 99 105	締結管理不良

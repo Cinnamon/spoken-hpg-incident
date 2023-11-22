@@ -1,0 +1,31 @@
+T1	Test 21 31	シーズン オフ 点検
+T2	Product 34 36	冷媒
+T4	Process 58 61	リーク
+T3	Test 58 66	リーク テスター
+T5	Product 70 72	冷媒
+T6	Incident 70 74	冷媒漏れ
+T7	Test 75 77	点検
+T8	Product 101 103	冷媒
+T9	Process 101 105	冷媒回収
+T11	Incident 113 116	漏えい
+T10	Test 113 118	漏えい検査
+T12	Product 136 138	冷媒
+T13	Process 136 140	冷媒回収
+T14	Process 173 175	回収
+T15	Product 190 192	冷媒
+T16	Incident 190 195	冷媒漏えい
+T17	Incident 196 198	発覚
+T18	Incident 204 207	漏えい
+T19	Test 227 229	検査
+T20	Incident 233 236	漏えい
+T21	Incident 237 239	異常
+T22	Incident 243 246	漏えい
+T24	Storage 284 287	安全弁
+T25	Incident 288 292	ごみ噛み
+T26	Test 297 307	シーズン オフ 点検
+T27	Storage 309 312	安全弁
+T28	Incident 325 328	漏えい
+T29	Test 349 359	シーズン オフ 点検
+T30	Storage 361 364	安全弁
+T31	Test 361 366	安全弁点検
+T23	Incident 384 386	異常

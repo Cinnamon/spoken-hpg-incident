@@ -1,0 +1,12 @@
+T1	Test 6 12	定期自主検査
+T2	Storage 14 17	バルブ
+T4	Product 32 36	窒素ガス
+T5	Product 40 45	パージガス
+T3	Storage 32 48	窒素ガス充てん口パージガスライン
+T6	Incident 49 51	破断
+T7	Storage 57 61	元バルブ
+T8	Incident 68 71	漏えい
+T9	Storage 81 83	配管
+T10	Incident 84 87	老朽化
+T11	Incident 88 94	繰り返し応力
+T12	Incident 97 99	破断

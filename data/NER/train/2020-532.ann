@@ -1,0 +1,19 @@
+T2	Product 12 16	液体塩素
+T1	Storage 12 19	液体塩素気化器
+T4	Product 22 26	塩素ガス
+T3	Test 22 29	塩素ガス検知器
+T5	Incident 30 32	発報
+T6	Storage 49 51	保温
+T7	Storage 57 65	気化器安全弁前弁
+T8	Storage 67 76	一次 側 フランジ
+T9	Incident 81 84	漏えい
+T10	Storage 106 110	フランジ
+T11	Incident 123 126	漏えい
+T12	Incident 137 140	漏えい
+T13	Storage 144 148	フランジ
+T14	Storage 152 156	ブロワー
+T15	Process 158 162	吸引除害
+T16	Storage 168 173	製造ライン
+T17	Storage 189 194	製造ライン
+T18	Storage 199 202	気化器
+T19	Incident 206 209	漏えい

@@ -1,0 +1,16 @@
+T1	Product 0 7	酸化 エチレン
+T2	Storage 0 10	酸化 エチレン 貯槽
+T3	Storage 12 15	計量槽
+T4	Process 16 18	移送
+T5	Storage 20 22	貯槽
+T6	Product 25 27	ガス
+T7	Test 25 30	ガス検知器
+T8	Incident 31 33	発報
+T10	Product 46 48	ガス
+T9	Test 41 51	ポータブルガス検知器
+T15	Test 55 57	点検
+T11	Storage 61 63	貯槽
+T12	Storage 66 69	手動弁
+T13	Incident 77 80	漏えい
+T14	Process 85 87	移送
+T17	Incident 107 110	漏えい

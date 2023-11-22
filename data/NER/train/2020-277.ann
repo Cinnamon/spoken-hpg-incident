@@ -1,0 +1,19 @@
+T19	Chemical 11 12	水
+T1	Storage 11 18	水冷式 チラー
+T2	Storage 24 27	蒸発器
+T3	Storage 29 44	ブレジング プレート 熱交換器
+T4	Chemical 48 50	冷水
+T5	Storage 48 54	冷水負荷設備
+T6	Incident 59 61	鉄錆
+T7	Incident 62 64	混入
+T8	Chemical 66 68	冷水
+T9	Storage 66 70	冷水流路
+T10	Incident 75 77	閉塞
+T11	Chemical 82 84	冷水
+T12	Incident 85 87	凍結
+T13	Storage 92 95	蒸発器
+T14	Storage 97 112	ブレジング プレート 熱交換器
+T15	Incident 122 124	破損
+T16	Product 127 132	冷媒 ガス
+T17	Chemical 134 136	冷水
+T18	Incident 139 142	漏えい

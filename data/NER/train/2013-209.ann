@@ -1,0 +1,16 @@
+T1	Test 5 9	日常巡回
+T2	Storage 14 16	配管
+T3	Incident 23 24	霜
+T4	Incident 58 60	漏れ
+T6	Storage 78 80	機器
+T5	Storage 81 84	バルブ
+T7	Incident 92 94	漏れ
+T8	Incident 105 107	割れ
+T9	Storage 133 135	配管
+T10	Incident 136 138	割れ
+T11	Product 146 150	液体窒素
+T12	Process 151 153	通液
+T13	Incident 171 173	割れ
+T14	Incident 177 179	貫通
+T15	Incident 202 204	腐食
+T16	Storage 208 210	配管

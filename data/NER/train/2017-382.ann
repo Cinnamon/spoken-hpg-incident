@@ -1,0 +1,15 @@
+T1	Storage 15 25	水添脱硫接触改質装置
+T2	Storage 32 48	スタビライザー塔頂ポンプ吐出配管
+T3	Incident 51 53	霧状
+T4	Product 55 60	LP ガス
+T5	Incident 61 64	漏えい
+T6	Storage 82 84	装置
+T7	Storage 99 105	ポンプ吐出弁
+T8	Process 111 113	脱圧
+T9	Process 129 131	脱圧
+T10	Incident 136 139	漏えい
+T11	Incident 146 148	開孔
+T12	Storage 154 156	配管
+T15	Incident 189 191	開孔
+T16	Storage 273 278	レデュサー
+T17	Storage 292 294	淀み

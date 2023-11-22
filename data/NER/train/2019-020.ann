@@ -1,0 +1,23 @@
+T1	Test 0 7	現場パトロール
+T3	Chemical 23 25	蒸気
+T2	Storage 10 15	蒸気ライン
+T4	Storage 16 18	保温
+T6	Chemical 10 12	蒸気
+T5	Incident 23 27	蒸気漏れ
+T7	Incident 28 30	湯気
+T9	Product 41 43	ガス
+T8	Test 38 46	高感度ガス検知器
+T10	Product 55 60	一酸化炭素
+T11	Incident 62 64	検知
+T12	Storage 68 70	保温
+T14	Product 83 89	プロセスガス
+T13	Storage 83 92	プロセスガスライン
+T15	Storage 93 98	レジューサ
+T16	Incident 99 101	割れ
+T17	Chemical 108 110	金属
+T18	Chemical 114 129	オーステナイト 系 ステンレス
+T19	Chemical 138 145	マルテンサイト
+T20	Product 168 170	水素
+T22	Product 181 183	水素
+T21	Incident 181 185	水素脆化
+T23	Incident 190 192	割れ

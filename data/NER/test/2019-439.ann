@@ -1,0 +1,20 @@
+T1	Storage 12 19	ダミーサポート
+T2	Incident 23 28	漏えい事故
+T3	Storage 40 42	箇所
+T4	Test 58 63	RT 撮影
+T5	Test 44 49	RT 撮影
+T6	Incident 67 69	減肉
+T7	Product 77 79	ガス
+T8	Test 77 81	ガス検知
+T9	Incident 86 89	漏えい
+T10	Incident 99 103	外面腐食
+T11	Storage 110 117	ダミーサポート
+T12	Storage 118 125	ウィープホール
+T13	Incident 127 129	侵入
+T14	Product 131 133	外気
+T15	Incident 135 137	湿気
+T16	Storage 138 141	曲げ管
+T17	Incident 144 146	結露
+T18	Incident 160 164	外面腐食
+T19	Incident 174 176	開口
+T20	Incident 177 180	漏えい

@@ -1,0 +1,23 @@
+T1	Product 15 18	ブタン
+T2	Process 20 22	移送
+T4	Product 37 39	ガス
+T3	Test 37 42	ガス検知器
+T5	Incident 43 45	発報
+T6	Test 50 54	現場確認
+T8	Product 63 66	ブタン
+T7	Storage 63 80	ブタン 移送ポンプメカニカルシール
+T9	Product 85 87	ガス
+T10	Incident 95 98	漏えい
+T11	Incident 102 107	シュート音
+T13	Product 120 123	ブタン
+T12	Storage 120 129	ブタン 移送ポンプ
+T14	Storage 134 137	吸引弁
+T15	Storage 138 141	吐出弁
+T16	Storage 143 148	リターン弁
+T17	Storage 160 167	圧力計ドレン弁
+T18	Storage 170 180	フレキシブルチューブ
+T19	Storage 181 185	フレアー
+T20	Process 187 189	脱圧
+T21	Incident 204 207	漏えい
+T22	Incident 193 196	漏えい
+T23	Test 232 234	調査

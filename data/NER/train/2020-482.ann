@@ -1,0 +1,12 @@
+T1	Storage 14 19	ストレーナ
+T2	Product 30 35	アンモニア
+T3	Process 37 41	抜き出し
+T5	Product 56 61	アンモニア
+T4	Test 56 65	アンモニア 検知器
+T7	Chemical 79 82	活性炭
+T6	Storage 79 94	活性炭塔出ロストレーナーバルブ
+T8	Storage 95 99	グランド
+T9	Product 103 111	アンモニア ガス
+T10	Incident 112 115	漏えい
+T11	Storage 135 144	グランド締付ボルト
+T12	Incident 152 155	漏えい

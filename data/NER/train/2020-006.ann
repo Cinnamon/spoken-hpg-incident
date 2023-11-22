@@ -1,0 +1,14 @@
+T1	Test 0 4	完成検査
+T3	Product 6 10	液化窒素
+T2	Storage 6 12	液化窒素貯槽
+T4	Product 16 20	液化窒素
+T5	Process 21 24	受入れ
+T6	Incident 34 38	真空劣化
+T7	Incident 46 50	真空破壊
+T8	Test 53 55	調査
+T10	Product 62 66	ヘリウム
+T11	Incident 66 69	リーク
+T9	Test 62 72	ヘリウムリークテスト
+T12	Storage 77 83	真空槽内配管
+T13	Storage 84 90	差込溶接継手
+T14	Incident 98 101	漏えい

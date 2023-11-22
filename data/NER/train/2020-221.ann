@@ -1,0 +1,13 @@
+T1	Storage 10 16	中圧蒸気配管
+T2	Storage 35 37	配管
+T3	Product 48 50	窒素
+T5	Product 50 54	高圧ガス
+T4	Storage 48 56	窒素高圧ガス配管
+T7	Product 76 78	窒素
+T8	Product 78 82	高圧ガス
+T6	Storage 76 84	窒素高圧ガス配管
+T9	Incident 106 108	漏れ
+T10	Storage 128 130	箇所
+T11	Storage 131 134	バルブ
+T12	Process 138 141	縁切り
+T13	Incident 143 146	漏えい

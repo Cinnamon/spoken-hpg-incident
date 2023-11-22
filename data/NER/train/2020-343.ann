@@ -1,0 +1,14 @@
+T1	Storage 19 22	改質炉
+T2	Storage 24 27	圧力計
+T3	Incident 82 86	上限警報
+T4	Incident 86 88	発報
+T5	Storage 98 104	吸引ブロアー
+T6	Incident 126 131	非定常措置
+T7	Incident 139 143	温度上昇
+T8	Storage 196 199	改質炉
+T9	Test 206 208	点検
+T10	Storage 214 219	原料加熱器
+T11	Storage 220 228	高温側 TUBE
+T12	Incident 236 238	破損
+T13	Product 240 244	天然ガス
+T14	Incident 245 248	漏えい

@@ -1,0 +1,9 @@
+T1	Test 3 7	定期巡回
+T2	Incident 9 11	異常
+T3	Storage 20 23	加熱炉
+T5	Storage 24 25	炉
+T4	Incident 24 29	炉内圧変動
+T6	Storage 44 47	加熱炉
+T7	Storage 51 63	緊急遮断弁上流チャッキ弁
+T9	Product 65 67	水素
+T8	Incident 65 69	水素漏洩

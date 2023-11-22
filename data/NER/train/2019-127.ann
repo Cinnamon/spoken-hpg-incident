@@ -1,0 +1,15 @@
+T1	Test 0 7	現場パトロール
+T2	Storage 15 23	吸収塔付属液面計
+T3	Storage 24 30	取出し導圧管
+T4	Incident 32 34	滲み
+T5	Product 43 47	硫化水素
+T6	Product 52 58	プロセスガス
+T7	Storage 61 63	配管
+T8	Incident 66 68	腐食
+T9	Chemical 73 76	硫化鉄
+T10	Incident 94 98	スケール
+T15	Incident 90 92	堆積
+T16	Incident 84 86	堆積
+T11	Incident 77 81	スケール
+T12	Incident 106 108	腐食
+T14	Incident 113 115	開口

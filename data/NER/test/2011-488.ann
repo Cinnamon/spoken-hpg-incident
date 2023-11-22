@@ -1,0 +1,14 @@
+T2	Test 7 11	定期巡回
+T1	Incident 18 21	漏えい
+T3	Test 26 28	調査
+T4	Storage 34 42	フレキシブル配管
+T5	Incident 45 48	漏えい
+T6	Storage 57 60	バルブ
+T7	Process 64 67	縁切り
+T8	Incident 75 78	漏えい
+T9	Incident 89 92	漏えい
+T10	Storage 94 101	フレキブル配管
+T11	Product 105 109	LPガス
+T12	Product 110 114	プロパン
+T14	Incident 132 136	温度変化
+T13	Incident 144 149	熱疲労割れ

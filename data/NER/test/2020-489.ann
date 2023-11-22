@@ -1,0 +1,13 @@
+T1	Storage 0 4	生産設備
+T2	Chemical 5 8	冷却水
+T3	Storage 18 21	冷凍機
+T4	Storage 22 25	圧力計
+T5	Product 31 35	冷媒ガス
+T6	Incident 36 38	漏洩
+T7	Incident 40 42	事故
+T8	Storage 52 55	圧力計
+T10	Chemical 60 62	金属
+T9	Incident 60 66	金属疲労劣化
+T11	Incident 69 71	亀裂
+T12	Product 76 80	冷媒ガス
+T13	Incident 88 91	漏えい

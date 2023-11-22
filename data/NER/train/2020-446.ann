@@ -1,0 +1,14 @@
+T2	Chemical 13 15	尿素
+T1	Storage 13 22	尿素製造施設ポンプ
+T3	Product 25 33	アンモニア ガス
+T4	Incident 25 39	アンモニア ガス漏えい警報器
+T5	Incident 40 42	発報
+T6	Storage 56 67	ポンプ吐出中間フランジ
+T7	Product 70 74	混合ガス
+T8	Product 76 79	NH3
+T9	Product 86 89	CO2
+T10	Chemical 95 97	尿素
+T11	Chemical 104 107	H2O
+T12	Incident 114 117	漏えい
+T13	Storage 129 136	フランジボルト
+T14	Incident 145 148	漏えい

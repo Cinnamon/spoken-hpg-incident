@@ -1,0 +1,10 @@
+T1	Storage 0 6	接触改質装置
+T3	Chemical 9 11	触媒
+T10	Product 30 32	水素
+T2	Storage 7 28	連続触媒再生装置、 CCR 、還元水素配管
+T4	Product 24 26	水素
+T5	Incident 33 36	漏えい
+T6	Incident 40 45	不具合覚知
+T8	Chemical 49 51	触媒
+T7	Storage 47 55	連続触媒再生装置
+T9	Incident 70 73	漏えい

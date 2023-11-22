@@ -1,0 +1,7 @@
+T1	Storage 23 25	設備
+T2	Storage 26 33	ルームエアコン
+T3	Test 85 87	点検
+T5	Product 103 105	冷媒
+T4	Storage 97 107	熱交換器入側冷媒配管
+T6	Product 113 117	冷媒ガス
+T7	Incident 129 132	漏えい

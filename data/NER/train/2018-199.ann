@@ -1,0 +1,45 @@
+T1	Chemical 20 26	スルフォラン
+T2	Storage 20 42	スルフォラン 装置 リカバリー カラム 溶射
+T4	Product 54 56	ガス
+T3	Storage 54 61	ガス 溶射装置
+T44	Test 65 70	始業前点検
+T5	Test 75 81	着火 テスト
+T6	Product 90 95	アセチレン
+T7	Storage 90 99	アセチレン ホース
+T8	Incident 101 103	破断
+T9	Incident 105 107	火災
+T10	Incident 108 110	小火
+T11	Test 207 213	着火 テスト
+T12	Product 217 222	アセチレン
+T13	Incident 224 226	流量
+T45	Incident 239 241	低下
+T14	Storage 260 263	ホース
+T15	Incident 265 269	閉塞箇所
+T16	Incident 270 272	特定
+T17	Test 275 277	点検
+T18	Incident 288 290	逆火
+T19	Product 313 315	酸素
+T20	Product 317 322	アセチレン
+T21	Process 324 326	供給
+T22	Product 339 341	酸素
+T23	Product 343 348	アセチレン
+T24	Process 350 352	混合
+T25	Storage 358 361	バルブ
+T26	Incident 370 372	逆火
+T27	Incident 376 378	火災
+T28	Incident 379 381	小火
+T29	Storage 392 396	溶射ガン
+T30	Chemical 408 414	ブースト 材
+T31	Chemical 421 425	アルミナ
+T32	Incident 427 429	混入
+T33	Storage 431 433	ガン
+T34	Storage 437 440	ノズル
+T35	Incident 443 445	閉塞
+T43	Process 465 467	溶射
+T36	Storage 477 480	ノズル
+T37	Chemical 483 489	ブースト 材
+T38	Incident 490 492	混入
+T39	Incident 502 504	火災
+T40	Storage 509 511	機器
+T41	Test 534 540	着火 テスト
+T42	Incident 552 554	混入

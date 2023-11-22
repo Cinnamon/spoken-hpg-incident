@@ -1,0 +1,29 @@
+T1	Incident 0 2	事故
+T2	Test 25 29	現場巡回
+T3	Storage 46 51	ドレン配管
+T4	Incident 60 63	漏えい
+T6	Product 118 120	水素
+T5	Storage 118 130	水素化脱 アルキル 装置
+T7	Chemical 187 189	滞油
+T25	Process 187 191	滞油抜き
+T8	Process 192 194	脱圧
+T9	Incident 210 213	漏えい
+T10	Storage 221 223	配管
+T29	Incident 231 233	開口
+T26	Process 257 261	常時注入
+T12	Chemical 265 268	硫化剤
+T13	Chemical 270 281	ジメチル ジスルフィド
+T14	Chemical 290 293	硫化鉄
+T15	Storage 295 297	装置
+T17	Chemical 303 307	スチーム
+T16	Process 303 310	スチームパージ
+T18	Test 317 321	開放点検
+T27	Incident 322 324	混入
+T19	Chemical 326 328	水分
+T20	Product 329 331	酸素
+T21	Chemical 333 335	硫酸
+T22	Incident 343 347	腐食減肉
+T28	Incident 352 354	開口
+T11	Storage 364 366	配管
+T23	Test 389 394	健全性確認
+T24	Test 398 400	検査

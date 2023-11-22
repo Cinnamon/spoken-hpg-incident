@@ -1,0 +1,20 @@
+T2	Product 17 22	LP ガス
+T1	Storage 17 24	LP ガス容器
+T20	Incident 108 110	追突
+T3	Storage 127 129	容器
+T4	Storage 142 144	容器
+T5	Incident 152 154	散乱
+T6	Storage 166 168	容器
+T7	Storage 173 176	バルブ
+T8	Product 181 186	LP ガス
+T9	Incident 187 190	漏えい
+T10	Storage 208 211	バルブ
+T11	Incident 216 219	漏えい
+T12	Incident 252 255	漏えい
+T14	Product 266 268	ガス
+T13	Incident 266 269	ガス臭
+T15	Incident 284 289	漏えい事故
+T17	Incident 294 297	けが人
+T16	Incident 308 312	交通事故
+T18	Incident 315 318	けが人
+T19	Incident 327 329	事故

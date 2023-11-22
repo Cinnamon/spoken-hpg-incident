@@ -1,0 +1,93 @@
+T1	Test 22 28	通常巡回点検
+T2	Incident 34 36	異臭
+T3	Test 43 45	調査
+T4	Storage 56 75	エアー フィン クーラー 入口配管継手
+T5	Chemical 79 90	ポリエチレン ワックス
+T6	Incident 94 96	固化
+T7	Chemical 113 124	ポリエチレン ワックス
+T8	Incident 128 130	固化
+T9	Storage 132 134	配管
+T10	Incident 135 137	付着
+T11	Incident 145 147	臭気
+T13	Product 169 171	ガス
+T12	Test 164 174	ポータブルガス検知器
+T14	Storage 178 180	継手
+T15	Product 182 184	ガス
+T16	Test 187 189	測定
+T18	Product 253 255	ガス
+T17	Test 250 258	定置式ガス検知器
+T19	Product 260 265	可燃性ガス
+T20	Incident 266 268	検知
+T21	Test 288 292	現場確認
+T23	Product 304 306	ガス
+T22	Test 299 309	ポータブルガス検知器
+T24	Product 319 321	ガス
+T25	Incident 322 324	検知
+T26	Incident 330 333	漏えい
+T27	Product 351 353	ガス
+T28	Incident 354 356	滞留
+T29	Test 374 380	定置式検知器
+T30	Product 382 387	可燃性ガス
+T31	Incident 388 390	検知
+T32	Storage 399 407	グレイロック継手
+T33	Incident 415 418	漏えい
+T34	Incident 433 437	ガス爆発
+T35	Incident 438 442	ガス火災
+T36	Storage 458 460	装置
+T37	Test 479 481	監視
+T38	Storage 500 502	装置
+T39	Incident 559 562	不具合
+T41	Product 576 578	ガス
+T40	Incident 576 581	ガス漏えい
+T42	Incident 622 625	漏えい
+T43	Incident 693 696	漏えい
+T44	Storage 705 710	リアクター
+T45	Storage 738 743	リアクター
+T46	Storage 774 786	エアー フィン クーラー
+T47	Process 788 790	落圧
+T49	Product 810 812	ガス
+T48	Test 810 815	ガス検知器
+T50	Storage 818 820	機器
+T52	Product 823 825	ガス
+T51	Incident 823 827	ガス検出
+T53	Storage 846 851	緊急放出弁
+T54	Process 856 858	落圧
+T55	Process 865 867	落圧
+T57	Product 888 890	ガス
+T56	Incident 888 892	ガス検出
+T58	Storage 905 907	継手
+T59	Test 908 910	点検
+T92	Storage 929 931	機器
+T93	Storage 944 946	継手
+T60	Storage 966 975	一般 フランジ継手
+T61	Storage 976 984	グレイロック継手
+T62	Test 986 988	点検
+T63	Storage 1027 1036	一般 フランジ継手
+T64	Storage 1043 1051	グレイロック継手
+T66	Incident 1096 1102	締め付け不良
+T67	Test 1120 1124	気密試験
+T68	Incident 1126 1128	漏れ
+T70	Storage 1153 1157	クーラー
+T69	Incident 1160 1162	付着
+T72	Chemical 1165 1176	ポリエチレン ワックス
+T71	Process 1165 1180	ポリエチレン ワックス溶融操作
+T74	Incident 1232 1235	漏えい
+T73	Incident 1255 1258	漏えい
+T75	Process 1261 1264	縁切り
+T77	Product 1265 1267	窒素
+T76	Process 1265 1270	窒素パージ
+T79	Storage 1271 1275	フランジ
+T78	Test 1271 1279	フランジ開放点検
+T80	Incident 1280 1282	事故
+T81	Incident 1298 1302	異常現象
+T84	Product 1308 1312	高圧ガス
+T83	Storage 1308 1314	高圧ガス設備
+T82	Incident 1308 1316	高圧ガス設備事故
+T85	Storage 1333 1341	グレイロック継手
+T86	Storage 1388 1396	グレイロック継手
+T87	Test 1410 1412	計測
+T88	Storage 1466 1474	グレイロック継手
+T90	Product 1522 1524	ガス
+T89	Incident 1522 1527	ガス漏えい
+T91	Test 1533 1535	点検
+T65	Storage 1089 1095	フランジ継手

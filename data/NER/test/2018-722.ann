@@ -1,0 +1,6 @@
+T2	Product 13 17	液化塩素
+T1	Storage 13 21	液化塩素製造施設
+T3	Test 22 26	日常点検
+T4	Storage 29 44	タンク下部抜出弁一次側フランジ
+T5	Product 48 50	塩素
+T6	Incident 51 54	漏えい

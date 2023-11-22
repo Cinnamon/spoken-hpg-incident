@@ -1,0 +1,12 @@
+T1	Storage 0 1	塔
+T2	Storage 12 22	オーバーヘッドドラム
+T3	Storage 23 32	リフラックスポンプ
+T4	Storage 35 38	ポンプ
+T6	Chemical 39 48	フラッシングオイル
+T5	Storage 39 51	フラッシングオイルライン
+T7	Incident 55 57	陽炎
+T8	Storage 68 71	ポンプ
+T9	Process 77 80	縁切り
+T10	Incident 87 91	内面腐食
+T11	Incident 94 98	応力集中
+T12	Incident 101 103	割れ

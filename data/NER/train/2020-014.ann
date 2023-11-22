@@ -1,0 +1,18 @@
+T1	Test 14 19	パトロール
+T3	Product 22 25	フロン
+T2	Test 22 31	フロン チェッカー
+T4	Test 32 34	測定
+T5	Incident 37 40	漏えい
+T6	Incident 41 43	覚知
+T7	Incident 59 62	漏えい
+T8	Test 59 68	漏えい個所特定確認
+T10	Product 122 125	フロン
+T9	Incident 122 129	フロン 漏えい
+T11	Storage 143 152	圧縮機、吸入側配管
+T13	Incident 153 155	割れ
+T12	Storage 165 174	圧縮機、吸入側配管
+T14	Incident 175 177	割れ
+T15	Incident 184 187	漏えい
+T16	Storage 190 193	シール
+T17	Storage 196 200	シリコン
+T18	Storage 206 218	吸入、吐出、膨張弁バルブ

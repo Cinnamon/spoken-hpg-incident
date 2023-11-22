@@ -1,0 +1,11 @@
+T1	Storage 0 8	流動接触分解装置
+T3	Product 16 19	エタン
+T2	Storage 15 20	脱エタン塔
+T4	Storage 22 25	差圧計
+T5	Incident 34 40	内面局部腐食
+T6	Incident 44 49	ピンホール
+T7	Product 53 57	副生ガス
+T8	Product 58 60	水素
+T9	Product 61 63	C2
+T10	Incident 67 70	漏えい
+T11	Test 77 79	調査

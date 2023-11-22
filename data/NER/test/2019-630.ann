@@ -1,0 +1,15 @@
+T1	Storage 26 32	水添脱硫装置
+T2	Test 56 60	性状確認
+T3	Incident 70 75	パトロール
+T4	Incident 79 81	異常
+T5	Storage 94 100	水添脱硫装置
+T6	Test 102 107	パトロール
+T8	Chemical 110 111	油
+T7	Incident 110 114	油漏えい
+T9	Incident 115 117	覚知
+T10	Storage 119 127	熱交換器 シェル
+T11	Storage 133 136	保温材
+T15	Incident 133 139	保温材切れ目
+T12	Chemical 141 143	灯油
+T13	Incident 144 147	漏えい
+T14	Test 148 150	調査

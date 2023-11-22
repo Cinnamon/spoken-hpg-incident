@@ -1,0 +1,26 @@
+T2	Chemical 10 13	ナフサ
+T3	Chemical 25 28	ナフサ
+T1	Storage 10 31	ナフサ 分解炉、 F-111 ナフサ 配管
+T4	Incident 32 44	輻射部入口温度 アラーム
+T5	Incident 46 48	発報
+T6	Storage 70 77	輻射部入口温度
+T7	Incident 80 82	火災
+T8	Storage 93 96	分解炉
+T10	Chemical 98 101	ナフサ
+T9	Process 98 108	ナフサ 供給停止操作
+T11	Chemical 113 116	ナフサ
+T12	Incident 118 121	漏えい
+T13	Incident 126 128	火災
+T14	Storage 154 162	ジャッキ ボルト
+T15	Storage 172 178	温度計保護管
+T16	Storage 187 195	テーパー シール
+T17	Storage 204 212	温度計 グランド
+T18	Storage 241 250	グランド パッキン
+T19	Incident 260 262	漏れ
+T20	Storage 277 281	グランド
+T23	Incident 285 290	シール 性
+T21	Incident 291 293	低下
+T22	Incident 295 297	漏れ
+T24	Storage 302 303	炉
+T25	Incident 318 320	発火
+T26	Incident 322 324	火災

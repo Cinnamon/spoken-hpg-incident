@@ -1,0 +1,12 @@
+T1	Test 19 24	パトロール
+T2	Storage 26 29	冷凍機
+T3	Product 30 32	冷媒
+T12	Incident 30 35	冷媒レベル
+T4	Incident 36 38	低下
+T5	Test 54 56	調査
+T7	Product 61 63	ガス
+T6	Test 61 66	ガス検知器
+T8	Test 67 69	調査
+T9	Product 75 79	冷媒ガス
+T10	Incident 80 82	漏洩
+T11	Test 95 97	調査

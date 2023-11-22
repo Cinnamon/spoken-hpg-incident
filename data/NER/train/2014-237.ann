@@ -1,0 +1,77 @@
+T2	Product 0 4	エチレン
+T1	Storage 0 9	エチレン 製造施設
+T4	Product 18 22	分解ガス
+T3	Storage 18 32	分解ガス圧縮機駆動用タービン
+T5	Incident 33 37	異常振動
+T7	Product 47 51	エチレン
+T6	Storage 47 56	エチレン 製造施設
+T9	Product 64 68	エチレン
+T8	Storage 64 73	エチレン 製造施設
+T11	Product 90 95	プロピレン
+T10	Storage 90 100	プロピレン 製造施設
+T15	Storage 103 106	NFP
+T13	Product 121 126	プロピレン
+T12	Storage 121 131	プロピレン 製造施設
+T14	Storage 151 157	NFP 施設
+T16	Storage 161 165	冷凍設備
+T17	Storage 168 181	スクリュー型 2段 冷凍機
+T18	Storage 182 185	圧縮機
+T20	Product 240 242	ガス
+T19	Test 240 245	ガス検知器
+T21	Incident 246 248	警報
+T22	Incident 249 251	作動
+T23	Product 253 258	プロピレン
+T25	Storage 267 270	冷凍機
+T24	Chemical 267 271	冷凍機油
+T26	Incident 278 281	漏えい
+T28	Storage 285 288	冷凍機
+T27	Chemical 285 289	冷凍機油
+T29	Chemical 290 294	溶存酸素
+T30	Incident 297 299	変質
+T31	Chemical 301 305	酸性物質
+T33	Storage 312 315	冷凍機
+T32	Chemical 312 316	冷凍機油
+T34	Chemical 323 324	銅
+T35	Storage 323 329	銅製熱交換器
+T36	Chemical 333 337	酸性物質
+T37	Chemical 340 341	銅
+T38	Incident 342 344	溶出
+T39	Storage 346 354	メカニカルシール
+T40	Incident 356 358	析出
+T42	Chemical 361 362	銅
+T41	Incident 361 367	銅メッキ現象
+T43	Storage 387 388	機
+T44	Storage 428 431	固定環
+T45	Incident 448 451	面開き
+T46	Product 473 475	酸素
+T48	Storage 478 481	冷凍機
+T47	Chemical 478 482	冷凍機油
+T49	Incident 483 485	劣化
+T51	Storage 493 496	冷凍機
+T50	Chemical 493 497	冷凍機油
+T53	Product 504 506	窒素
+T52	Process 504 511	窒素バブリング
+T55	Product 514 516	酸素
+T54	Process 514 518	酸素脱気
+T56	Storage 527 529	機器
+T57	Product 534 536	酸素
+T59	Storage 548 551	冷凍機
+T58	Chemical 548 552	冷凍機油
+T60	Storage 575 583	メカニカルシール
+T61	Incident 587 589	発熱
+T63	Chemical 592 593	銅
+T62	Incident 592 595	銅析出
+T64	Storage 605 613	メカニカルシール
+T65	Storage 629 632	固定環
+T67	Chemical 666 667	銅
+T66	Incident 666 672	銅メッキ現象
+T68	Storage 680 688	メカニカルシール
+T69	Test 689 691	調査
+T71	Chemical 698 699	銅
+T70	Incident 698 704	銅メッキ現象
+T72	Chemical 711 714	潤滑油
+T73	Test 716 718	分析
+T74	Chemical 721 722	銅
+T76	Chemical 773 774	銅
+T75	Incident 773 779	銅メッキ現象
+T77	Incident 782 786	トラブル

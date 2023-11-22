@@ -1,0 +1,19 @@
+T1	Test 3 7	定期点検
+T3	Chemical 18 28	フラッシング オイル
+T2	Storage 18 31	フラッシング オイル 配管
+T4	Incident 34 37	漏えい
+T5	Storage 64 70	吸入、吐出弁
+T6	Incident 74 77	漏えい
+T7	Incident 86 88	振動
+T9	Process 103 107	サイクル
+T8	Incident 101 110	高 サイクル 疲労
+T10	Incident 113 115	割れ
+T12	Storage 117 126	ロック ワッシャー
+T11	Incident 117 137	ロック ワッシャー 、廻り止め、施工不良
+T13	Storage 139 142	ポンプ
+T14	Incident 151 159	廻り止め緩み発生
+T15	Incident 160 167	回転体振れ廻り
+T19	Incident 168 172	内部接触
+T16	Incident 175 179	振動発生
+T18	Incident 180 184	応力集中
+T17	Incident 194 200	疲労割れ発生

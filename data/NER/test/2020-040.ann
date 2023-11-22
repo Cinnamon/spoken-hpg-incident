@@ -1,0 +1,10 @@
+T1	Storage 0 3	チラー
+T2	Incident 4 12	異常発生アラーム
+T3	Incident 13 15	作動
+T4	Test 19 21	点検
+T6	Product 26 28	冷媒
+T5	Incident 26 30	冷媒不足
+T7	Test 41 43	調査
+T8	Storage 53 56	圧縮機
+T9	Storage 65 69	吐出配管
+T10	Incident 77 80	漏えい

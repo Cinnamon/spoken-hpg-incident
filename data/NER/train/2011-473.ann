@@ -1,0 +1,11 @@
+T1	Storage 7 10	ポンプ
+T2	Test 7 12	ポンプ点検
+T3	Storage 16 19	ポンプ
+T4	Storage 20 28	メカニカルシール
+T5	Incident 30 33	漏えい
+T6	Storage 41 44	ポンプ
+T8	Process 45 49	ブロック
+T7	Process 51 54	縁切り
+T9	Incident 56 59	漏えい
+T10	Storage 70 78	メカニカルシール
+T11	Incident 70 82	メカニカルシール管理不良

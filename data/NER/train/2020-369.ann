@@ -1,0 +1,19 @@
+T1	Test 4 9	パトロール
+T2	Chemical 12 15	クメン
+T9	Storage 12 22	クメン 反応系エリア
+T3	Incident 30 32	臭気
+T4	Product 49 52	廃ガス
+T19	Chemical 55 58	ドレン
+T5	Storage 49 61	廃ガスクーラドレンノズル
+T6	Storage 62 66	フランジ
+T7	Product 69 71	ガス
+T8	Incident 72 75	漏えい
+T10	Incident 92 95	漏えい
+T11	Process 98 100	脱圧
+T12	Product 106 108	窒素
+T13	Process 106 110	窒素置換
+T14	Incident 114 117	漏えい
+T15	Storage 119 123	フランジ
+T16	Storage 124 129	ガスケット
+T17	Test 136 140	気密試験
+T18	Incident 153 156	漏えい

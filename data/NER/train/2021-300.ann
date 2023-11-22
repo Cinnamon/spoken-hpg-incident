@@ -1,0 +1,12 @@
+T1	Storage 12 15	冷凍機
+T2	Incident 16 20	圧力負荷
+T3	Test 52 54	点検
+T4	Test 35 37	点検
+T5	Product 67 73	フロン ガス
+T6	Process 75 77	充填
+T7	Product 91 97	フロン ガス
+T8	Incident 99 101	漏洩
+T9	Test 131 135	保安検査
+T10	Test 136 138	受検
+T11	Incident 163 165	事故
+T12	Incident 166 168	発覚

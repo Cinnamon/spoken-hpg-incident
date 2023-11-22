@@ -1,0 +1,23 @@
+T1	Test 4 9	パトロール
+T3	Product 14 19	アセチレン
+T2	Storage 14 23	アセチレン 除去塔
+T5	Product 26 28	ガス
+T4	Incident 26 31	ガス漏れ音
+T6	Test 37 39	調査
+T8	Product 43 48	アセチレン
+T7	Storage 43 57	アセチレン 除去塔出口ライン
+T10	Product 58 60	ガス
+T9	Storage 58 69	ガス分析計行導管逆止弁
+T11	Incident 77 79	漏れ
+T13	Product 92 94	ガス
+T12	Test 89 97	定置式ガス検知器
+T14	Storage 123 125	配管
+T15	Process 126 128	孤立
+T16	Process 129 131	脱圧
+T17	Incident 138 140	臭気
+T18	Incident 147 149	漏れ
+T19	Test 156 167	県工業保安課立入り調査
+T20	Storage 187 190	逆止弁
+T21	Storage 195 203	内部 O リング
+T22	Incident 204 211	劣化弾性力減少
+T23	Incident 214 219	シール不良

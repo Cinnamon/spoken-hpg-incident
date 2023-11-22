@@ -1,0 +1,15 @@
+T1	Product 11 17	三フッ化窒素
+T2	Storage 18 27	チューブトレーラー
+T3	Process 28 31	充てん
+T4	Product 33 35	ガス
+T5	Test 33 38	ガス検知器
+T6	Incident 39 41	発報
+T7	Storage 46 48	容器
+T9	Product 53 55	ガス
+T8	Test 51 58	携帯ガス検知器
+T10	Storage 67 73	容器集合配管
+T11	Incident 75 78	漏えい
+T12	Storage 92 95	容器弁
+T13	Storage 100 104	集合配管
+T14	Process 105 107	脱圧
+T15	Test 142 144	調査

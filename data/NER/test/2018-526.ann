@@ -1,0 +1,40 @@
+T1	Product 8 13	LP ガス
+T5	Storage 20 30	ローディング アーム
+T2	Storage 37 43	出荷用バルブ
+T6	Storage 53 63	ローディング アーム
+T7	Storage 66 70	スイベル
+T3	Product 75 80	LP ガス
+T4	Incident 82 85	漏えい
+T13	Test 90 94	分解整備
+T8	Storage 100 110	スイベル ジョイント
+T9	Storage 115 119	パッキン
+T10	Incident 120 122	劣化
+T11	Incident 126 131	シール 性
+T12	Incident 132 134	低下
+T14	Storage 142 152	スイベル ジョイント
+T15	Test 154 158	分解整備
+T18	Storage 163 169	本体パッキン
+T19	Incident 174 175	傷
+T20	Incident 176 179	へこみ
+T21	Incident 181 184	不具合
+T16	Storage 188 198	本体 ボール レース
+T22	Incident 200 201	傷
+T23	Incident 202 205	へこみ
+T24	Incident 207 210	不具合
+T17	Storage 214 218	パッキン
+T25	Incident 232 234	圧縮
+T26	Incident 235 237	硬化
+T27	Chemical 245 248	グリス
+T30	Incident 250 252	固化
+T31	Incident 253 255	粉化
+T28	Incident 257 259	劣化
+T29	Incident 264 267	不具合
+T32	Storage 271 284	海上 ローディング アーム
+T33	Storage 297 307	ローディング アーム
+T34	Test 349 351	調査
+T35	Chemical 375 378	グリス
+T36	Incident 380 384	循環不足
+T37	Storage 385 389	パッキン
+T38	Incident 394 396	圧縮
+T39	Incident 397 399	硬化
+T40	Incident 425 428	漏えい

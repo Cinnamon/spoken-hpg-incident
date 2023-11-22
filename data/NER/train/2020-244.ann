@@ -1,0 +1,13 @@
+T1	Test 4 8	定期点検
+T2	Storage 10 17	反応槽出口配管
+T3	Storage 27 30	方 弁
+T4	Storage 33 35	配管
+T5	Incident 36 39	霜付き
+T6	Chemical 51 57	アルキレート
+T7	Chemical 59 65	高オクタン価
+T8	Chemical 66 72	ガソリン基材
+T9	Product 74 77	ブタン
+T10	Incident 83 86	漏えい
+T11	Storage 100 111	アルキレーション 装置
+T12	Process 123 126	縁切り
+T13	Process 129 131	降圧

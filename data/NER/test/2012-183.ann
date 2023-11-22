@@ -1,0 +1,12 @@
+T1	Test 10 14	自主検査
+T2	Storage 18 25	配管安全弁元弁
+T3	Storage 42 45	安全弁
+T4	Storage 47 49	配管
+T5	Incident 52 55	漏えい
+T6	Storage 86 91	高圧水添系
+T7	Storage 105 113	安全弁一次側配管
+T8	Product 115 121	プロセスガス
+T9	Incident 122 124	凝縮
+T10	Incident 125 128	腐食性
+T11	Chemical 131 134	ドレン
+T12	Incident 135 137	滞留

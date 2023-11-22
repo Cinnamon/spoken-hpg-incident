@@ -1,0 +1,10 @@
+T10	Chemical 38 41	オイル
+T1	Storage 18 27	冷凍機オイルライン
+T2	Storage 28 30	配管
+T3	Chemical 57 60	オイル
+T4	Incident 42 45	漏えい
+T6	Chemical 21 24	オイル
+T5	Incident 57 63	オイル漏えい
+T7	Product 67 71	冷媒ガス
+T8	Product 72 75	フロン
+T9	Incident 81 84	漏えい

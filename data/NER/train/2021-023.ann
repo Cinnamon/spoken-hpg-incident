@@ -1,0 +1,11 @@
+T1	Storage 15 18	圧縮機
+T2	Incident 19 21	警報
+T3	Incident 22 24	鳴動
+T4	Test 61 65	原因調査
+T5	Storage 73 75	配管
+T6	Incident 76 78	亀裂
+T7	Storage 88 90	機器
+T8	Product 92 94	ガス
+T9	Storage 115 121	届出不要設備
+T10	Incident 170 172	事故
+T11	Test 191 197	聞き取り調査

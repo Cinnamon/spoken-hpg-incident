@@ -1,0 +1,10 @@
+T1	Chemical 33 35	蒸気
+T2	Storage 62 65	蒸発器
+T3	Storage 68 71	点検口
+T4	Storage 80 82	配管
+T5	Incident 85 88	漏えい
+T7	Product 104 106	ガス
+T6	Test 101 109	携帯式ガス検知器
+T8	Test 114 116	確認
+T9	Incident 123 125	警報
+T10	Incident 126 128	発報

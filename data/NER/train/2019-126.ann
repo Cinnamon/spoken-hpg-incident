@@ -1,0 +1,33 @@
+T1	Storage 0 23	スタビーライザーレシーバーポンプ吐出配管ノズル
+T2	Product 29 34	LP ガス
+T3	Incident 35 40	微量漏えい
+T4	Incident 44 49	不具合覚知
+T5	Storage 51 54	予備機
+T6	Storage 61 63	機器
+T7	Storage 70 73	バルブ
+T8	Process 79 81	脱圧
+T9	Incident 85 88	漏えい
+T10	Incident 100 106	溶接施工不良
+T11	Incident 108 112	硬度上昇
+T13	Product 115 118	硫化物
+T12	Incident 115 122	硫化物応力割れ
+T14	Incident 129 131	割れ
+T15	Storage 148 149	管
+T16	Storage 142 143	管
+T17	Product 169 173	硫化水素
+T18	Product 177 182	LP ガス
+T19	Test 194 198	硬度測定
+T21	Product 212 215	硫化物
+T20	Incident 212 219	硫化物応力割れ
+T22	Product 280 285	LP ガス
+T23	Process 286 288	洗浄
+T24	Product 293 297	硫化水素
+T26	Product 336 339	硫化物
+T25	Incident 336 343	硫化物応力割れ
+T27	Incident 353 357	貫通割れ
+T28	Incident 372 378	溶け込み不良
+T30	Product 432 435	硫化物
+T29	Incident 432 439	硫化物応力割れ
+T31	Storage 425 427	配管
+T33	Product 384 387	硫化物
+T32	Incident 384 391	硫化物応力割れ

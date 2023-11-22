@@ -1,0 +1,11 @@
+T1	Process 0 2	昇温
+T2	Process 3 5	昇圧
+T3	Storage 7 12	高圧塞止弁
+T4	Incident 16 18	異音
+T5	Incident 25 29	異音発生
+T6	Product 35 37	酸素
+T7	Test 35 40	酸素濃度計
+T8	Product 52 54	酸素
+T9	Product 70 72	窒素
+T10	Incident 70 75	窒素漏えい
+T11	Test 79 81	調査

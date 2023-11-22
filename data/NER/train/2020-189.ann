@@ -1,0 +1,12 @@
+T1	Test 7 13	メーカー点検
+T2	Storage 16 19	冷凍機
+T3	Incident 30 33	圧力低
+T4	Incident 34 38	異常警報
+T5	Incident 39 41	発報
+T6	Test 48 50	調査
+T7	Incident 58 61	リーク
+T8	Test 58 64	リークテスト
+T9	Storage 68 71	蒸発器
+T10	Product 74 76	冷媒
+T11	Incident 87 90	漏えい
+T12	Incident 77 80	漏えい

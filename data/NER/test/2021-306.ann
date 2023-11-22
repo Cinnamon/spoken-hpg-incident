@@ -1,0 +1,19 @@
+T2	Chemical 13 19	ポリエチレン
+T1	Storage 7 24	低圧気相法 ポリエチレン 製造施設
+T4	Product 36 42	トリートガス
+T3	Storage 36 47	トリートガス受入れ配管
+T5	Storage 57 59	配管
+T6	Process 61 65	置換作業
+T8	Product 110 116	トリートガス
+T7	Storage 110 120	トリートガス受入配管
+T10	Product 127 129	ガス
+T9	Incident 127 132	ガス漏れ音
+T11	Process 147 151	置換作業
+T12	Process 158 160	落圧
+T14	Product 161 163	窒素
+T13	Process 161 166	窒素パージ
+T15	Incident 172 174	漏れ
+T16	Storage 184 186	配管
+T17	Incident 187 191	外面腐食
+T18	Incident 194 197	穴あき
+T19	Test 207 211	原因調査

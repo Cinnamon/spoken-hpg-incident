@@ -1,0 +1,15 @@
+T1	Storage 11 16	チラー設備
+T2	Test 11 20	チラー設備年次点検
+T4	Chemical 23 24	水
+T3	Storage 23 27	水冷却器
+T5	Chemical 29 31	冷水
+T6	Product 34 36	冷媒
+T7	Product 38 46	フルオロカーボン
+T8	Incident 54 56	検知
+T9	Test 60 62	調査
+T10	Storage 66 70	接続配管
+T11	Incident 73 75	漏れ
+T13	Chemical 87 88	水
+T12	Storage 87 91	水冷却器
+T14	Product 95 97	冷媒
+T15	Incident 98 101	漏えい

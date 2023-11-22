@@ -1,0 +1,10 @@
+T1	Storage 8 11	反応器
+T2	Incident 13 15	圧力
+T3	Incident 16 19	急上昇
+T4	Incident 26 30	圧力上昇
+T5	Incident 34 40	緊急安全装置
+T6	Incident 43 46	破裂板
+T7	Incident 47 49	作動
+T8	Product 65 69	系内ガス
+T9	Process 65 73	系内ガス緊急放出
+T10	Storage 83 87	プラント

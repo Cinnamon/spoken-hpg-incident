@@ -1,0 +1,11 @@
+T1	Storage 8 10	貯槽
+T2	Storage 11 14	液面計
+T3	Test 15 17	点検
+T4	Storage 35 37	貯槽
+T5	Product 40 45	アンモニア
+T6	Process 47 49	貯蔵
+T7	Storage 64 69	液面計元弁
+T8	Storage 75 83	フランジのボルト
+T9	Product 94 99	アンモニア
+T10	Incident 101 104	漏えい
+T11	Incident 114 116	被災

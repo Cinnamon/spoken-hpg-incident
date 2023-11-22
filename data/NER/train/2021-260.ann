@@ -1,0 +1,21 @@
+T1	Product 0 4	水素ガス
+T2	Product 6 15	粗 アルゴン ガス
+T3	Process 16 18	精製
+T7	Product 41 43	水素
+T4	Storage 34 39	水素ローリ
+T8	Product 34 36	水素
+T5	Storage 41 47	水素ホルダー
+T6	Process 48 50	受入
+T9	Incident 58 60	事故
+T11	Product 63 65	空気
+T10	Storage 63 73	空気液化分離プラント
+T13	Product 92 94	水素
+T12	Process 92 98	水素受入作業
+T15	Product 108 112	水素ガス
+T14	Incident 108 115	水素ガス警報器
+T16	Incident 116 118	発報
+T17	Test 127 130	発泡液
+T18	Incident 132 134	漏れ
+T19	Incident 140 144	微量漏れ
+T21	Product 154 156	水素
+T20	Storage 154 164	水素ローリ車払出元弁

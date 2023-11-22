@@ -1,0 +1,13 @@
+T1	Storage 0 4	化学工場
+T3	Product 9 16	アンモニアガス
+T2	Storage 9 20	アンモニアガス消費配管
+T4	Storage 55 57	配管
+T5	Incident 58 60	損傷
+T8	Incident 66 67	穴
+T6	Product 74 76	ガス
+T7	Incident 77 79	噴出
+T9	Product 87 89	ガス
+T10	Incident 90 92	吸引
+T11	Incident 96 98	軽傷
+T12	Storage 109 111	配管
+T13	Incident 112 114	腐食

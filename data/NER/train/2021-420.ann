@@ -1,0 +1,9 @@
+T1	Storage 8 11	遮断弁
+T2	Incident 16 18	圧力
+T3	Incident 19 21	上昇
+T5	Product 35 41	液化石油ガス
+T4	Storage 35 44	液化石油ガス脱湿器
+T6	Storage 45 48	安全弁
+T7	Incident 49 51	作動
+T8	Product 53 56	LPG
+T9	Incident 58 60	放出

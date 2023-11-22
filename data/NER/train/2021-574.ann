@@ -1,0 +1,10 @@
+T1	Storage 2 4	装置
+T2	Storage 6 8	設備
+T3	Storage 30 42	高圧系ホットセパレーター
+T4	Chemical 43 45	軽油
+T5	Chemical 47 50	LGO
+T6	Storage 81 93	高圧系ホットセパレーター
+T7	Storage 94 103	マンホールフランジ
+T8	Incident 107 109	漏洩
+T9	Incident 110 112	覚知
+T10	Storage 121 127	水添脱硫装置

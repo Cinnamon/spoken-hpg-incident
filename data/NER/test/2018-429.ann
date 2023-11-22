@@ -1,0 +1,35 @@
+T5	Storage 17 20	ラック
+T1	Storage 24 26	配管
+T2	Product 28 34	塩化 メチル
+T3	Product 36 38	ガス
+T4	Incident 43 46	漏えい
+T6	Test 73 77	現場確認
+T7	Storage 78 80	配管
+T9	Process 81 89	縁切り等応急処置
+T10	Storage 104 106	配管
+T11	Process 111 114	縁切り
+T12	Process 107 110	縁切り
+T13	Process 117 119	降圧
+T14	Process 131 133	降圧
+T15	Incident 136 139	漏えい
+T16	Incident 143 146	漏えい
+T17	Test 149 151	点検
+T18	Incident 155 159	外面腐食
+T19	Incident 162 164	開口
+T20	Storage 166 168	配管
+T21	Incident 169 173	外面腐食
+T22	Incident 176 178	開孔
+T23	Incident 180 184	外面腐食
+T24	Chemical 190 196	ブチル ゴム
+T35	Incident 197 201	生産方式
+T25	Chemical 205 208	希釈剤
+T34	Incident 205 210	希釈剤変更
+T26	Storage 217 219	配管
+T8	Product 225 229	塩化水素
+T27	Storage 225 232	塩化水素除去塔
+T28	Storage 234 239	スクラバー
+T29	Incident 256 261	管理目標値
+T30	Storage 274 282	スクラバー 煙突
+T31	Incident 285 287	飛散
+T32	Chemical 289 293	酸性飛沫
+T33	Storage 294 296	配管

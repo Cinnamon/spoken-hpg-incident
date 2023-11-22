@@ -1,0 +1,19 @@
+T1	Storage 3 9	接触改質装置
+T2	Product 17 24	リサイクルガス
+T3	Storage 17 30	リサイクルガスコンプレッサ
+T4	Storage 31 41	ストレーナ下流側配管
+T5	Product 47 54	リサイクルガス
+T6	Product 55 57	水素
+T7	Chemical 65 71	軽質炭化水素
+T8	Incident 73 76	漏えい
+T9	Incident 84 88	異材溶接
+T10	Chemical 89 92	アルミ
+T11	Chemical 89 99	アルミ表面被覆炭素鋼
+T12	Storage 89 101	アルミ表面被覆炭素鋼配管
+T13	Chemical 103 120	オーステナイト 系 ステンレス 鋼
+T14	Storage 133 135	配管
+T15	Incident 143 147	形状不良
+T16	Incident 151 155	応力集中
+T17	Incident 170 174	遅れ割れ
+T18	Incident 195 197	割れ
+T19	Incident 202 204	開孔

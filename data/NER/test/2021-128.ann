@@ -1,0 +1,8 @@
+T1	Storage 25 28	空調機
+T2	Test 29 31	点検
+T3	Storage 33 40	室内機熱交換器
+T5	Product 41 43	ガス
+T4	Incident 41 45	ガス漏れ
+T6	Test 73 77	原因調査
+T7	Storage 100 107	室内機熱交換器
+T8	Test 112 116	原因調査

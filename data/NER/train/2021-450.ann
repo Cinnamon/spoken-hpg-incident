@@ -1,0 +1,8 @@
+T1	Test 0 4	定期巡回
+T3	Chemical 26 28	硫酸
+T2	Storage 7 14	硫酸洗浄ドラム
+T4	Storage 15 21	レベル計配管
+T5	Chemical 7 9	硫酸
+T8	Chemical 29 30	液
+T6	Incident 29 32	液だれ
+T7	Incident 33 35	覚知

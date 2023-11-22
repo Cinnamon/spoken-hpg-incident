@@ -1,0 +1,27 @@
+T1	Test 4 9	パトロール
+T3	Product 17 20	ブテン
+T4	Chemical 20 22	水分
+T2	Storage 17 25	ブテン水分除去塔
+T5	Product 30 33	ブテン
+T6	Incident 34 36	臭気
+T7	Incident 37 39	覚知
+T8	Storage 43 45	保温
+T9	Storage 68 70	保温
+T10	Product 74 76	ガス
+T11	Incident 74 77	ガス臭
+T13	Product 89 91	ガス
+T12	Test 86 94	定置式ガス検知器
+T14	Storage 115 117	容器
+T15	Process 118 120	孤立
+T16	Process 121 123	脱圧
+T17	Incident 128 130	臭気
+T18	Process 138 140	孤立
+T20	Product 143 145	窒素
+T19	Process 143 148	窒素パージ
+T21	Test 154 165	県工業保安課立入り調査
+T22	Storage 167 169	保温
+T23	Storage 185 187	保温
+T24	Incident 191 194	漏えい
+T25	Test 201 206	石鹸水塗布
+T26	Storage 210 221	塔頂配管 第一 エルボ
+T27	Incident 225 227	漏れ

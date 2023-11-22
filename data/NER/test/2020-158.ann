@@ -1,0 +1,7 @@
+T1	Test 0 6	定期自主検査
+T2	Test 9 13	気密試験
+T3	Storage 24 27	蒸発管
+T4	Chemical 28 31	銀ろう
+T5	Incident 37 40	カニ泡
+T6	Incident 43 46	漏えい
+T7	Incident 47 49	覚知

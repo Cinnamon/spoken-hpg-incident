@@ -1,0 +1,24 @@
+T2	Product 12 16	高圧ガス
+T1	Storage 12 20	高圧ガス製造施設
+T4	Chemical 22 28	ブチル ゴム
+T3	Storage 22 32	ブチル ゴム製造施設
+T6	Product 35 39	高圧ガス
+T5	Storage 35 43	高圧ガス保冷配管
+T7	Incident 48 50	氷結
+T8	Chemical 51 53	液滴
+T9	Storage 63 65	配管
+T10	Process 66 69	パージ
+T11	Process 70 74	降圧操作
+T12	Storage 79 81	保冷
+T14	Incident 85 87	漏れ
+T13	Test 85 89	漏れ検査
+T15	Incident 94 96	開口
+T16	Storage 105 107	配管
+T17	Test 112 116	外部検査
+T18	Incident 123 126	漏えい
+T19	Incident 131 135	外面腐食
+T20	Storage 162 164	保冷
+T21	Storage 157 159	保冷
+T22	Incident 196 198	不良
+T23	Process 209 214	熱サイクル
+T24	Incident 216 220	外部腐食

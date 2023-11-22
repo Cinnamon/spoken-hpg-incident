@@ -1,0 +1,13 @@
+T1	Test 7 11	日常点検
+T2	Storage 20 27	コンプレッサー
+T3	Storage 36 42	コンプレッサ
+T4	Incident 47 52	圧力 ゼロ
+T5	Test 65 67	点検
+T6	Incident 69 71	異常
+T7	Test 90 94	設備点検
+T8	Storage 96 99	圧縮機
+T9	Storage 100 104	圧力計間
+T10	Storage 106 115	キャピラリー 配管
+T11	Incident 116 118	断裂
+T12	Product 123 127	R-22
+T13	Incident 138 140	漏洩

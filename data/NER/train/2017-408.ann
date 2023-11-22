@@ -1,0 +1,30 @@
+T1	Storage 22 24	配管
+T26	Incident 28 30	粒状
+T2	Incident 31 33	結晶
+T3	Incident 42 44	陽炎
+T4	Product 107 110	LPG
+T5	Storage 107 118	LPG 貯蔵入出荷設備
+T6	Storage 120 125	オフサイト
+T8	Product 137 139	ガス
+T7	Storage 127 142	フレア行きパイロットガスライン
+T9	Product 147 150	LPG
+T10	Incident 147 153	LPG 漏れ
+T11	Storage 160 164	バイパス
+T12	Incident 169 172	漏えい
+T13	Process 175 180	縁切り作業
+T14	Process 181 185	脱圧作業
+T15	Product 190 192	ガス
+T16	Test 190 195	ガス検知器
+T17	Incident 203 206	漏えい
+T18	Product 209 211	ガス
+T19	Incident 212 214	検知
+T20	Incident 225 228	漏えい
+T28	Incident 254 258	融合不良
+T27	Storage 259 261	配管
+T29	Incident 270 272	開口
+T21	Incident 284 288	内面腐食
+T22	Incident 297 301	融合不良
+T23	Incident 302 304	腐食
+T24	Storage 338 340	配管
+T30	Storage 319 321	配管
+T25	Incident 344 348	施工不良

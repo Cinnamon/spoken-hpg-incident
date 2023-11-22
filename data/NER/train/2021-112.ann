@@ -1,0 +1,11 @@
+T1	Storage 0 2	工場
+T2	Product 10 15	LP ガス
+T3	Storage 23 30	フォークリフト
+T4	Storage 43 47	コンテナ
+T5	Storage 62 69	フォークリフト
+T7	Product 107 112	LP ガス
+T6	Storage 107 115	LP ガス 容器
+T8	Storage 117 120	ホース
+T9	Incident 124 126	損傷
+T10	Incident 134 135	火
+T11	Incident 158 160	火災

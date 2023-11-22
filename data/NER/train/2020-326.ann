@@ -1,0 +1,12 @@
+T2	Storage 8 12	プラント
+T1	Test 8 16	プラント定期巡回
+T3	Incident 18 20	異常
+T4	Storage 36 38	装置
+T5	Test 48 55	現場パトロール
+T7	Product 61 64	LPG
+T6	Storage 61 83	LPG アディップスクラバートップ出口ライン
+T8	Storage 84 91	安全弁行き配管
+T10	Product 94 97	LPG
+T9	Incident 94 101	LPG 漏えい
+T11	Storage 107 113	FCC 装置
+T12	Process 119 121	降圧

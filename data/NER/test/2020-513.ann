@@ -1,0 +1,34 @@
+T1	Storage 9 11	機器
+T2	Chemical 19 24	チル ゴム
+T3	Chemical 31 33	触媒
+T4	Chemical 36 45	塩化 アルミニウム
+T5	Product 47 53	塩化 メチル
+T6	Storage 60 63	ドラム
+T7	Incident 68 70	漏洩
+T8	Storage 79 82	ドラム
+T9	Chemical 86 89	グラス
+T10	Storage 103 106	ドラム
+T11	Incident 110 114	微量漏れ
+T12	Storage 123 126	ドラム
+T13	Storage 129 133	フランジ
+T14	Storage 135 144	底部ノズルフランジ
+T15	Chemical 149 151	触媒
+T16	Chemical 152 161	塩化 アルミニウム
+T17	Storage 163 166	ドラム
+T18	Storage 174 177	ドラム
+T19	Product 179 185	塩化 メチル
+T20	Process 187 189	液封
+T21	Process 222 226	液封操作
+T22	Process 239 243	液封操作
+T23	Storage 271 274	バルブ
+T24	Storage 289 293	フランジ
+T25	Storage 296 305	底部ノズルフランジ
+T26	Incident 311 314	付着物
+T27	Test 319 326	ソープチェック
+T28	Incident 332 336	微量漏れ
+T29	Storage 352 356	フランジ
+T30	Incident 369 371	漏れ
+T31	Storage 384 388	フランジ
+T32	Storage 398 407	底部ノズルフランジ
+T33	Test 444 451	ソープチェック
+T34	Incident 454 456	漏れ

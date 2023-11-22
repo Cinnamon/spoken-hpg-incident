@@ -1,0 +1,21 @@
+T1	Chemical 8 14	ポリエチレン
+T2	Storage 8 20	ポリエチレン 中試験装置
+T3	Storage 22 24	設備
+T4	Storage 31 38	重管 熱交換器
+T5	Chemical 41 48	ポリマー 溶液
+T6	Chemical 50 57	シクロヘキサン
+T7	Product 59 63	高圧ガス
+T8	Chemical 71 73	熱媒
+T9	Storage 75 78	ドラム
+T10	Incident 79 84	レベル上昇
+T11	Chemical 97 104	ポリマー 溶液
+T12	Incident 105 108	漏えい
+T13	Storage 121 123	設備
+T14	Storage 131 138	重管 熱交換器
+T21	Chemical 145 146	水
+T15	Test 145 149	水圧試験
+T16	Storage 160 169	重管 熱交換器内管
+T17	Chemical 175 176	水
+T18	Incident 177 180	漏えい
+T19	Product 187 191	高圧ガス
+T20	Incident 192 195	漏えい

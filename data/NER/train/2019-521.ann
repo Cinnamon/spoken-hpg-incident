@@ -1,0 +1,40 @@
+T1	Storage 4 7	タンク
+T2	Process 26 29	揚げ荷
+T3	Storage 26 31	揚げ荷配管
+T5	Storage 37 40	枝配管
+T4	Process 37 45	枝配管パージ作業
+T7	Chemical 58 60	残液
+T6	Storage 58 64	残液回収配管
+T8	Incident 69 70	霜
+T12	Incident 71 73	付着
+T10	Product 81 83	ガス
+T9	Test 75 80	ガス検知器
+T11	Product 75 77	ガス
+T14	Chemical 110 112	残液
+T13	Storage 110 117	残液回収ライン
+T16	Product 118 120	窒素
+T15	Process 118 123	窒素パージ
+T17	Incident 138 141	漏えい
+T18	Storage 144 151	縁切り用仕切板
+T19	Storage 157 161	保冷板金
+T20	Storage 166 170	シール材
+T21	Incident 171 175	経年劣化
+T22	Incident 185 190	シール不良
+T23	Chemical 193 195	雨水
+T24	Incident 196 198	浸入
+T25	Storage 204 206	配管
+T26	Storage 207 210	保冷材
+T27	Storage 220 222	配管
+T28	Incident 223 227	外部腐食
+T29	Incident 238 240	発錆
+T30	Chemical 243 250	硬質 ウレタン
+T31	Chemical 266 268	雨水
+T32	Incident 273 277	外面腐食
+T33	Test 300 306	外観目視点検
+T34	Storage 311 315	保冷配管
+T35	Chemical 344 351	硬質 ウレタン
+T36	Incident 367 371	外面腐食
+T37	Incident 377 379	発錆
+T38	Chemical 382 389	硬質 ウレタン
+T39	Storage 409 413	保冷板金
+T40	Incident 414 417	不具合

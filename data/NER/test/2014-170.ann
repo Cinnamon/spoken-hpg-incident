@@ -1,0 +1,36 @@
+T2	Product 0 4	高圧ガス
+T1	Test 0 11	高圧ガス定期パトロール
+T3	Storage 16 39	安全弁、 SV-109B 、 一次 側フランジ
+T5	Product 46 51	CO ガス
+T4	Test 42 54	携帯用 CO ガス検知器
+T25	Incident 63 65	反応
+T7	Incident 71 74	漏えい
+T6	Test 71 78	漏えい位置特定
+T8	Storage 82 92	安全弁 一次 側配管
+T9	Storage 93 100	フランジ溶接線
+T10	Test 103 107	石けん水
+T11	Test 108 110	塗布
+T12	Incident 112 115	カニ泡
+T13	Incident 118 121	漏えい
+T14	Storage 128 130	配管
+T15	Storage 146 150	フランジ
+T16	Storage 154 155	管
+T17	Incident 162 164	割れ
+T18	Test 165 169	原因調査
+T19	Test 178 185	光学顕微鏡観察
+T20	Storage 213 214	管
+T21	Incident 215 220	内表面割れ
+T22	Incident 229 234	溶接部割れ
+T24	Incident 258 262	粒内割れ
+T26	Chemical 283 292	カーボン スチール
+T27	Incident 303 305	応力
+T28	Incident 317 319	結露
+T29	Product 329 331	CO
+T31	Product 332 335	CO2
+T30	Chemical 336 339	H2O
+T32	Incident 343 349	応力腐食割れ
+T33	Incident 366 372	欠陥指示模様
+T36	Storage 401 403	配管
+T38	Product 416 418	ガス
+T37	Storage 416 422	ガスプラント
+T34	Incident 248 250	割れ

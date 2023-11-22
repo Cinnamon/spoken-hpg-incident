@@ -1,0 +1,32 @@
+T1	Storage 4 12	タンクヤード施設
+T2	Storage 20 23	タンク
+T3	Process 24 26	送液
+T5	Product 29 34	ブタジエン
+T4	Storage 29 37	ブタジエン 配管
+T6	Storage 38 44	パイプラック
+T7	Storage 48 50	配管
+T8	Incident 51 53	破孔
+T9	Product 58 66	ブタジエン ガス
+T10	Incident 67 70	漏えい
+T11	Storage 76 78	配管
+T12	Incident 86 88	腐食
+T13	Incident 96 100	外面腐食
+T14	Incident 102 104	腐食
+T15	Incident 117 121	外面腐食
+T16	Incident 122 126	破孔発生
+T17	Storage 130 133	C 鋼
+T18	Incident 150 151	錆
+T19	Chemical 155 156	水
+T20	Incident 163 165	滞留
+T21	Incident 170 172	腐食
+T22	Incident 185 189	内面腐食
+T23	Storage 192 194	配管
+T24	Storage 216 218	配管
+T25	Chemical 219 220	水
+T26	Chemical 231 232	水
+T27	Incident 233 235	残留
+T28	Incident 237 239	腐食
+T29	Storage 254 256	配管
+T30	Incident 277 281	外面腐食
+T31	Incident 286 290	内面腐食
+T32	Storage 293 295	配管

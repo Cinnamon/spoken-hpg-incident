@@ -1,0 +1,61 @@
+T1	Test 11 19	定時 パトロール
+T2	Storage 22 38	熱交換器、 E-1236 シェル
+T3	Incident 43 46	漏えい
+T4	Incident 62 64	発災
+T5	Process 67 69	脱圧
+T61	Product 75 77	ガス
+T6	Test 75 83	ガス 検知器測定
+T8	Product 101 103	窒素
+T7	Process 101 110	窒素 パージ 作業
+T9	Storage 115 118	仕切板
+T10	Process 122 127	縁切り処理
+T11	Storage 133 135	配管
+T13	Storage 139 142	ベント
+T12	Product 139 145	ベント ガス
+T14	Storage 148 155	コンプレッサー
+T15	Process 157 159	昇圧
+T16	Storage 161 165	熱交換器
+T17	Process 166 168	冷却
+T18	Process 169 171	液化
+T19	Storage 177 183	反応 ドラム
+T20	Process 185 187	回収
+T21	Storage 189 191	装置
+T22	Storage 196 200	熱交換器
+T24	Storage 206 209	ベント
+T23	Product 206 212	ベント ガス
+T25	Chemical 215 220	循環冷却水
+T26	Process 221 223	除熱
+T27	Product 230 233	ブテン
+T28	Process 235 237	凝縮
+T29	Chemical 255 257	硫酸
+T30	Chemical 264 266	硫酸
+T31	Product 268 271	ブテン
+T32	Product 286 289	ブテン
+T33	Chemical 301 303	硫酸
+T34	Storage 316 320	熱交換器
+T35	Product 327 330	ブテン
+T36	Chemical 332 334	硫酸
+T37	Storage 348 356	熱交換器出口配管
+T38	Chemical 388 390	硫酸
+T39	Storage 402 406	水平配管
+T40	Storage 415 421	配管 エルボ
+T41	Storage 430 434	垂直配管
+T42	Incident 441 454	エロージョン コロージョン
+T43	Incident 458 460	腐食
+T45	Incident 500 503	不具合
+T46	Storage 504 510	上流 エルボ
+T47	Test 540 542	測定
+T49	Incident 560 564	局部減肉
+T50	Incident 571 574	不具合
+T51	Storage 548 551	エルボ
+T52	Incident 634 638	腐食進行
+T53	Storage 656 658	配管
+T55	Incident 673 675	腐食
+T56	Test 749 751	検査
+T57	Incident 695 697	腐食
+T60	Incident 784 787	酸腐食
+T58	Storage 800 802	配管
+T59	Incident 752 754	腐食
+T44	Storage 477 479	配管
+T48	Storage 612 615	エルボ
+T54	Incident 804 806	腐食

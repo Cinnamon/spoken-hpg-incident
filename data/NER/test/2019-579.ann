@@ -1,0 +1,9 @@
+T1	Storage 14 18	冷凍設備
+T2	Incident 40 43	エラー
+T3	Test 54 56	点検
+T4	Incident 62 64	異常
+T5	Test 87 89	点検
+T6	Storage 93 99	フレア式継手
+T7	Product 101 103	冷媒
+T8	Incident 104 107	漏えい
+T9	Test 120 122	調査

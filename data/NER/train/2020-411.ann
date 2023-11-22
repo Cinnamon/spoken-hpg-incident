@@ -1,0 +1,23 @@
+T1	Storage 19 22	冷凍機
+T2	Test 4 10	定期自主検査
+T3	Storage 0 3	冷凍機
+T4	Product 24 27	フロン
+T5	Process 29 31	充填
+T9	Storage 50 52	保温
+T10	Storage 44 46	保温
+T6	Product 60 62	ガス
+T7	Incident 60 64	ガス漏れ
+T8	Incident 65 66	音
+T11	Storage 108 116	凝縮器出口膨張弁
+T12	Storage 117 120	均圧管
+T13	Storage 121 129	圧縮機側銅管継手
+T14	Product 133 136	フロン
+T15	Product 158 161	フロン
+T16	Process 158 164	フロン 回収
+T17	Incident 166 168	洩れ
+T18	Storage 175 181	膨張弁均圧管
+T20	Chemical 182 183	銅
+T19	Storage 182 184	銅管
+T21	Storage 184 188	チューブ
+T23	Storage 189 192	フレア
+T22	Incident 194 196	破断

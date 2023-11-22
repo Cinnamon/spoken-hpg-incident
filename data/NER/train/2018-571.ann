@@ -1,0 +1,7 @@
+T1	Storage 0 5	窒素蒸発器
+T2	Storage 25 31	出口フランジ
+T4	Product 41 45	窒素ガス
+T3	Incident 41 47	窒素ガス漏れ
+T5	Chemical 55 59	金属パテ
+T6	Storage 82 85	蒸発器
+T7	Incident 100 103	老朽化

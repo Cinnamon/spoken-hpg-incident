@@ -1,0 +1,12 @@
+T1	Test 11 17	エアコン点検
+T2	Storage 19 27	室内機ドレンパン
+T4	Chemical 28 29	油
+T3	Incident 28 31	油汚れ
+T5	Storage 36 46	熱交換器入口冷媒配管
+T6	Chemical 46 48	ロウ
+T8	Product 55 57	冷媒
+T7	Incident 55 60	冷媒漏えい
+T9	Incident 67 72	継続漏えい
+T11	Product 88 90	冷媒
+T10	Process 83 87	冷媒回収
+T12	Product 83 85	冷媒

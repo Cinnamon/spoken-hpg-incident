@@ -1,0 +1,18 @@
+T2	Chemical 0 10	メタキシレンジアミン
+T1	Storage 0 15	メタキシレンジアミン 製造施設
+T3	Storage 16 18	装置
+T4	Test 33 38	パトロール
+T6	Product 42 47	アンモニア
+T5	Incident 40 50	微 アンモニア 臭気
+T7	Incident 53 56	漏えい
+T8	Test 59 61	調査
+T9	Incident 109 112	漏えい
+T10	Storage 117 119	配管
+T11	Product 142 144	窒素
+T12	Test 147 152	気密テスト
+T14	Product 177 182	アンモニア
+T13	Storage 165 175	アンモニア レシーバ
+T15	Product 165 170	アンモニア
+T16	Process 184 186	供給
+T17	Storage 188 190	配管
+T18	Incident 204 207	漏えい

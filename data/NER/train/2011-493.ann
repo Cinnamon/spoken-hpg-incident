@@ -1,0 +1,12 @@
+T1	Storage 0 2	装置
+T2	Test 11 13	点検
+T3	Test 28 32	定期巡回
+T4	Incident 39 42	漏えい
+T5	Incident 47 49	感知
+T6	Test 51 53	調査
+T7	Storage 59 62	バルブ
+T8	Storage 63 67	フランジ
+T9	Incident 70 73	漏えい
+T10	Storage 94 101	フランジボルト
+T11	Incident 114 117	漏えい
+T12	Incident 127 133	締結管理不良

@@ -1,0 +1,43 @@
+T1	Storage 0 10	アルキレーション装置
+T2	Product 12 17	LP ガス
+T3	Storage 21 27	ストレーナー
+T5	Storage 49 52	反応槽
+T4	Storage 76 82	ストレーナー
+T34	Storage 83 89	スクレーパー
+T6	Storage 94 102	グランドパッキン
+T7	Incident 108 110	臭気
+T8	Test 134 138	巡回点検
+T9	Test 155 157	点検
+T10	Storage 160 166	スクレーパー
+T15	Storage 167 171	シャフト
+T11	Storage 181 187	ストレーナー
+T12	Storage 203 209	スクレーパー
+T13	Storage 210 216	ギアボックス
+T14	Storage 225 231	ストレーナー
+T16	Storage 243 247	シャフト
+T18	Storage 236 240	シャフト
+T17	Incident 243 249	シャフト貫通
+T19	Product 253 258	LP ガス
+T20	Incident 259 262	漏えい
+T21	Product 271 276	LP ガス
+T22	Incident 277 280	漏えい
+T23	Storage 287 293	ストレーナー
+T24	Storage 294 298	上下流弁
+T25	Product 306 311	LP ガス
+T26	Incident 312 314	被液
+T27	Incident 315 317	凍傷
+T29	Product 327 329	ガス
+T28	Test 327 332	ガス検知器
+T30	Incident 333 335	発報
+T31	Test 357 359	調査
+T32	Storage 362 368	ストレーナー
+T33	Storage 375 381	スクレーパー
+T35	Storage 389 392	保冷材
+T38	Incident 400 404	湿潤環境
+T36	Incident 415 417	腐食
+T37	Incident 420 422	破損
+T39	Storage 424 430	ストレーナー
+T40	Storage 436 440	シャフト
+T41	Storage 450 456	ストレーナー
+T42	Incident 530 532	破損
+T43	Storage 535 539	シャフト

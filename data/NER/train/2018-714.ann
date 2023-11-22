@@ -1,0 +1,10 @@
+T1	Process 0 5	充てん作業
+T2	Storage 7 14	小型容器フレキ
+T3	Incident 17 19	漏洩
+T4	Process 27 30	充てん
+T5	Storage 27 40	充てん用フレキシブルホース
+T6	Incident 41 47	最小曲げ半径
+T7	Storage 50 52	容器
+T10	Process 53 55	接続
+T9	Storage 66 69	溶接部
+T8	Incident 70 72	破損

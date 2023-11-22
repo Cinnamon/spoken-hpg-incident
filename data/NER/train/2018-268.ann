@@ -1,0 +1,38 @@
+T1	Test 0 8	定期 パトロール
+T2	Storage 11 17	接触改質装置
+T4	Chemical 21 24	ナフサ
+T3	Storage 21 33	ナフサ 脱硫 セクション
+T6	Product 45 47	水素
+T5	Storage 37 51	メイク アップ 水素 ライン
+T7	Storage 54 63	オンライン 分析計
+T8	Storage 66 68	配管
+T10	Product 71 73	ガス
+T9	Incident 71 77	ガス 漏えい
+T11	Storage 87 94	分析計行き配管
+T12	Storage 95 100	取出し元弁
+T13	Incident 105 108	漏えい
+T14	Storage 122 124	配管
+T15	Incident 142 147	漏えい事故
+T16	Incident 156 160	スケール
+T29	Incident 162 164	堆積
+T17	Product 173 175	塩素
+T18	Incident 176 178	濃縮
+T19	Incident 186 190	応力集中
+T20	Incident 199 203	残留応力
+T21	Incident 206 212	応力腐食割れ
+T22	Incident 215 217	貫通
+T23	Incident 223 225	割れ
+T24	Incident 234 236	分岐
+T25	Incident 242 244	粒内
+T26	Product 259 261	塩素
+T27	Incident 266 270	スケール
+T28	Incident 272 274	堆積
+T30	Product 277 279	塩素
+T31	Incident 282 284	濃縮
+T32	Chemical 287 304	オーステナイト 系 ステンレス 鋼
+T34	Product 305 308	塩化物
+T33	Incident 305 314	塩化物応力腐食割れ
+T35	Storage 358 360	配管
+T36	Incident 387 391	応力集中
+T38	Product 406 409	塩化物
+T37	Incident 406 415	塩化物応力腐食割れ

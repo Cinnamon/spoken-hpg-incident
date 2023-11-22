@@ -1,0 +1,7 @@
+T1	Storage 0 5	バルク貯蔵
+T2	Storage 28 31	安全弁
+T3	Storage 43 46	安全弁
+T4	Storage 18 21	安全弁
+T5	Storage 52 57	安全弁元弁
+T6	Product 62 64	ガス
+T7	Incident 65 68	漏えい

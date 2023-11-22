@@ -1,0 +1,9 @@
+T1	Storage 17 24	チラーユニット
+T2	Incident 25 28	エラー
+T4	Product 43 45	空気
+T3	Storage 43 50	空気側熱交換器
+T5	Storage 51 53	配管
+T6	Incident 55 57	亀裂
+T7	Product 64 68	冷媒ガス
+T8	Incident 69 72	漏えい
+T9	Incident 73 75	発覚

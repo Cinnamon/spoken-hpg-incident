@@ -1,0 +1,35 @@
+T2	Product 9 11	ガス
+T1	Test 6 14	定置式ガス検知器
+T3	Incident 25 27	発報
+T4	Test 32 36	現地調査
+T5	Incident 42 45	漏えい
+T21	Product 59 63	エチレン
+T6	Storage 59 76	エチレン ブースターコンプレッサー
+T7	Product 91 95	エチレン
+T8	Incident 91 98	エチレン 臭気
+T9	Storage 140 147	コンプレッサー
+T10	Storage 171 174	出口弁
+T11	Process 179 181	孤立
+T13	Product 187 189	窒素
+T12	Process 187 191	窒素置換
+T14	Test 200 202	調査
+T15	Storage 208 213	ドレン配管
+T16	Incident 214 216	穿孔
+T17	Storage 223 225	配管
+T18	Incident 223 233	配管サポート設置位置
+T19	Incident 234 237	不適切
+T22	Product 249 253	エチレン
+T20	Storage 249 266	エチレン ブースターコンプレッサー
+T23	Storage 277 292	N 側ディスチャージスナッパー
+T24	Storage 293 298	ドレン配管
+T25	Storage 320 340	S 側ディスチャージスナッパードレン配管
+T26	Storage 341 345	フランジ
+T27	Test 361 363	点検
+T28	Storage 381 383	配管
+T29	Storage 384 388	フランジ
+T30	Storage 412 418	往復動圧縮機
+T31	Incident 424 427	微振動
+T32	Storage 431 435	フランジ
+T33	Storage 440 442	配管
+T34	Incident 447 449	摩耗
+T35	Incident 452 454	穿孔

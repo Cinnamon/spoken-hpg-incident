@@ -1,0 +1,28 @@
+T1	Chemical 0 8	炭酸 ジアルキル
+T2	Storage 0 21	炭酸 ジアルキル 直接法ベンチプラント装置
+T3	Storage 30 32	配管
+T4	Storage 35 38	反応器
+T5	Chemical 74 77	有機物
+T6	Incident 62 64	析出
+T7	Chemical 58 61	有機物
+T8	Storage 86 94	バッファータンク
+T9	Storage 95 97	配管
+T10	Storage 99 102	反応器
+T11	Process 116 118	加熱
+T12	Process 103 105	加熱
+T13	Storage 122 130	反応液循環ポンプ
+T14	Incident 147 153	異常アラーム
+T15	Storage 157 165	ポンプ吐出安全弁
+T16	Product 172 177	二酸化炭素
+T17	Incident 183 185	噴出
+T18	Incident 179 181	噴出
+T19	Product 187 189	大気
+T20	Storage 196 200	受け配管
+T21	Storage 204 207	受容器
+T22	Process 208 210	排出
+T23	Incident 221 223	事故
+T24	Storage 226 229	安全弁
+T25	Incident 244 246	噴出
+T26	Test 236 240	目視確認
+T27	Incident 231 233	噴出
+T28	Incident 263 265	事故

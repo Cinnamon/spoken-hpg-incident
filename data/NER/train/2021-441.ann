@@ -1,0 +1,15 @@
+T1	Storage 2 4	設備
+T2	Product 5 10	塩素 ガス
+T3	Product 12 16	液化塩素
+T4	Storage 21 23	施設
+T6	Product 43 47	塩素 ガ
+T5	Test 43 51	塩素 ガス 検知
+T7	Incident 94 96	漏洩
+T8	Product 106 111	塩素 ガス
+T9	Process 113 115	液化
+T10	Storage 119 122	液化器
+T11	Storage 124 133	チャンネル カバー
+T12	Storage 143 146	圧力計
+T13	Incident 151 153	漏れ
+T14	Storage 160 162	元弁
+T15	Incident 166 168	漏洩

@@ -1,0 +1,9 @@
+T1	Storage 12 16	冷凍設備
+T2	Incident 17 21	異常停止
+T3	Test 26 28	点検
+T4	Product 34 36	冷媒
+T5	Incident 46 49	漏えい
+T6	Test 62 64	調査
+T7	Storage 68 75	凝縮器チューブ
+T9	Product 83 85	冷媒
+T8	Incident 83 88	冷媒リーク

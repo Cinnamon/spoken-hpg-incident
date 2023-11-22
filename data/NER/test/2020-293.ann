@@ -1,0 +1,10 @@
+T1	Storage 0 3	空調機
+T3	Test 17 21	設備点検
+T4	Storage 36 39	室外機
+T5	Product 31 33	冷媒
+T6	Storage 31 35	冷媒配管
+T7	Storage 27 30	室外機
+T8	Storage 47 49	配管
+T9	Incident 51 53	漏れ
+T10	Test 60 63	石鹸水
+T11	Incident 74 76	漏れ

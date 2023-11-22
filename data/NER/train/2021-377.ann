@@ -1,0 +1,15 @@
+T1	Storage 0 3	冷凍機
+T2	Storage 15 18	圧縮機
+T3	Product 27 29	冷媒
+T4	Process 27 31	冷媒回収
+T5	Process 39 42	充てん
+T6	Process 53 55	回収
+T7	Storage 78 81	圧縮機
+T8	Product 87 89	窒素
+T9	Test 90 94	気密試験
+T10	Process 99 101	保圧
+T11	Product 108 110	冷媒
+T12	Incident 108 113	冷媒漏えい
+T13	Storage 129 134	冷却器胴板
+T14	Chemical 132 134	胴板
+T15	Incident 140 142	孔食

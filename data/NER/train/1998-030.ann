@@ -1,0 +1,15 @@
+T1	Product 0 6	液化エチレン
+T2	Storage 0 11	液化エチレン低温タンク
+T3	Storage 16 21	移送ポンプ
+T4	Storage 22 30	サクションドラム
+T5	Storage 31 34	安全弁
+T6	Storage 51 53	設備
+T7	Product 59 63	エチレン
+T8	Process 64 66	供給
+T9	Storage 83 86	安全弁
+T10	Test 83 90	安全弁性能検査
+T11	Storage 93 99	取付けボルト
+T12	Storage 108 111	安全弁
+T13	Storage 111 115	元バルブ
+T14	Product 128 134	エチレンガス
+T15	Incident 135 137	噴出

@@ -1,0 +1,30 @@
+T1	Product 19 23	エチレン
+T28	Storage 19 25	エチレン 船
+T29	Process 25 27	荷役
+T3	Product 33 38	ブタジエン
+T2	Incident 33 40	ブタジエン 臭
+T5	Product 52 57	ブタジエン
+T4	Storage 52 62	ブタジエン 出荷配管
+T6	Incident 68 70	漏洩
+T8	Product 90 92	窒素
+T7	Process 90 95	窒素パージ
+T10	Product 117 122	ブタジエン
+T9	Storage 117 127	ブタジエン 出荷配管
+T11	Incident 128 131	霜つき
+T13	Incident 156 158	漏洩
+T12	Storage 156 160	漏洩配管
+T14	Storage 165 167	配管
+T16	Product 169 171	ガス
+T15	Test 169 172	ガス検
+T17	Product 179 181	ガス
+T30	Test 179 182	ガス検
+T18	Storage 193 195	配管
+T20	Product 197 199	窒素
+T19	Process 197 202	窒素パージ
+T22	Product 205 207	ガス
+T31	Test 205 210	ガス検確認
+T23	Storage 226 228	配管
+T24	Test 230 233	ガス検
+T26	Product 271 273	ガス
+T25	Test 271 274	ガス検
+T27	Process 285 288	パージ

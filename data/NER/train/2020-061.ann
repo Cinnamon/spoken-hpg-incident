@@ -1,0 +1,14 @@
+T1	Test 14 18	巡回点検
+T2	Storage 24 33	減圧留出油脱硫装置
+T3	Product 38 40	ガス
+T4	Incident 38 41	ガス臭
+T5	Test 47 49	点検
+T6	Storage 54 59	低圧分離槽
+T7	Product 63 65	ガス
+T8	Incident 63 66	ガス臭
+T9	Incident 67 69	覚知
+T10	Storage 75 77	装置
+T11	Test 82 84	検査
+T12	Storage 89 96	ダミーサポート
+T13	Storage 98 100	配管
+T14	Incident 105 107	開孔

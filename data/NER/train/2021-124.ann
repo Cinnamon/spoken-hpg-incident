@@ -1,0 +1,5 @@
+T1	Product 19 28	ジメチル エーテル
+T2	Storage 19 33	ジメチル エーテル 貯槽設備
+T3	Storage 38 40	配管
+T4	Storage 46 51	圧力発信機
+T5	Incident 56 59	漏えい

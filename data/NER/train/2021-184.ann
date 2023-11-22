@@ -1,0 +1,6 @@
+T1	Test 16 20	定期巡回
+T2	Test 39 43	高所点検
+T3	Storage 48 51	洗浄塔
+T4	Storage 56 58	配管
+T6	Product 61 64	LPG
+T5	Incident 61 67	LPG 漏洩

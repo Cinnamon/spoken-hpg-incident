@@ -1,0 +1,17 @@
+T3	Product 0 5	プロピレン
+T2	Storage 0 10	プロピレン精留回収搭
+T11	Chemical 12 13	水
+T17	Storage 11 15	散水設備
+T4	Incident 84 86	接触
+T5	Incident 87 89	破損
+T6	Incident 90 92	落下
+T1	Storage 102 107	流量計導管
+T7	Incident 108 110	破損
+T8	Product 112 119	プロピレンガス
+T9	Incident 120 123	漏えい
+T12	Storage 144 146	施設
+T10	Chemical 150 151	水
+T13	Incident 156 158	着火
+T14	Incident 165 168	漏えい
+T15	Storage 173 175	元弁
+T16	Incident 180 183	漏えい

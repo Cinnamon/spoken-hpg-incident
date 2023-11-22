@@ -1,0 +1,13 @@
+T1	Test 26 30	定期点検
+T2	Incident 41 45	低圧異常
+T3	Product 77 80	フロン
+T4	Process 81 83	回収
+T5	Process 89 91	回収
+T6	Process 93 95	充填
+T7	Incident 105 107	漏洩
+T8	Incident 108 110	認知
+T10	Incident 138 141	リーク
+T9	Test 138 144	リークテスト
+T11	Storage 152 156	フランジ
+T12	Storage 163 166	電磁弁
+T13	Incident 168 170	漏洩

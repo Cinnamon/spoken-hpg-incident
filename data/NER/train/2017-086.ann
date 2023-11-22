@@ -1,0 +1,23 @@
+T1	Storage 21 25	製造施設
+T3	Product 28 33	ブタジエン
+T2	Incident 28 36	ブタジエン 臭気
+T4	Storage 83 88	マンホール
+T5	Product 93 98	ブタジエン
+T6	Incident 100 103	漏えい
+T8	Product 109 114	可燃性ガス
+T7	Test 109 117	可燃性ガス検知器
+T9	Incident 118 120	作動
+T10	Storage 143 146	反応器
+T12	Product 148 153	ブタジエン
+T11	Process 148 157	ブタジエン 仕込み
+T13	Incident 166 168	漏れ
+T14	Storage 174 177	ボルト
+T15	Incident 186 189	漏えい
+T16	Product 199 204	ブタジエン
+T17	Process 206 208	回収
+T23	Incident 236 238	災害
+T19	Product 293 298	ブタジエン
+T18	Process 293 301	ブタジエン 回収
+T20	Incident 305 307	漏れ
+T22	Product 346 351	ブタジエン
+T21	Incident 346 354	ブタジエン 漏れ

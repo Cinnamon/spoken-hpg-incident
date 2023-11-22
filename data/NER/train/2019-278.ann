@@ -1,0 +1,16 @@
+T2	Product 3 5	ガス
+T1	Incident 3 14	ガス検査検知警報器発報
+T3	Storage 18 20	配管
+T5	Product 23 26	LPG
+T4	Incident 23 30	LPG 漏えい
+T6	Storage 37 44	ダミーサポート
+T7	Storage 45 52	ウィープホール
+T13	Incident 54 56	侵入
+T8	Product 58 60	外気
+T9	Chemical 62 64	湿気
+T10	Storage 65 68	曲げ管
+T11	Incident 71 73	結露
+T12	Incident 75 79	湿潤環境
+T14	Incident 84 88	外面腐食
+T15	Incident 98 100	開口
+T16	Incident 101 104	漏えい

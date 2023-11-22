@@ -1,0 +1,15 @@
+T1	Incident 0 2	事故
+T2	Incident 48 52	低圧異常
+T3	Test 64 66	調査
+T4	Storage 69 72	圧縮機
+T5	Incident 77 80	漏えい
+T6	Incident 104 108	低圧異常
+T7	Test 124 126	調査
+T8	Storage 129 132	圧縮機
+T9	Incident 137 140	漏えい
+T10	Product 157 161	冷媒ガス
+T11	Incident 169 172	漏えい
+T12	Test 218 222	定期点検
+T13	Incident 248 255	振動等経年劣化
+T14	Storage 258 261	圧縮機
+T15	Incident 263 266	漏えい

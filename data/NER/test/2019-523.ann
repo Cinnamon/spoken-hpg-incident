@@ -1,0 +1,35 @@
+T2	Product 17 21	高圧ガス
+T1	Storage 17 25	高圧ガス製造施設
+T4	Chemical 27 33	ブチル ゴム
+T3	Storage 27 37	ブチル ゴム製造施設
+T6	Product 39 41	ガス
+T5	Test 39 44	ガス検知器
+T7	Incident 45 47	点灯
+T9	Product 68 72	高圧ガス
+T8	Storage 68 74	高圧ガス設備
+T11	Product 76 82	イソブチレン
+T10	Storage 76 96	イソブチレン 払出ポンプメカニカルシール
+T12	Product 99 103	高圧ガス
+T13	Product 105 111	イソブチレン
+T14	Product 113 117	液化ガス
+T15	Incident 123 126	漏えい
+T16	Incident 133 135	覚知
+T18	Storage 148 150	機器
+T17	Storage 157 160	前後弁
+T19	Incident 165 168	漏えい
+T20	Incident 175 178	漏えい
+T21	Storage 191 199	メカニカルシール
+T22	Storage 209 217	セットスクリュー
+T26	Incident 225 227	脱落
+T23	Incident 250 252	破損
+T24	Incident 253 256	漏えい
+T25	Storage 266 274	セットスクリュー
+T27	Incident 275 277	脱落
+T28	Incident 297 305	セットスクリュー
+T29	Storage 334 342	セットスクリュー
+T30	Incident 343 345	脱落
+T31	Incident 346 352	締め付け不足
+T32	Storage 362 370	セットスクリュー
+T33	Storage 384 388	スリーブ
+T34	Incident 389 391	変形
+T35	Storage 431 436	メカシール

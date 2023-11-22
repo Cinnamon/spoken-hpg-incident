@@ -1,0 +1,12 @@
+T2	Product 13 17	プロパン
+T1	Storage 0 8	プロパン脱蝋装置
+T3	Storage 9 12	ドラム
+T5	Product 0 4	プロパン
+T4	Storage 13 21	プロパン供給配管
+T6	Storage 35 37	保温
+T7	Storage 46 48	配管
+T8	Incident 49 53	外面腐食
+T9	Test 70 74	状況確認
+T10	Process 84 87	縁切り
+T11	Storage 98 102	下流配管
+T12	Incident 103 106	霜付き

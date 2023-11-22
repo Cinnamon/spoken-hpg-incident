@@ -1,0 +1,27 @@
+T2	Chemical 3 5	原油
+T1	Storage 3 9	原油蒸留装置
+T3	Storage 10 25	デプロパナイザーチャージ流量計
+T4	Incident 36 40	流量低下
+T5	Incident 45 49	アラーム
+T6	Incident 50 52	鳴動
+T7	Test 56 60	現場確認
+T8	Storage 73 78	計装導圧管
+T10	Product 82 87	LP ガス
+T9	Incident 82 90	LP ガス漏えい
+T11	Storage 101 106	導圧管元弁
+T12	Incident 111 114	漏えい
+T13	Incident 120 123	漏えい
+T14	Incident 142 144	開孔
+T15	Storage 146 151	導圧管元弁
+T16	Storage 159 161	元弁
+T17	Storage 162 166	保温板金
+T18	Incident 173 175	浸入
+T19	Chemical 177 179	雨水
+T20	Storage 180 183	保温材
+T21	Incident 184 186	浸透
+T22	Incident 188 192	湿潤状態
+T23	Incident 207 211	外面腐食
+T24	Incident 220 222	開孔
+T25	Incident 236 238	発災
+T26	Process 241 244	縁切り
+T27	Storage 248 251	仕切板

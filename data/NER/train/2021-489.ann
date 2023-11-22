@@ -1,0 +1,22 @@
+T1	Product 16 21	高圧 ガス
+T2	Storage 16 26	高圧 ガス 製造施設
+T3	Test 32 37	パトロール
+T4	Storage 40 45	抽出蒸留塔
+T5	Storage 46 48	配管
+T6	Storage 49 55	防食 カバー
+T7	Incident 60 61	霜
+T8	Incident 62 64	付着
+T9	Incident 79 81	漏洩
+T10	Storage 91 93	配管
+T11	Process 103 106	縁切り
+T13	Storage 111 113	配管
+T14	Process 116 119	抜出し
+T15	Incident 132 135	不具合
+T16	Test 147 150	石鹸水
+T17	Test 153 155	試験
+T18	Incident 159 161	漏洩
+T12	Incident 168 170	漏洩
+T19	Incident 179 181	流出
+T22	Incident 184 188	環境影響
+T21	Incident 191 195	人的被害
+T20	Incident 198 202	物的被害

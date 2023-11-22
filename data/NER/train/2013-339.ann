@@ -1,0 +1,10 @@
+T11	Product 7 10	LPG
+T10	Storage 7 13	LPG洗浄塔
+T1	Storage 15 27	レベルゲージ下部ブリーダ
+T2	Incident 29 31	腐食
+T3	Incident 34 37	漏えい
+T5	Storage 48 50	保温
+T6	Storage 53 55	穿孔
+T7	Chemical 61 62	水
+T8	Incident 79 81	減肉
+T9	Incident 82 84	進展

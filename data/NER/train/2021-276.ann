@@ -1,0 +1,9 @@
+T1	Storage 6 8	装置
+T2	Test 9 13	巡回点検
+T4	Product 41 43	ガス
+T3	Test 16 24	携帯式ガス検知器
+T5	Incident 25 27	発報
+T6	Storage 29 38	高温変性部出口配管
+T8	Product 19 21	ガス
+T7	Incident 41 45	ガス漏洩
+T9	Incident 46 48	覚知

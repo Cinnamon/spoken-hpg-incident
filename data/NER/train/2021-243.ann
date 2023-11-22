@@ -1,0 +1,15 @@
+T2	Product 0 4	液化塩素
+T1	Storage 0 8	液化塩素 タンク
+T3	Storage 34 37	タンク
+T4	Test 48 52	ガス 検
+T5	Incident 53 55	発報
+T6	Storage 70 81	圧力発信器行き導圧配管
+T7	Incident 87 89	漏れ
+T8	Storage 98 100	継手
+T15	Product 129 131	ガス
+T9	Test 129 133	ガス 検
+T10	Incident 134 136	発報
+T11	Storage 143 145	配管
+T12	Storage 146 149	バルブ
+T13	Process 150 153	縁切り
+T14	Incident 155 157	漏洩

@@ -1,0 +1,27 @@
+T1	Product 16 18	ガス
+T2	Incident 16 20	ガス漏れ
+T3	Test 16 26	ガス漏れ定期自主点検
+T4	Storage 30 34	センサー
+T5	Product 35 37	冷媒
+T6	Incident 35 39	冷媒漏れ
+T7	Incident 40 42	検知
+T8	Test 52 54	調査
+T9	Product 72 74	冷媒
+T10	Incident 72 77	冷媒漏えい
+T11	Incident 85 88	漏えい
+T12	Storage 102 105	冷凍機
+T13	Storage 106 110	分岐継手
+T14	Incident 128 131	漏えい
+T15	Storage 120 124	元バルブ
+T16	Incident 112 115	漏えい
+T17	Storage 159 162	冷凍機
+T18	Product 165 171	フロン ガス
+T19	Process 172 174	抜出
+T20	Incident 176 179	漏えい
+T21	Storage 206 208	配管
+T22	Product 209 211	窒素
+T23	Process 212 216	加圧充填
+T24	Incident 218 220	漏洩
+T25	Test 218 224	漏洩箇所調査
+T26	Product 225 227	ガス
+T27	Incident 225 230	ガス漏えい

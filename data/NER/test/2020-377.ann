@@ -1,0 +1,5 @@
+T2	Product 0 2	水素
+T1	Storage 0 6	水素製造装置
+T4	Product 27 29	ガス
+T3	Incident 27 32	ガス漏えい
+T5	Incident 33 35	覚知

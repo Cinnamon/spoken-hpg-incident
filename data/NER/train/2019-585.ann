@@ -1,0 +1,30 @@
+T1	Storage 18 21	圧縮機
+T2	Incident 22 29	吸込み圧力低下
+T3	Storage 34 37	冷凍機
+T4	Storage 50 52	機器
+T5	Storage 53 55	配管
+T6	Storage 56 57	弁
+T7	Test 60 64	調査点検
+T8	Storage 82 85	冷凍機
+T10	Chemical 93 106	エチレングリコール 水溶液
+T9	Product 118 120	ガス
+T11	Incident 121 123	検知
+T12	Test 131 133	調査
+T13	Storage 140 144	熱交換器
+T15	Storage 158 160	配管
+T14	Incident 156 162	内部配管漏れ
+T17	Chemical 188 201	エチレングリコール 水溶液
+T16	Storage 188 203	エチレングリコール 水溶液貯槽
+T18	Storage 206 208	貯槽
+T19	Product 209 211	大気
+T20	Incident 216 220	気化放出
+T21	Incident 227 231	人的被害
+T22	Incident 235 237	漏洩
+T23	Test 239 241	調査
+T24	Incident 244 246	腐食
+T25	Incident 248 252	疲労破壊
+T26	Product 253 255	冷媒
+T27	Incident 261 263	振動
+T28	Storage 275 279	熱交換器
+T29	Incident 285 290	ピンホール
+T30	Incident 296 298	漏洩

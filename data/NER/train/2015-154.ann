@@ -1,0 +1,12 @@
+T1	Storage 13 16	ポンプ
+T2	Storage 24 34	フラッシングクーラー
+T3	Storage 34 38	入口配管
+T4	Chemical 45 49	ガソリン
+T5	Incident 50 52	霧状
+T6	Incident 53 56	漏えい
+T7	Storage 83 86	ポンプ
+T8	Chemical 110 111	液
+T10	Process 110 113	液抜き
+T9	Process 114 116	脱圧
+T11	Incident 132 135	漏えい
+T12	Test 145 147	調査

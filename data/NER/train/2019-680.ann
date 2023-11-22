@@ -1,0 +1,13 @@
+T1	Storage 7 9	設備
+T3	Incident 10 12	温度
+T4	Incident 13 15	上昇
+T2	Test 22 24	点検
+T5	Incident 36 40	圧力低下
+T6	Storage 54 58	予備機台
+T7	Test 77 81	原因調査
+T8	Storage 85 92	凝縮器チューブ
+T10	Product 97 101	冷媒ガス
+T9	Incident 97 104	冷媒ガス漏えい
+T11	Incident 110 115	継続漏えい
+T13	Product 124 126	冷媒
+T12	Process 124 128	冷媒回収

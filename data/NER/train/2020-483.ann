@@ -1,0 +1,13 @@
+T2	Product 16 21	アンモニア
+T1	Storage 16 27	アンモニア 充填ポンプ
+T3	Storage 43 45	容器
+T5	Product 48 53	アンモニア
+T4	Process 48 58	アンモニア 充填作業
+T6	Storage 65 68	圧力計
+T7	Storage 69 73	フランジ
+T8	Product 77 82	アンモニア
+T9	Incident 84 87	漏えい
+T10	Storage 106 111	充填ポンプ
+T11	Process 119 123	脱圧作業
+T12	Storage 137 142	締付ボルト
+T13	Incident 150 153	漏えい

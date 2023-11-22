@@ -1,0 +1,13 @@
+T1	Test 8 14	総合気密試験
+T2	Test 33 35	点検
+T3	Test 40 49	スマートエルダ測定
+T5	Product 56 58	ガス
+T4	Test 56 61	ガス検知器
+T6	Test 64 66	検知
+T7	Incident 76 79	漏えい
+T8	Incident 84 86	感知
+T9	Test 90 92	調査
+T10	Storage 98 101	プラグ
+T11	Incident 104 107	漏えい
+T14	Storage 120 123	プラグ
+T15	Incident 138 144	締結管理不良

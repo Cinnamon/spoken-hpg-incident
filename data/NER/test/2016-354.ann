@@ -1,0 +1,39 @@
+T1	Storage 0 6	常圧蒸留装置
+T2	Test 8 12	巡回点検
+T3	Incident 22 24	臭気
+T5	Product 45 50	LP ガス
+T4	Storage 45 54	LP ガス回収装置
+T7	Product 59 62	エタン
+T6	Storage 57 64	脱 エタン 塔
+T8	Storage 320 329	コントロールバルブ
+T9	Incident 86 90	滲み漏れ
+T10	Incident 97 100	漏えい
+T11	Storage 102 105	バルブ
+T12	Process 110 113	圧抜き
+T14	Storage 134 139	ボンネット
+T15	Incident 143 148	ピンホール
+T16	Chemical 164 167	改質油
+T17	Product 169 174	LP ガス
+T18	Incident 187 190	漏えい
+T20	Storage 213 218	V ポート
+T21	Storage 246 251	V ポート
+T23	Incident 278 284	エロージョン
+T24	Incident 292 297	ピンホール
+T26	Storage 338 343	V ポート
+T27	Storage 344 350	シートリング
+T28	Storage 371 374	調整弁
+T29	Storage 380 383	バルブ
+T30	Storage 388 393	V ポート
+T31	Storage 420 423	バルブ
+T32	Storage 429 434	V ポート
+T33	Storage 473 478	V ポート
+T34	Storage 479 482	バルブ
+T35	Storage 488 493	V ポート
+T36	Test 497 501	目視確認
+T37	Test 507 509	点検
+T38	Storage 541 544	調整弁
+T39	Storage 551 556	V ポート
+T13	Storage 73 83	コントロール バルブ
+T19	Storage 122 132	コントロール バルブ
+T22	Storage 199 209	コントロール バルブ
+T25	Storage 258 268	コントロール バルブ

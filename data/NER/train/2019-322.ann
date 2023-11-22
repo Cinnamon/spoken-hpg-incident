@@ -1,0 +1,8 @@
+T2	Storage 8 10	機器
+T1	Incident 11 15	異常警報
+T3	Storage 20 22	機器
+T4	Product 31 33	冷媒
+T5	Storage 44 46	設備
+T6	Storage 63 65	配管
+T7	Incident 67 69	亀裂
+T8	Incident 83 85	不良

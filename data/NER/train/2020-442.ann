@@ -1,0 +1,14 @@
+T2	Chemical 13 15	尿素
+T1	Storage 13 19	尿素製造施設
+T3	Product 21 26	アンモニア
+T4	Storage 30 33	ポンプ
+T5	Storage 51 54	ポンプ
+T6	Product 59 64	アンモニア
+T7	Incident 66 68	臭気
+T8	Test 77 79	調査
+T9	Storage 85 88	ポンプ
+T10	Storage 89 97	吸入弁ボンネット
+T11	Incident 99 102	漏えい
+T12	Storage 117 120	ポンプ
+T13	Storage 121 134	吸入弁ボンネット締付ボルト
+T15	Incident 141 144	漏えい

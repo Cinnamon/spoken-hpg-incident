@@ -1,0 +1,42 @@
+T1	Storage 23 25	設備
+T42	Storage 38 40	施設
+T2	Incident 47 49	異音
+T3	Test 54 58	現場調査
+T4	Storage 65 70	原料中間槽
+T5	Storage 73 80	圧力計取出配管
+T6	Product 83 85	ガス
+T7	Incident 87 90	漏えい
+T8	Storage 158 160	施設
+T9	Storage 167 172	原料中間槽
+T10	Process 173 175	脱圧
+T11	Process 176 178	移液
+T12	Process 186 188	脱圧
+T14	Storage 202 204	設備
+T13	Product 205 210	窒素 ガス
+T15	Process 205 213	窒素 ガス 置換
+T16	Incident 232 235	漏えい
+T17	Process 250 256	フレア 放出
+T18	Product 259 261	ガス
+T20	Test 259 264	ガス 濃度
+T19	Test 289 291	測定
+T21	Product 306 308	ガス
+T22	Incident 310 312	検出
+T23	Storage 322 327	原料中間槽
+T24	Incident 340 343	漏えい
+T25	Incident 358 361	漏えい
+T26	Storage 381 385	垂直配管
+T27	Storage 388 392	フランジ
+T28	Chemical 400 402	雨水
+T29	Incident 409 413	外面腐食
+T30	Incident 415 417	穿孔
+T31	Storage 429 431	配管
+T32	Incident 449 453	外面腐食
+T33	Storage 465 467	配管
+T34	Storage 468 474	機器付属配管
+T35	Storage 497 499	配管
+T36	Storage 501 508	槽上部 ノズル
+T37	Storage 531 534	圧力計
+T38	Storage 558 562	取出配管
+T39	Test 564 566	点検
+T41	Storage 569 571	配管
+T40	Test 569 577	配管外面腐食検査

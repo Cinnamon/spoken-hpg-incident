@@ -1,0 +1,31 @@
+T1	Storage 0 6	RFU 装置
+T3	Product 24 28	プロパン
+T2	Process 24 33	プロパン 受入作業
+T4	Storage 44 46	配管
+T6	Product 47 49	ガス
+T5	Process 47 51	ガス置換
+T7	Process 55 59	加圧作業
+T8	Incident 70 72	臭気
+T9	Process 85 88	縁切り
+T10	Process 91 94	圧抜き
+T11	Product 99 101	窒素
+T12	Process 102 104	加圧
+T14	Incident 106 109	リーク
+T13	Test 106 112	リークテスト
+T15	Storage 119 121	保温
+T16	Incident 128 129	泡
+T18	Product 141 143	窒素
+T17	Process 141 145	窒素置換
+T19	Storage 158 160	配管
+T20	Storage 161 165	保温配管
+T21	Product 176 179	LPG
+T22	Product 181 183	冷媒
+T23	Incident 197 199	結露
+T24	Storage 207 211	保温配管
+T25	Incident 219 223	外面腐食
+T26	Storage 238 242	保温配管
+T27	Product 250 252	冷媒
+T28	Storage 255 257	配管
+T29	Storage 259 261	保温
+T31	Storage 270 274	保冷配管
+T30	Test 270 281	保冷配管検査プログラム

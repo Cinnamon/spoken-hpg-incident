@@ -1,0 +1,9 @@
+T1	Storage 0 6	接触改質装置
+T2	Incident 14 16	発災
+T9	Incident 36 38	変動
+T4	Storage 76 80	プラント
+T3	Test 76 84	プラント定期巡回
+T5	Incident 86 88	異常
+T6	Test 112 116	巡回点検
+T7	Incident 118 120	火災
+T8	Incident 183 185	発災

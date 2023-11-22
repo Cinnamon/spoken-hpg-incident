@@ -1,0 +1,11 @@
+T1	Storage 0 2	工場
+T2	Storage 11 14	冷凍機
+T3	Incident 23 32	低圧カットエラーが
+T4	Test 46 48	点検
+T5	Product 69 71	冷媒
+T6	Process 85 91	冷凍サイクル
+T7	Product 96 100	封入冷媒
+T8	Process 123 129	冷凍サイクル
+T9	Product 130 134	封入冷媒
+T10	Product 167 169	冷媒
+T11	Incident 170 172	減量

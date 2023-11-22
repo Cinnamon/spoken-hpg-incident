@@ -1,0 +1,15 @@
+T1	Incident 0 2	事故
+T3	Chemical 5 13	高級 アルコール
+T2	Storage 5 18	高級 アルコール 製造施設
+T4	Process 19 26	オキソ反応工程
+T5	Test 70 75	パトロール
+T6	Storage 77 84	反応器入口配管
+T7	Incident 90 93	漏えい
+T8	Process 117 121	原料供給
+T9	Process 124 126	降圧
+T10	Process 127 129	降温
+T11	Process 152 154	降圧
+T12	Process 155 157	降温
+T14	Product 162 164	ガス
+T13	Test 162 166	ガス検知
+T15	Product 168 173	可燃性ガス

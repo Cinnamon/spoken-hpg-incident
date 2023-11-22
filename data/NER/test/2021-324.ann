@@ -1,0 +1,9 @@
+T2	Product 0 7	酸化 エチレン
+T1	Storage 0 10	酸化 エチレン 貯槽
+T3	Storage 12 15	計量槽
+T4	Process 16 18	移送
+T5	Storage 20 30	計量槽受入弁グランド
+T6	Product 36 43	酸化 エチレン
+T7	Incident 54 57	漏えい
+T8	Incident 72 75	漏えい
+T9	Incident 45 48	漏えい

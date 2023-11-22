@@ -1,0 +1,10 @@
+T2	Chemical 20 24	メラミン
+T1	Storage 20 29	メラミン 合成施設
+T3	Storage 40 43	バルブ
+T4	Incident 46 48	臭気
+T5	Test 55 57	調査
+T6	Storage 62 70	バルブボンネット
+T7	Product 74 82	アンモニア ガス
+T8	Incident 83 86	漏えい
+T9	Storage 106 116	ボンネット締付ナット
+T10	Incident 125 128	漏えい

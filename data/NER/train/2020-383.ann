@@ -1,0 +1,15 @@
+T1	Product 0 4	液化酸素
+T2	Storage 0 6	液化酸素貯槽
+T3	Storage 8 13	加圧蒸発器
+T4	Product 42 46	液化酸素
+T5	Process 47 50	充てん
+T6	Storage 70 75	加圧蒸発器
+T7	Test 76 80	現地確認
+T8	Test 108 112	詳細点検
+T9	Test 128 131	発泡液
+T10	Incident 133 135	漏れ
+T11	Incident 140 144	微量漏れ
+T12	Storage 157 162	加圧蒸発器
+T15	Process 164 168	ブロック
+T13	Process 170 173	液抜き
+T14	Storage 180 183	遮断板

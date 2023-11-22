@@ -1,0 +1,14 @@
+T1	Storage 24 27	冷凍機
+T3	Storage 10 13	蒸発器
+T2	Incident 10 17	蒸発器圧力低下
+T4	Incident 18 22	異常発報
+T5	Storage 0 3	冷凍機
+T6	Product 34 36	冷媒
+T7	Incident 55 58	漏えい
+T8	Incident 65 67	漏れ
+T9	Test 70 72	調査
+T10	Storage 75 80	サブクーラ
+T11	Storage 81 83	配管
+T12	Product 90 92	冷媒
+T13	Chemical 93 96	冷却水
+T14	Process 97 99	パス

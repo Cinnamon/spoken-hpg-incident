@@ -1,0 +1,13 @@
+T2	Chemical 6 8	重油
+T1	Storage 4 12	直接重油脱硫装置
+T3	Storage 17 19	塔槽
+T4	Storage 20 25	圧力発信器
+T6	Chemical 29 33	スチーム
+T5	Storage 29 38	スチーム トレーサ
+T7	Storage 49 68	圧力発信器取出し ノズル 2次側 配管
+T8	Product 71 76	水素 ガス
+T9	Incident 78 81	漏えい
+T10	Incident 92 95	漏えい
+T11	Process 101 105	ブロック
+T12	Process 109 111	脱圧
+T13	Incident 114 117	漏えい

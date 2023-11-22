@@ -1,0 +1,8 @@
+T1	Storage 0 4	重合工場
+T2	Chemical 6 8	触媒
+T3	Storage 6 14	触媒貯蔵 ドラム
+T4	Storage 17 24	ガラス 液面計
+T5	Incident 25 29	ひび割れ
+T6	Product 33 39	塩化 メチル
+T8	Product 45 50	毒性 ガス
+T7	Incident 54 56	漏れ

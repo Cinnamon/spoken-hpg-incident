@@ -1,0 +1,11 @@
+T1	Storage 28 31	冷凍機
+T2	Incident 32 36	異常警報
+T3	Storage 55 58	冷凍機
+T4	Test 72 74	調査
+T5	Product 77 80	フロン
+T6	Storage 81 84	凝縮器
+T7	Chemical 85 88	冷却水
+T8	Incident 90 92	検知
+T9	Incident 97 100	漏えい
+T11	Storage 102 105	冷凍機
+T10	Process 102 107	冷凍機充填

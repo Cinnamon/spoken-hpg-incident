@@ -1,0 +1,39 @@
+T1	Chemical 12 17	ポリブテン
+T2	Storage 12 22	ポリブテン 製造装置
+T3	Storage 33 36	反応器
+T4	Chemical 38 40	触媒
+T6	Process 41 43	失活
+T7	Process 73 75	調整
+T8	Storage 103 106	反応器
+T10	Storage 125 128	冷却器
+T12	Storage 139 142	冷却器
+T13	Product 144 146	冷媒
+T14	Product 148 153	アンモニア
+T9	Product 165 167	冷媒
+T11	Storage 169 172	安全弁
+T15	Incident 173 175	作動
+T16	Product 184 192	アンモニア ガス
+T18	Process 194 196	除外
+T21	Chemical 202 203	水
+T17	Storage 202 209	水シールドラム
+T19	Storage 212 219	ベントスタック
+T22	Chemical 226 228	大気
+T23	Process 229 231	放出
+T24	Storage 253 260	ベントスタック
+T20	Product 281 286	アンモニア
+T25	Incident 281 288	アンモニア 臭
+T26	Storage 302 304	設備
+T27	Incident 308 311	漏えい
+T28	Product 341 343	ガス
+T29	Incident 344 347	漏えい
+T30	Storage 390 393	反応器
+T5	Incident 404 410	温度上昇勾配
+T31	Storage 411 414	安全弁
+T32	Process 414 416	作動
+T33	Storage 418 421	反応器
+T34	Product 445 447	冷媒
+T35	Product 449 454	アンモニア
+T36	Storage 468 471	安全弁
+T37	Incident 472 474	作動
+T38	Chemical 488 490	触媒
+T39	Process 487 494	、触媒失活作業

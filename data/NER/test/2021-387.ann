@@ -1,0 +1,16 @@
+T1	Storage 0 8	球形タンクヤード
+T3	Storage 9 11	配管
+T2	Test 9 13	配管検査
+T5	Test 24 26	検査
+T4	Storage 24 30	検査対象配管
+T7	Product 36 40	プロパン
+T6	Storage 36 46	プロパン 留出ライン
+T9	Product 48 50	ガス
+T8	Incident 48 52	ガス漏洩
+T10	Incident 53 55	陽炎
+T11	Incident 70 72	漏洩
+T12	Process 79 81	脱圧
+T14	Product 82 84	窒素
+T13	Process 82 86	窒素置換
+T15	Product 90 92	ガス
+T16	Incident 93 95	漏洩

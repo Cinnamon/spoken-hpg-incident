@@ -1,0 +1,15 @@
+T1	Incident 18 20	停電
+T14	Storage 26 28	設備
+T2	Chemical 61 67	イソヘキサン
+T3	Process 69 73	循環運転
+T4	Test 98 105	現場パトロール
+T5	Storage 108 111	蒸留塔
+T6	Incident 120 122	臭気
+T8	Product 134 136	ガス
+T7	Test 129 139	ポータブルガス検知器
+T15	Test 146 148	調査
+T9	Storage 155 158	蒸留塔
+T10	Storage 163 166	保温材
+T11	Product 169 174	可燃性ガス
+T13	Chemical 214 220	イソヘキサン
+T12	Process 214 225	イソヘキサン 蒸留工程

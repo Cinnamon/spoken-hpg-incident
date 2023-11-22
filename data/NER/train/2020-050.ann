@@ -1,0 +1,11 @@
+T1	Test 11 15	定期点検
+T2	Product 18 20	冷媒
+T3	Process 38 40	回収
+T4	Process 31 34	充てん
+T5	Process 21 23	回収
+T6	Incident 51 54	漏えい
+T7	Test 69 71	調査
+T8	Storage 75 78	圧縮機
+T9	Storage 79 87	容量制御用電磁弁
+T10	Storage 88 95	取付けフランジ
+T11	Incident 98 101	漏えい

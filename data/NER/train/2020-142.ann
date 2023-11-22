@@ -1,0 +1,10 @@
+T2	Product 26 28	冷媒
+T1	Incident 26 30	冷媒不足
+T3	Incident 33 35	警報
+T4	Test 42 44	点検
+T5	Storage 59 67	室内機冷媒機配管
+T6	Incident 69 71	漏洩
+T8	Product 108 111	フロン
+T7	Process 108 113	フロン回収
+T10	Product 115 118	フロン
+T9	Incident 115 120	フロン漏洩

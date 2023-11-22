@@ -1,0 +1,14 @@
+T1	Product 0 4	オフガス
+T2	Storage 0 8	オフガス回収設備
+T3	Product 9 13	塩化水素
+T4	Storage 9 16	塩化水素蒸留塔
+T5	Storage 21 28	圧力計取付配管
+T6	Storage 29 33	フランジ
+T7	Product 40 42	ガス
+T8	Incident 43 46	漏えい
+T9	Storage 56 60	フランジ
+T10	Storage 65 68	ボルト
+T11	Incident 69 76	締め付けトルク
+T12	Storage 91 96	ガスケット
+T13	Storage 109 114	ガスケット
+T14	Incident 117 123	圧縮復元能力

@@ -1,0 +1,24 @@
+T1	Test 7 12	パトロール
+T3	Product 16 18	EO
+T2	Storage 16 21	EO 貯槽
+T4	Storage 22 27	送液ポンプ
+T5	Storage 28 31	循環弁
+T7	Product 36 38	ガス
+T6	Test 33 41	携帯型ガス検知器
+T8	Incident 58 60	検知
+T9	Incident 42 44	検知
+T11	Product 75 77	ガス
+T10	Incident 75 79	ガス検知
+T12	Incident 93 95	検知
+T13	Product 105 110	EO ガス
+T14	Incident 105 113	EO ガス漏えい
+T15	Test 137 142	パトロール
+T16	Product 167 169	ガス
+T17	Incident 167 171	ガス検知
+T18	Storage 182 191	圧力コントロール弁
+T19	Storage 192 200	グランドパッキン
+T24	Incident 201 204	締付力
+T20	Incident 217 221	圧力変動
+T22	Storage 229 231	ガス
+T21	Test 226 234	携帯型ガス検知器
+T23	Incident 235 237	検知

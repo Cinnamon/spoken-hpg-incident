@@ -1,0 +1,14 @@
+T1	Chemical 0 5	エタノール
+T2	Storage 0 9	エタノール製造装置
+T3	Storage 20 23	加熱炉
+T4	Product 30 37	リサイクルガス
+T5	Storage 37 42	立上り配管
+T6	Incident 45 47	破裂
+T7	Incident 48 50	炎上
+T15	Incident 53 55	破損
+T8	Storage 58 63	立上り配管
+T9	Storage 70 74	ティー管
+T11	Incident 84 85	穴
+T12	Product 91 98	リサイクルガス
+T13	Storage 108 112	ティー管
+T14	Incident 141 154	エロージョン、コロージョン

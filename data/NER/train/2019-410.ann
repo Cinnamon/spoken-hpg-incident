@@ -1,0 +1,36 @@
+T2	Product 7 10	LPG
+T1	Storage 7 12	LPG 船
+T3	Storage 14 17	タンク
+T5	Product 19 23	プロパン
+T4	Process 19 28	プロパン 受け入れ
+T6	Test 44 48	巡回点検
+T7	Incident 49 51	異常
+T8	Incident 62 64	発災
+T9	Storage 80 82	配管
+T11	Product 86 91	プロピレン
+T10	Incident 86 94	プロピレン 漏洩
+T12	Incident 103 105	発災
+T13	Storage 108 111	バルブ
+T14	Storage 116 120	フレアー
+T15	Process 121 123	脱圧
+T16	Storage 128 131	タンク
+T18	Product 134 138	プロパン
+T17	Process 134 141	プロパン 回収
+T19	Incident 160 162	発災
+T21	Product 164 166	ガス
+T20	Test 164 168	ガス検知
+T22	Incident 177 179	漏洩
+T23	Process 181 184	縁切り
+T24	Storage 188 191	仕切板
+T25	Storage 206 208	配管
+T26	Storage 212 215	保冷材
+T27	Chemical 221 223	水分
+T28	Chemical 238 240	水分
+T29	Incident 244 246	結露
+T30	Incident 258 262	外面腐食
+T31	Incident 279 281	穿孔
+T32	Storage 291 295	保冷配管
+T33	Incident 307 309	結露
+T34	Incident 319 323	外面腐食
+T35	Test 350 352	検査
+T36	Process 360 362	保冷

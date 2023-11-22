@@ -1,0 +1,24 @@
+T1	Product 11 13	窒素
+T2	Product 16 18	水素
+T3	Test 21 25	気密試験
+T4	Storage 30 32	装置
+T6	Product 59 67	リサイクル ガス
+T5	Storage 59 75	リサイクル ガス コンプレッサー
+T8	Storage 81 84	加熱炉
+T7	Process 81 86	加熱炉点火
+T9	Process 87 89	昇温
+T11	Product 107 109	水素
+T10	Process 107 117	水素 カードル 加圧
+T12	Incident 126 128	発災
+T14	Storage 133 137	熱交換器
+T15	Incident 138 141	リーク
+T13	Test 133 144	熱交換器 リーク 確認
+T16	Incident 145 147	漏れ
+T17	Storage 157 167	リアクター 出口配管
+T18	Storage 168 171	保温材
+T20	Product 174 176	水素
+T19	Incident 174 178	水素漏洩
+T21	Incident 182 184	発災
+T22	Storage 192 197	サンプル弁
+T23	Incident 214 217	漏洩音
+T24	Incident 218 220	覚知

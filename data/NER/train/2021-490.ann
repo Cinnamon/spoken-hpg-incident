@@ -1,0 +1,34 @@
+T1	Storage 0 5	リアクター
+T2	Chemical 12 18	ポリエチレン
+T3	Process 20 22	製造
+T4	Storage 39 44	高圧分離器
+T5	Storage 46 57	リサイクル高温クーラー
+T6	Storage 60 62	配管
+T7	Incident 69 77	デコンポジション
+T8	Product 79 83	エチレン
+T9	Incident 85 91	自己分解反応
+T10	Storage 101 108	リサイクル配管
+T11	Storage 110 119	ラプチャーディスク
+T12	Storage 121 124	R/D
+T13	Storage 126 131	高圧分離器
+T14	Storage 133 136	R/D
+T15	Incident 144 146	破裂
+T18	Product 166 168	大気
+T16	Storage 166 171	大気放出弁
+T17	Incident 172 173	開
+T19	Incident 177 179	黒煙
+T20	Product 184 191	エチレン ガス
+T21	Incident 192 194	噴出
+T22	Process 195 197	脱圧
+T23	Storage 208 211	R/D
+T24	Storage 215 218	放出管
+T25	Chemical 220 221	水
+T28	Storage 220 224	水抜き穴
+T26	Storage 237 240	R/D
+T27	Incident 237 243	R/D 破裂
+T29	Storage 247 248	穴
+T30	Product 252 259	エチレン ガス
+T31	Incident 260 262	噴出
+T32	Storage 263 268	高圧分離器
+T33	Incident 273 275	着火
+T34	Incident 276 278	火災

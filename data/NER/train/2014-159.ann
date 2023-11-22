@@ -1,0 +1,49 @@
+T1	Chemical 0 8	高級 アルコール
+T2	Storage 0 13	高級 アルコール 製造施設
+T3	Process 18 22	水添工程
+T4	Product 34 36	ガス
+T5	Test 30 40	固定式 ガス 検知器
+T6	Incident 41 43	発報
+T7	Storage 59 72	水添反応器 バイパス 配管
+T8	Product 75 80	水素 ガス
+T9	Incident 82 85	漏えい
+T10	Incident 129 132	漏えい
+T11	Process 140 142	脱圧
+T12	Product 143 145	窒素
+T13	Process 143 149	窒素 パージ
+T14	Product 161 165	残 ガス
+T15	Chemical 168 171	危険物
+T16	Incident 172 175	漏えい
+T17	Product 182 184	ガス
+T18	Test 182 188	ガス 検知器
+T19	Test 196 200	事故調査
+T20	Storage 204 206	配管
+T21	Incident 223 225	腐食
+T22	Storage 237 239	配管
+T23	Incident 245 247	腐食
+T24	Incident 251 254	漏えい
+T25	Storage 268 270	配管
+T26	Incident 275 277	腐食
+T27	Storage 282 284	配管
+T49	Storage 294 296	機器
+T28	Storage 298 305	バイパス 配管
+T30	Storage 338 345	メイン ライン
+T31	Product 361 363	気体
+T32	Product 364 366	水素
+T33	Chemical 367 369	液体
+T34	Chemical 371 376	アルコール
+T35	Chemical 380 385	アルデヒド
+T48	Product 404 406	ガス
+T36	Chemical 399 409	接液、接 ガス 材質
+T37	Chemical 411 422	カーボン スチール 材
+T38	Chemical 463 465	流体
+T39	Incident 466 470	長期滞留
+T40	Chemical 479 485	プロセス 液
+T41	Incident 486 488	分解
+T42	Incident 493 498	腐食性物質
+T43	Chemical 500 506	カルボン 酸
+T44	Incident 514 519	気相溜まり
+T46	Incident 548 553	腐食性物質
+T47	Incident 554 556	濃縮
+T45	Incident 561 563	腐食
+T29	Storage 334 336	配管

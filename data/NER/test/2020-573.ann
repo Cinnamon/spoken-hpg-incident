@@ -1,0 +1,13 @@
+T2	Product 38 42	液化ガス
+T1	Storage 35 44	超低温液化ガス貯槽
+T3	Storage 45 56	コールド、エバポレータ
+T4	Storage 58 62	配管継手
+T5	Storage 74 76	継手
+T6	Storage 112 114	工場
+T7	Storage 100 102	工場
+T8	Storage 126 128	継手
+T9	Product 132 136	窒素ガス
+T10	Incident 137 141	微少漏洩
+T11	Incident 162 164	漏洩
+T12	Storage 167 174	自己融着テープ
+T13	Chemical 180 184	紡織塗料

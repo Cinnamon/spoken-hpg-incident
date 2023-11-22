@@ -1,0 +1,16 @@
+T2	Chemical 0 2	石油
+T1	Storage 0 6	石油化学工場
+T3	Storage 14 18	タンカー
+T4	Product 19 26	液化プロピレン
+T6	Storage 27 28	船
+T5	Process 27 30	船積み
+T7	Storage 34 43	ローディングアーム
+T8	Storage 44 48	タンカー
+T9	Storage 49 51	配管
+T10	Storage 69 78	ローディングアーム
+T11	Storage 89 97	バタフライバルブ
+T12	Storage 98 105	ハンドルレバー
+T13	Storage 112 115	バルブ
+T14	Product 118 123	プロピレン
+T15	Incident 124 126	噴出
+T16	Incident 137 139	凍傷

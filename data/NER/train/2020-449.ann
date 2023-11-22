@@ -1,0 +1,13 @@
+T1	Chemical 16 20	メラミン
+T2	Storage 16 25	メラミン 合成施設
+T3	Storage 39 52	レベル タンク 液面調節弁
+T4	Storage 55 58	保温材
+T5	Incident 64 66	白煙
+T6	Chemical 67 74	メラミン 結晶
+T7	Test 91 93	調査
+T8	Storage 109 112	保温材
+T9	Chemical 124 131	メラミン 結晶
+T10	Storage 136 145	バルブ ボンネット
+T11	Incident 150 153	漏えい
+T12	Storage 169 175	締付 ナット
+T13	Incident 183 186	漏えい

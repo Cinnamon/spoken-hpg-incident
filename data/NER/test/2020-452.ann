@@ -1,0 +1,14 @@
+T1	Test 16 21	パトロール
+T2	Chemical 23 25	尿素
+T3	Storage 23 28	尿素合成塔
+T4	Product 36 41	アンモニア
+T5	Incident 36 43	アンモニア 臭
+T6	Test 53 55	調査
+T7	Storage 70 78	回収液仕込ライン
+T8	Storage 93 96	逆止弁
+T9	Storage 85 88	保温材
+T10	Storage 79 82	逆止弁
+T11	Storage 97 101	フランジ
+T12	Incident 105 108	漏えい
+T13	Storage 126 134	バルブ締付ナット
+T14	Incident 141 144	漏えい

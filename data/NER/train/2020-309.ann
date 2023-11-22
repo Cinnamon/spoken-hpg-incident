@@ -1,0 +1,16 @@
+T2	Product 16 20	高圧ガス
+T1	Storage 16 24	高圧ガス製造施設
+T3	Test 29 34	パトロール
+T4	Storage 36 46	抽出蒸留塔中間予熱器
+T5	Storage 47 52	チャンネル
+T6	Chemical 56 63	アセトニトリル
+T7	Chemical 66 80	ジメチル シリコーン オイル
+T8	Incident 85 88	漏えい
+T9	Storage 89 94	機器保温材
+T10	Incident 96 98	滴下
+T11	Storage 139 143	プラント
+T12	Incident 159 162	漏えい
+T13	Incident 172 174	流出
+T16	Incident 177 181	環境影響
+T14	Incident 184 188	人的被害
+T15	Incident 191 195	物的被害

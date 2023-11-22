@@ -1,0 +1,11 @@
+T1	Storage 0 6	チラー冷凍機
+T2	Storage 7 15	パイロット膨張弁
+T3	Storage 16 24	低圧側ストレーナ
+T5	Chemical 29 30	銅
+T4	Storage 29 38	銅配管フレアナット
+T6	Incident 42 44	結露
+T7	Incident 70 72	漏れ
+T8	Incident 92 94	漏れ
+T10	Chemical 81 82	銅
+T9	Storage 81 83	銅管
+T11	Incident 49 51	漏れ

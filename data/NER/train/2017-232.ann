@@ -1,0 +1,21 @@
+T2	Chemical 14 22	アルコールケトン
+T1	Storage 14 26	アルコールケトン製造施設
+T3	Storage 27 47	熱交換器、 3KE-2A 、本体フランジ
+T4	Incident 50 53	小火災
+T5	Test 104 106	監視
+T6	Storage 112 116	熱交換器
+T7	Storage 140 143	フレア
+T8	Process 145 147	脱圧
+T10	Product 148 150	窒素
+T9	Process 148 153	窒素パージ
+T12	Product 160 162	ガス
+T11	Test 160 165	ガス検知器
+T13	Incident 204 206	火災
+T14	Incident 213 215	火災
+T15	Storage 218 222	熱交換器
+T16	Test 237 239	検査
+T17	Test 255 259	目視検査
+T18	Test 260 264	気密検査
+T19	Storage 267 268	胴
+T20	Storage 269 275	管板フランジ
+T21	Incident 279 282	漏えい

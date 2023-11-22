@@ -1,0 +1,16 @@
+T1	Test 0 7	定期パトロール
+T2	Storage 13 19	常圧蒸留装置
+T3	Storage 20 28	整合塔還流ポンプ
+T4	Storage 29 37	ノンシールポンプ
+T5	Product 41 47	液化石油ガス
+T6	Incident 50 52	漏れ
+T7	Storage 63 69	予備機ポンプ
+T8	Storage 78 81	ポンプ
+T9	Process 82 85	縁切り
+T10	Process 88 90	脱圧
+T11	Incident 92 95	漏えい
+T12	Incident 112 115	漏えい
+T13	Storage 119 122	ポンプ
+T14	Storage 140 144	ライナー
+T15	Incident 145 147	破損
+T16	Test 155 157	調査

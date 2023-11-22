@@ -1,0 +1,5 @@
+T1	Product 6 10	液化窒素
+T2	Storage 6 12	液化窒素貯槽
+T3	Storage 13 18	内槽安全弁
+T4	Product 23 25	ガス
+T5	Incident 26 29	漏えい

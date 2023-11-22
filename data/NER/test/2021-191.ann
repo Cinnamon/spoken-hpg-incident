@@ -1,0 +1,41 @@
+T1	Incident 20 23	漏えい
+T2	Incident 8 11	漏えい
+T3	Process 40 42	反応
+T4	Storage 40 47	反応器出口配管
+T5	Storage 54 57	自動弁
+T6	Storage 58 62	フランジ
+T8	Storage 108 115	自動弁フランジ
+T9	Product 118 123	塩化メチル
+T10	Incident 124 127	漏えい
+T34	Incident 128 130	覚知
+T7	Storage 132 138	前後フランジ
+T12	Incident 153 155	漏れ
+T13	Incident 145 147	漏れ
+T14	Incident 183 185	滴下
+T15	Product 187 192	塩化メチル
+T16	Storage 193 197	出口配管
+T18	Chemical 199 200	水
+T17	Storage 199 202	水受け
+T20	Chemical 226 227	水
+T19	Storage 226 229	水受け
+T21	Product 231 236	塩化メチル
+T22	Chemical 237 241	スチーム
+T23	Process 242 244	拡散
+T24	Incident 255 259	被害拡大
+T25	Storage 275 281	反応器前流弁
+T26	Process 287 290	縁切り
+T27	Storage 301 304	反応器
+T28	Process 309 314	緑切り操作
+T29	Process 361 364	縁切り
+T30	Process 366 368	降圧
+T31	Storage 382 390	反応器上部圧力計
+T33	Incident 396 398	漏れ
+T35	Storage 409 412	反応器
+T32	Process 416 420	回収操作
+T36	Product 422 424	N2
+T37	Process 422 427	N2 注入
+T38	Storage 428 432	後流設備
+T39	Process 433 435	回収
+T41	Storage 445 455	自動弁前後 フランジ
+T40	Test 445 464	自動弁前後 フランジ ソープ チェック
+T42	Incident 466 468	漏れ

@@ -1,0 +1,16 @@
+T1	Storage 0 6	常圧蒸留装置
+T16	Storage 16 18	装置
+T2	Storage 27 29	配管
+T3	Product 31 33	ガス
+T4	Process 31 36	ガス 置換
+T5	Storage 38 40	塔槽
+T6	Storage 41 45	塔底配管
+T7	Storage 46 48	保温
+T8	Product 52 55	ブタン
+T9	Incident 69 72	漏えい
+T10	Incident 94 97	漏えい
+T11	Process 76 80	ブロック
+T12	Process 83 85	脱圧
+T13	Product 88 90	窒素
+T14	Process 88 92	窒素置換
+T15	Incident 57 60	漏えい

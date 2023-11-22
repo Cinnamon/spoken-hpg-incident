@@ -1,0 +1,28 @@
+T2	Product 13 15	ガス
+T3	Test 13 18	ガス検知器
+T4	Incident 19 21	作動
+T5	Storage 43 46	圧縮機
+T6	Storage 47 61	2段 吐出クーラー出口ノズル
+T7	Product 65 69	エチレン
+T8	Incident 71 74	漏えい
+T9	Storage 101 105	プラント
+T10	Storage 131 135	プラント
+T11	Storage 140 143	圧縮機
+T12	Process 144 147	縁切り
+T13	Incident 154 157	漏えい
+T14	Incident 162 167	ピンホール
+T15	Storage 179 182	圧縮機
+T16	Storage 183 192	2段 吐出クーラー
+T17	Incident 194 196	凝縮
+T18	Chemical 201 202	酸
+T19	Chemical 203 204	水
+T20	Incident 207 213	エロージョン
+T21	Incident 214 220	コロージョン
+T22	Incident 224 226	減肉
+T23	Storage 246 249	ノズル
+T24	Test 271 275	肉厚測定
+T29	Storage 283 285	減肉
+T25	Storage 290 295	ノズル直管
+T26	Test 297 301	肉厚測定
+T27	Storage 308 310	曲管
+T28	Incident 312 314	減肉

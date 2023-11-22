@@ -1,0 +1,17 @@
+T16	Chemical 0 2	廃水
+T1	Storage 0 8	廃水燃焼処理設備
+T2	Storage 9 15	焼却炉レンガ
+T17	Process 28 32	乾燥焚き
+T3	Storage 42 46	バーナー
+T4	Incident 47 49	失火
+T5	Process 53 56	再点火
+T6	Storage 70 71	炉
+T7	Product 73 77	未燃ガス
+T8	Process 78 81	バージ
+T9	Process 89 91	着火
+T10	Product 101 105	燃焼ガス
+T11	Process 106 108	噴出
+T12	Incident 112 114	着火
+T13	Incident 120 122	火傷
+T14	Storage 127 133	仮設バーナー
+T15	Storage 137 141	安全装置

@@ -1,0 +1,12 @@
+T1	Test 6 13	現場パトロール
+T3	Product 20 24	炭酸ガス
+T2	Storage 20 27	炭酸ガス圧縮機
+T5	Product 31 33	ガス
+T4	Storage 28 41	吐出側ガスクーラー出口配管
+T6	Storage 42 51	ドレントラップ配管
+T7	Chemical 57 59	水滴
+T8	Storage 72 75	圧縮機
+T12	Storage 90 94	保温外装
+T10	Chemical 100 102	雨水
+T9	Incident 100 104	雨水侵入
+T11	Incident 105 107	腐食

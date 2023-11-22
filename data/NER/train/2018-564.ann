@@ -1,0 +1,24 @@
+T1	Incident 9 11	台風
+T2	Storage 24 29	煙道ダクト
+T4	Product 31 36	LP ガス
+T3	Storage 31 40	LP ガス出荷配管
+T5	Incident 41 43	落下
+T6	Storage 45 48	ベント
+T24	Incident 50 52	折損
+T7	Storage 55 58	ドレン
+T8	Incident 60 62	割れ
+T9	Product 66 71	LP ガス
+T10	Product 73 77	プロパン
+T11	Incident 80 83	漏えい
+T12	Incident 87 89	台風
+T13	Storage 92 97	煙道ダクト
+T15	Product 99 104	LP ガス
+T14	Storage 99 108	LP ガス出荷配管
+T16	Incident 109 111	落下
+T17	Storage 113 116	ベント
+T18	Incident 118 120	折損
+T19	Storage 123 126	ドレン
+T20	Incident 128 130	割れ
+T21	Product 134 139	LP ガス
+T22	Product 141 145	プロパン
+T23	Incident 148 151	漏えい

@@ -1,0 +1,23 @@
+T1	Storage 3 9	接触改質装置
+T2	Storage 10 14	熱交換器
+T5	Storage 16 20	チューブ
+T3	Incident 16 24	チューブ リーク
+T6	Storage 39 45	接触改質装置
+T7	Process 58 61	縁切り
+T8	Storage 73 76	出口弁
+T9	Process 81 85	降圧作業
+T10	Test 93 97	現場巡回
+T11	Process 99 102	縁切り
+T12	Storage 116 119	出口弁
+T13	Storage 121 125	グランド
+T14	Incident 130 133	漏えい
+T15	Storage 146 149	出口弁
+T4	Storage 154 160	バックシート
+T16	Storage 165 169	グランド
+T17	Incident 174 177	漏えい
+T18	Storage 193 197	グランド
+T20	Incident 205 207	再発
+T19	Storage 216 222	接触改質装置
+T21	Storage 243 246	出口弁
+T22	Storage 248 257	グランド パッキン
+T23	Incident 258 260	劣化

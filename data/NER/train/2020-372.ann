@@ -1,0 +1,24 @@
+T1	Chemical 0 6	ポリエチレン
+T2	Storage 0 11	ポリエチレン 製造施設
+T3	Storage 12 17	リアクター
+T4	Chemical 35 41	ポリエチレン
+T5	Process 43 45	製造
+T6	Storage 67 70	温度計
+T7	Storage 71 74	プラグ
+T8	Storage 75 78	熱電対
+T9	Storage 83 87	銀ろう付
+T10	Incident 89 91	折損
+T11	Product 94 98	エチレン
+T12	Chemical 101 107	ポリエチレン
+T13	Incident 109 111	噴出
+T14	Incident 126 129	異常音
+T15	Incident 139 143	振り切れ
+T16	Test 144 151	遠隔監視カメラ
+T17	Incident 153 155	白煙
+T18	Storage 180 186	二次 圧縮機
+T20	Product 190 193	廃ガス
+T19	Storage 190 197	廃ガスホルダー
+T21	Process 199 201	脱圧
+T22	Product 215 219	エチレン
+T23	Chemical 222 228	ポリエチレン
+T24	Incident 230 232	噴出

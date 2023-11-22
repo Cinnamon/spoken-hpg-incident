@@ -1,0 +1,8 @@
+T1	Storage 2 6	出荷設備
+T2	Storage 17 26	スイベルジョイント
+T3	Incident 29 32	漏えい
+T4	Process 38 42	ブロック
+T5	Process 44 47	縁切り
+T6	Incident 49 52	漏えい
+T8	Storage 63 68	可動シール
+T7	Incident 63 73	可動シール部管理不良

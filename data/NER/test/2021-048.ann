@@ -1,0 +1,18 @@
+T1	Chemical 7 13	ポリエチレン
+T2	Storage 7 19	ポリエチレン 中試験装置
+T3	Storage 20 26	付属冷凍設備
+T4	Test 27 37	高圧遮断装置作動検査
+T5	Storage 68 70	配管
+T6	Test 61 63	検査
+T7	Storage 53 55	配管
+T8	Storage 84 88	冷凍設備
+T9	Test 99 101	点検
+T10	Storage 112 116	配管継手
+T11	Product 120 123	フロン
+T12	Incident 120 125	フロン漏れ
+T13	Storage 147 150	フレア
+T14	Incident 152 154	破損
+T15	Storage 180 182	配管
+T16	Incident 183 185	破損
+T17	Product 199 202	フロン
+T18	Incident 206 209	漏えい
