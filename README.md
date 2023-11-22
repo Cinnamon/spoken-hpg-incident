@@ -2,6 +2,8 @@
 
 This dataset is an extension of HPGIncident dataset from [Inoue et al., 2023](https://github.com/Cinnamon/incident-ai-dataset).
 It contains data for three tasks, including Automatic Speech Recognition (ASR), Named Entity Recognition (NER), and Cause-Effect Extraction (CE). 
+The dataset leverage a use case in the gas industry, in which AI systems can assist onsite and offsite workers in making near-miss incident reports effectively.
+A demontration can be found on [our prototype](https://bit.ly/incident-ai-demo).
 
 
 ## Data structure
