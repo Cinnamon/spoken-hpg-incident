@@ -38,7 +38,7 @@ Please contact administration in Cinnamon AI for accessing audio files.
 
 
 ## License
-Our dataset is released under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license.
+Our dataset is released under the [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license](LICENSE).
 
 ## Reference
 If you use this dataset, please cite the following paper:
