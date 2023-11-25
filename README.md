@@ -7,9 +7,6 @@ This dataset is an extension of the HPGIncident dataset from [Inoue et al., 2023
 ```
 data
 ├── ASR
-│   ├── README.md
-│   ├── test.tsv
-│   └── train.tsv
 ├── CE
 │   ├── test
 │   │   ├── 1985-009.ann
@@ -32,8 +29,7 @@ As for NER and CE tasks, each incident report (sample) includes three files
 - `*.id` contains id for corresponding utterances
 - `*.ann` contains annotation in [BRAT](https://brat.nlplab.org/) format.
 
-As for ASR task, the folder `/data/ASR` contains only transciption due to large size of audio data.
-Please contact administrators in Cinnamon AI for accessing audio files.
+As for ASR task, the audio and transcription are located in the [Huggingface Datasets](https://huggingface.co/datasets/cin-model/spoken-HPG-incident)
 
 
 ## License
